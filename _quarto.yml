@@ -3,7 +3,10 @@ project:
 
 website:
   title: "GO FAIR Wiki"
+  repo-url: "https://github.com/gofair-foundation/gofair-wiki"
+  repo-actions: [edit, issue]
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home

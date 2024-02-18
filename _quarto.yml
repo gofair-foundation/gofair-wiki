@@ -10,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: News
+        href: docs/news/index.qmd
       - about.qmd
 
 format:

@@ -23,6 +23,6 @@ about:
 
 ---
 
-This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). Copyright statement. The source files of these pages can be found on [Github](https://github.com/gofair-foundation/gofair-wiki).
+The GO FAIR Wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). Copyright statement. The source files of these pages can be found on [Github](https://github.com/gofair-foundation/gofair-wiki).
 
 This website was built with [Quarto](https://quarto.org/) and rendered with [Github Pages](https://pages.github.com/).

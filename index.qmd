@@ -1,11 +1,27 @@
 ---
 title: "GO FAIR Wiki"
+image: docs/img/GFF_website 1000ppi.webp
+page-layout: full
+
+about:
+  template: trestles
+  image-width: 10em
+  links:
+    - icon: website
+      text: Website
+      href: https://www.gofair.foundation/
+    - icon: email
+      text: Email
+      href: mailto:info@gofair.foundation
+    - icon: github
+      text: Github
+      href: https://github.com/gofair-foundation
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/go-fair-foundation/about/
+
 ---
 
-This is a Quarto website.
+The GO FAIR Wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). Copyright statement. The source files of these pages can be found on [Github](https://github.com/gofair-foundation/gofair-wiki).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This website was built with [Quarto](https://quarto.org/) and rendered with [Github Pages](https://pages.github.com/).

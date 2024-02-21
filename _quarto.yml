@@ -8,6 +8,14 @@ website:
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
+  page-footer:
+    left: |
+        [GO FAIR Foundation](https://www.gofair.foundation/)
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
   announcement: 
     content: "This website is under construction"
     position: below-navbar
@@ -16,13 +24,13 @@ website:
     title: false
     search: true
     left:
+      
       - text: Overview
         href: index.qmd
       - text: "Guide"
         href: docs/guide/index.qmd
       - text: News
         href: docs/news/index.qmd
-      - about.qmd
 
 format:
   html:

@@ -1,0 +1,18 @@
+
+- title: FAIR Implementation Profiles
+  subtitle: FIP Wizard User Guide
+  links:
+    - text: Overview
+      href: ../fip/index.qmd
+
+- title: Nanopublications
+  subtitle: Nanopublications ..
+  links:
+    - text: Overview
+      href: ../np/index.qmd
+
+- title: Semantic Implementation Profiles
+  subtitle: SIP Wizard User Guide
+  links:
+    - text: Overview
+      href: ../sip/index.qmd

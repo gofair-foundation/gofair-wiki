@@ -1,1 +1,14 @@
+---
+title: "Guide"
+subtitle: Comprehensive guide to FAIR data.
+page-layout: article
+anchor-sections: false
+search: false
+listing:
+  id: guide-links
+  template: ../../ejs/links.ejs
+  contents: guide.yml
+---
 
+::: {#guide-links .column-screen-inset-right style="max-width: 850px;"}
+:::

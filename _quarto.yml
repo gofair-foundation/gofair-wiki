@@ -1,15 +1,25 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "GO FAIR Wiki"
   repo-url: "https://github.com/gofair-foundation/gofair-wiki"
   repo-actions: [edit, issue]
+  page-navigation: true
+  bread-crumbs: true
+  announcement: 
+    content: "This website is under construction"
+    position: below-navbar
   navbar:
+    background: light
+    title: false
     search: true
     left:
-      - href: index.qmd
-        text: Home
+      - text: Overview
+        href: index.qmd
+      - text: "Guide"
+        href: docs/guide/index.qmd
       - text: News
         href: docs/news/index.qmd
       - about.qmd

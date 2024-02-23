@@ -2,17 +2,29 @@
 - title: FAIR Implementation Profiles
   subtitle: FIP Wizard User Guide
   links:
-    - text: Overview
-      href: ../fip/index.qmd
+    - text: Introduction
+      href: ../fip/temp.qmd
 
 - title: Nanopublications
   subtitle: Nanopublications ..
   links:
-    - text: Overview
-      href: ../np/index.qmd
+    - text: Introduction
+      href: ../np/temp.qmd
 
 - title: Semantic Interoperability Profiles
   subtitle: SIP Wizard User Guide
   links:
+    - text: Background
+    - href: docs/sip/background.qmd
     - text: Overview
-      href: ../sip/index.qmd
+    - href: docs/sip/overview.qmd
+    - text: Getting started
+    - href: docs/sip/getting-started.qmd
+    - text: Completing questionnaire
+    - href: docs/sip/completing-questionnaire.qmd
+    - text: Minting nanopublications
+    - href: docs/sip/minting-nanopublications.qmd
+    - text: Publishing
+    - href: docs/sip/publishing.qmd
+    - text: Revising
+    - href: docs/sip/revising.qmd

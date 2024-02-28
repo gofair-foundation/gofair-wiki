@@ -1,24 +1,80 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "GO FAIR Wiki"
   repo-url: "https://github.com/gofair-foundation/gofair-wiki"
   repo-actions: [edit, issue]
+  page-navigation: true
+  
+#  bread-crumbs: true
+  
+  page-footer:
+    left: |
+        [GO FAIR Foundation](https://www.gofair.foundation/)
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+        
+#  announcement: 
+#    content: "This website is under construction"
+#    position: below-navbar
+
   navbar:
+    background: light
+    title: false
     search: true
     left:
-      - href: index.qmd
-        text: Home
+      
+      - text: Home
+        href: index.qmd
+      - text: Guide
+        href: docs/guide/index.qmd
       - text: News
         href: docs/news/index.qmd
-      - about.qmd
-
+        
+  sidebar:
+    - id: guide
+      collapse-level: 1
+      contents:
+        - section: "Guide"
+#          href: docs/guide/index.qmd
+          contents:
+          - section: "FIP Wizard Guide"
+            contents:
+            - text: Introduction
+            - href: docs/fip/temp.qmd
+          - section: "Nanopublications"
+            contents:
+            - text: Introduction
+            - href: docs/np/temp.qmd
+          - section: "SIP Wizard Guide"
+            contents:
+            - text: Background
+            - href: docs/sip/background.qmd
+            - text: Overview
+            - href: docs/sip/overview.qmd
+            - text: Getting started
+            - href: docs/sip/getting-started.qmd
+            - text: Completing questionnaire
+            - href: docs/sip/completing-questionnaire.qmd
+            - text: Minting nanopublications
+            - href: docs/sip/minting-nanopublications.qmd
+            - text: Publishing
+            - href: docs/sip/publishing.qmd
+            - text: Revising
+            - href: docs/sip/revising.qmd
+            
+execute:
+  freeze: auto
+  
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
 
 

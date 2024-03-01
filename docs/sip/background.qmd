@@ -1,3 +1,11 @@
+---
+authors:
+  - name: Barbara Magagna
+    orcid: 0000-0003-2195-3997
+  - name: Erik Schultes
+    orcid: 0000-0001-8888-635X
+---
+
 # Background
 
 A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as  FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, "how to" overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see @Schultes2020.

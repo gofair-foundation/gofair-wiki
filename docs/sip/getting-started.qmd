@@ -1,4 +1,4 @@
 ---
-title: "getting-started.qmd"
+title: "Getting Started"
 editor: visual
 ---

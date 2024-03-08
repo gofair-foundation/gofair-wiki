@@ -4,6 +4,7 @@ project:
 
 website:
   title: "GO FAIR Wiki"
+  image: docs/img/GGF_checkmark.png
   repo-url: "https://github.com/gofair-foundation/gofair-wiki"
   repo-actions: [edit, issue]
   page-navigation: true

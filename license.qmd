@@ -1,5 +1,6 @@
 ---
-title: "License"
+title: "CC BY 4.0"
+
 ---
 
-About the license
+[CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode.en)

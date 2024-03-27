@@ -37,6 +37,8 @@ website:
         href: docs/guide/index.qmd
       - text: News
         href: docs/news/index.qmd
+      - text: FAIR Connect
+        href: docs/fair-connect/fair-connect.qmd
         
   sidebar:
     - id: guide
@@ -45,13 +47,13 @@ website:
         - section: "Guide"
           href: docs/guide/index.qmd
           contents:
-          - section: "FIP Wizard"
+          - section: "FIP Wizard User Guide"
             contents:
               - docs/fip/index.qmd
           - section: "Nanopublications"
             contents:
               - docs/np/index.qmd
-          - section: "SIP Wizard"
+          - section: "SIP Wizard User Guide"
             contents:
               - docs/sip/background.qmd
               - docs/sip/overview.qmd
@@ -60,6 +62,11 @@ website:
               - docs/sip/minting-nanopublications.qmd
               - docs/sip/publishing.qmd
               - docs/sip/revising.qmd
+      - id: fair-connect
+        collapse-level: 1
+        contents:
+        - section: "FAIR Connect"
+          href: docs/fair-connect/fair-connect.md
             
 execute:
   freeze: auto

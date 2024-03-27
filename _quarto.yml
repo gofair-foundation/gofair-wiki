@@ -19,6 +19,8 @@ website:
     center:
       - text: "About"
         href: about.qmd
+      - text: "Contributing"
+        href: contributing.qmd
       - text: "License"
         href: license.qmd
         

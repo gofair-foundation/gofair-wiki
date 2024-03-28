@@ -70,11 +70,11 @@ website:
               - docs/sip/minting-nanopublications.qmd
               - docs/sip/publishing.qmd
               - docs/sip/revising.qmd
-      - id: fair-connect
-        collapse-level: 1
-        contents:
-        - section: "FAIR Connect"
-          href: docs/fair-connect/fair-connect.md
+    - id: fair-connect
+      collapse-level: 1
+      contents:
+      - section: "FAIR Connect"
+        href: docs/fair-connect/fair-connect.md
             
 execute:
   freeze: auto

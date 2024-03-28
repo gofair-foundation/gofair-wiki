@@ -47,7 +47,13 @@ website:
           contents:
           - section: "FIP Wizard"
             contents:
-              - docs/fip/index.qmd
+              - docs/sip/background.qmd
+              - docs/sip/overview.qmd
+              - docs/sip/getting-started.qmd
+              - docs/sip/completing-questionnaire.qmd
+              - docs/sip/minting-nanopublications.qmd
+              - docs/sip/publishing.qmd
+              - docs/sip/revising.qmd
           - section: "Nanopublications"
             contents:
               - docs/np/index.qmd

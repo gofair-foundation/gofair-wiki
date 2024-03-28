@@ -1,0 +1,65 @@
+---
+title: "progress report Lorentz Workshop ’The Road to FAIR and Equitable Science'"
+categories:
+  - FAIR and Equitable Science
+  - LIFES
+author: 
+  - name: Barend Mons
+    orcid: 0000-0003-3934-0072
+date: 3/22/2024
+---
+
+Dear participant of the Lorentz Workshop ’The Road to FAIR and Equitable Science’,
+
+After six on-line meetings with small groups of ‘editors’, please find my progress report on the post conference actions to determine the desired output, roughly referred to before as the ‘white paper’ or the ‘roadmap document’. The slide presentation below (which is the main thing to review) describes the progressive thinking and discussion-outcomes with the editors in the past few weeks.
+
+[White paper](https://www.dropbox.com/scl/fi/3q5xcezd9n2gb8evczpxz/Lorentz-white-paper.pdf?rlkey=vxvhbggckwv5rsmfh70xkbb5h&dl=0) issues Discussion with editors 
+
+The presentation has also been added to the [Lorentz mothership document](https://bit.ly/fairmothership) including the active working document with notes from the editors.
+
+The essence of the outcome of the sessions with the editors is summarised on the last slide:
+
+![Working Draft of the Roadmap towards FAIR and Equitable Science](working-draft-roadmap.png)
+
+ 
+
+It was decided that even the bullet point collection is already far too long to read for any ‘outsider’ who was not at the meeting.  So the ‘white paper’ will largely act as a reference for ‘internal use’ and parts of it may find their way into other narrative publications.  
+
+This decision was also inspired by the multiple positive reactions for the follow up meetings (including some sponsoring of these) in different locations. 
+
+Thus, instead of all working together on one single document, we have decided it is better to structure the outcomes of the conference and then use this as input to create fit-for-purpose focused outputs including texts, slides and videos. For this purpose I have created a draft mind-map which is based on the detailed topics listed in the working document. You can of course read the matrix, the mind map and all other materials and add/comment if anything was forgotten or is wrongly represented, but the documents are hardly more than lists of topics described in the slides of the presenters and panelists on the Friday meeting. 
+
+More important is to focus on the process and next steps where ‘authors’ can make a contribution. We suggest the following process:
+
+Editors can ’self-organise’ (for instance with the members/anchors of your main WG) to pick ‘areas in the graph’ to make a focused and targeted output on.
+Please keep me in the loop of these initiatives so I can coordinate the proposed efforts in order to get optimal synergy and avoid unnecessary duplication. So, once you have organised a ‘creator’ group for a topic of your main interest, please let me know and I will follow up.
+The targeted and focused outputs could be anything between short texts, knowledge graphs (parts of the larger one), slide presentations and video’s. These should be really having a ‘roadmap’ character. Suggested broad format is: ’status quo, where to go, how to move the needle’.
+We have experimented a bit with using LLMs to create textual outputs. The example texts in the slides are from an earlier version of the mind map so please do not spend too much time on them, they are just examples, where ‘feeding a non-FAIR slide’ can already lead to. Arie and I (maybe Luiz and others who have tools and interest) will now work on a better textual output and share a version with you soon. We will keep you in the loop on this. 
+ 
+With kindest regards (form the FDOF conference in Berlin),
+
+Barend
+
+ 
+Prof. dr. Barend Mons
+LUMC & LACDR
+Scientific Director GO FAIR Foundation
+Past-President of CODATA (2023-2027)
+Founding director of LIFES
+
+ZOOM: 
+https://zoom.us/j/91982137133
+Pw: 79779
+
+Visiting address: 
+1st floor Poortgebouw-Noord, room 050F
+Rijnsburgerweg 10
+2333 AA Leiden
+The Netherlands
+
+E-mail: barend@gofair.foundation
+Mobile: +31 6 24879779
+Skype: dnerab
+Website: https://www.gofair.foundation
+ORCID: 0000-0003-3934-0072
+

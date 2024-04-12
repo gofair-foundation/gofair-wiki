@@ -2,7 +2,7 @@
 - title: FAIR Implementation Profiles
   subtitle: FIP Wizard User Guide
   links:
-    - text: Introduction
+    - text: Overview
       href: ../fip/index.qmd
 
 - title: Nanopublications

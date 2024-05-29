@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>GO FAIR Wiki</title>
+<link>https://gofair-foundation.github.io/gofair-wiki/docs/news/</link>
+<atom:link href="https://gofair-foundation.github.io/gofair-wiki/docs/news/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://gofair-foundation.github.io/gofair-wiki/docs/img/GGF_checkmark.png</url>
+<title>GO FAIR Wiki</title>
+<link>https://gofair-foundation.github.io/gofair-wiki/docs/news/</link>
+</image>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Wed, 29 May 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>LIFES</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/lifes.png" class="img-fluid figure-img"></p>
+<figcaption>Leiden Institute for FAIR and Equitable Science</figcaption>
+</figure>
+</div>
+<hr>
+<p>The Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found <a href="https://www.gofair.foundation/lifes">here</a> on the GO FAIR Foundation website.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</guid>
+  <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FIP Wizard Important Updates</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-fip-wizard-update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-fip-wizard-update/dsw.png" class="img-fluid figure-img"></p>
+<figcaption>DSW</figcaption>
+</figure>
+</div>
+<hr>
+<p>We have made a substantial update of the <a href="https://fip-wizard.ds-wizard.org/">FIP Wizard</a> environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:</p>
+<ul>
+<li>for FAIR Implementation Profile projects to FIP Wizard 4</li>
+<li>for FAIR Enabling Resource projects switch to FAIR Enabling Resource 2</li>
+</ul>
+<p>Thank you for your attention!</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-fip-wizard-update/</guid>
+  <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New nanodash platform</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-nanodash-update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="head" class="level2">
+<h2 class="anchored" data-anchor-id="head">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</h2>
+<p>======= There exists now a new nanodash platform: <a href="https://nanodash.knowledgepixels.com/" class="uri">https://nanodash.knowledgepixels.com/</a>. For this platform you also need to make a new introduction nanopub (Go to <a href="https://nanodash.knowledgepixels.com/profile" class="uri">https://nanodash.knowledgepixels.com/profile</a> and do the <strong>Recommended Actions</strong>). Please send the nanopub URI to me (@mabablue) in <a href="https://meet.gofair.foundation/">MatterMost</a> so that I can approve it.<br>
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 934babad1d6a8805490320c981c865cf6028d782</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-nanodash-update/nanodash.png" class="img-fluid figure-img"></p>
+<figcaption>Nanodash</figcaption>
+</figure>
+</div>
+<hr>
+<p>There exists now a new nanodash platform: <a href="https://nanodash.knowledgepixels.com/" class="uri">https://nanodash.knowledgepixels.com/</a>. For this platform you also need to make a new introduction nanopub (Go to <a href="https://nanodash.knowledgepixels.com/profile" class="uri">https://nanodash.knowledgepixels.com/profile</a> and do the <strong>Recommended Actions</strong>). Please send the nanopub URI to me (<span class="citation" data-cites="mabablue">(<strong>mabablue?</strong>)</span>) in <a href="https://meet.gofair.foundation/">MatterMost</a> so that I can approve it.</p>
+<p>Disapprovals, retractions and qualifications are linked to the nanopub key that will be put into the list of facilitators in this <a href="https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/fairconnect-api&amp;op=/facilitators&amp;autosubmit=on">API</a>. Then everything will work again.</p>
+<hr>
+
+
+</section>
+
+ ]]></description>
+  <category>nanodash</category>
+  <category>nano publications</category>
+  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-nanodash-update/</guid>
+  <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

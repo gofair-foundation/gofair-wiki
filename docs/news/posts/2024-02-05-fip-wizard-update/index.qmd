@@ -8,9 +8,17 @@ author:
 date: 2/5/2024
 ---
 
+------------------------------------------------------------------------
+
+![DSW](dsw.png)
+
+------------------------------------------------------------------------
+
 We have made a substantial update of the [FIP Wizard](https://fip-wizard.ds-wizard.org/) environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:
 
-* for FAIR Implementation Profile projects to FIP Wizard 4
-* for FAIR Enabling Resource projects switch to FAIR Enabling Resource 2
+-   for FAIR Implementation Profile projects to FIP Wizard 4
+-   for FAIR Enabling Resource projects switch to FAIR Enabling Resource 2
 
 Thank you for your attention!
+
+------------------------------------------------------------------------

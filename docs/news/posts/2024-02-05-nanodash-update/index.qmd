@@ -9,6 +9,14 @@ author:
 date: 2/5/2024
 ---
 
-There exists now a new nanodash platform: <https://nanodash.knowledgepixels.com/>. For this platform you also need to make a new introduction nanopub (Go to <https://nanodash.knowledgepixels.com/profile> and do the **Recommended Actions**). Please send the nanopub URI to me (@mabablue) in [MatterMost](https://meet.gofair.foundation/) so that I can approve it.  
+------------------------------------------------------------------------
+
+![Nanodash](nanodash.png)
+
+------------------------------------------------------------------------
+
+There exists now a new nanodash platform: <https://nanodash.knowledgepixels.com/>. For this platform you also need to make a new introduction nanopub (Go to <https://nanodash.knowledgepixels.com/profile> and do the **Recommended Actions**). Please send the nanopub URI to me (@mabablue) in [MatterMost](https://meet.gofair.foundation/) so that I can approve it.
 
 Disapprovals, retractions and qualifications are linked to the nanopub key that will be put into the list of facilitators in this [API](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/fairconnect-api&op=/facilitators&autosubmit=on). Then everything will work again.
+
+------------------------------------------------------------------------

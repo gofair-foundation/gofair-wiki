@@ -13,20 +13,16 @@ website:
 #
 #
   
-  page-footer:
-    left: |
-        [GO FAIR Foundation](https://www.gofair.foundation/)
-    center:
-      - text: "About"
-        href: about.qmd
-      - text: "Contributing"
-        href: contributing.qmd
-      - text: "License"
-        href: license.qmd
-        
+#  page-footer:
+#    left: |
+#        [GO FAIR Foundation](https://www.gofair.foundation/)
+#    center:
+#
+
 #  announcement: 
 #    content: "This website is under construction"
 #    position: below-navbar
+#
 
   navbar:
     background: light
@@ -35,12 +31,18 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: About
+        href: about.qmd
       - text: Guide
         href: docs/guide/index.qmd
       - text: News
         href: docs/news/index.qmd
       - text: FAIR Connect
         href: docs/fair-connect/fair-connect.qmd
+      - text: Contributing
+        href: contributing.qmd
+      - text: License
+        href: license.qmd
         
   sidebar:
     - id: guide

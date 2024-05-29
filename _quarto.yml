@@ -4,24 +4,25 @@ project:
 
 website:
   title: "GO FAIR Wiki"
+  image: docs/img/GGF_checkmark.png
   repo-url: "https://github.com/gofair-foundation/gofair-wiki"
   repo-actions: [edit, issue]
   page-navigation: true
   
 #  bread-crumbs: true
+#
+#
   
-  page-footer:
-    left: |
-        [GO FAIR Foundation](https://www.gofair.foundation/)
-    center:
-      - text: "About"
-        href: about.qmd
-      - text: "License"
-        href: license.qmd
-        
+#  page-footer:
+#    left: |
+#        [GO FAIR Foundation](https://www.gofair.foundation/)
+#    center:
+#
+
 #  announcement: 
 #    content: "This website is under construction"
 #    position: below-navbar
+#
 
   navbar:
     background: light
@@ -30,10 +31,18 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: About
+        href: about.qmd
       - text: Guide
         href: docs/guide/index.qmd
       - text: News
         href: docs/news/index.qmd
+      - text: FAIR Connect
+        href: docs/fair-connect/fair-connect.qmd
+      - text: Contributing
+        href: contributing.qmd
+      - text: License
+        href: license.qmd
         
   sidebar:
     - id: guide
@@ -42,13 +51,7 @@ website:
         - section: "Guide"
           href: docs/guide/index.qmd
           contents:
-          - section: "FIP Wizard"
-            contents:
-              - docs/fip/index.qmd
-          - section: "Nanopublications"
-            contents:
-              - docs/np/index.qmd
-          - section: "SIP Wizard"
+          - section: "FIP Wizard User Guide"
             contents:
               - docs/sip/background.qmd
               - docs/sip/overview.qmd
@@ -57,6 +60,23 @@ website:
               - docs/sip/minting-nanopublications.qmd
               - docs/sip/publishing.qmd
               - docs/sip/revising.qmd
+          - section: "Nanopublications"
+            contents:
+              - docs/np/index.qmd
+          - section: "SIP Wizard User Guide"
+            contents:
+              - docs/sip/background.qmd
+              - docs/sip/overview.qmd
+              - docs/sip/getting-started.qmd
+              - docs/sip/completing-questionnaire.qmd
+              - docs/sip/minting-nanopublications.qmd
+              - docs/sip/publishing.qmd
+              - docs/sip/revising.qmd
+    - id: fair-connect
+      collapse-level: 1
+      contents:
+      - section: "FAIR Connect"
+        href: docs/fair-connect/fair-connect.md
             
 execute:
   freeze: auto

@@ -1,0 +1,20 @@
+---
+title: "LIFES"
+categories:
+  - FAIR and Equitable Science
+  - LIFES
+author: 
+  - name: Norbert van Dijk
+    orcid: 0009-0003-5409-652X
+date: 5/29/2024
+---
+
+------------------------------------------------------------------------
+
+![Leiden Institute for FAIR and Equitable Science](lifes.png)
+
+------------------------------------------------------------------------
+
+The Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found [here](https://www.gofair.foundation/lifes) on the GO FAIR Foundation website.
+
+------------------------------------------------------------------------

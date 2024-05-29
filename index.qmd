@@ -1,11 +1,10 @@
 ---
-title: "GO FAIR Wiki"
-image: docs/img/GFF_website 1000ppi.webp
+title: ""
 page-layout: full
-
 about:
   template: trestles
-  image-width: 10em
+  image: docs/img/GFF_website 1000ppi.webp
+  image-width: 20em
   links:
     - icon: website
       text: Website
@@ -19,9 +18,27 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/company/go-fair-foundation/about/
-
+  
+listing: 
+  id: latest-posts
+  contents: docs/news/posts 
+  type: default 
+  sort: "date desc" 
+  max-items: 4
+  categories: false 
 ---
 
-The GO FAIR Wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). Copyright statement. The source files of these pages can be found on [Github](https://github.com/gofair-foundation/gofair-wiki).
+**Wiki**
+
+This GO FAIR **wiki** is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still **under construction**. This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). The source files of this website can be found on [Github](https://github.com/gofair-foundation/gofair-wiki).
+
+------------------------------------------------------------------------
+
+**Latest news**
+
+::: {#latest-posts}
+:::
+
+------------------------------------------------------------------------
 
 This website was built with [Quarto](https://quarto.org/) and rendered with [Github Pages](https://pages.github.com/).

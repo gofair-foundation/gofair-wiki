@@ -5,25 +5,13 @@
     - text: Overview
       href: ../fip/index.qmd
 
-- title: Nanopublications
-  links:
-    - text: Introduction
-      href: ../np/index.qmd
+#- title: Nanopublications
+#  links:
+#    - text: Introduction
+#      href: ../np/index.qmd
 
 - title: Semantic Interoperability Profiles
   subtitle: SIP Wizard User Guide
   links:
     - text: Background
       href: ../sip/background.qmd
-    - text: Overview
-      href: ../sip/overview.qmd
-    - text: Getting started
-      href: ../sip/getting-started.qmd
-    - text: Completing questionnaire
-      href: ../sip/completing-questionnaire.qmd
-    - text: Minting nanopublications
-      href: ../sip/minting-nanopublications.qmd
-    - text: Publishing
-      href: ../sip/publishing.qmd
-    - text: Revising
-      href: ../sip/revising.qmd

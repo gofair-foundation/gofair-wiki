@@ -78,18 +78,6 @@
     ]
   },
   {
-    "objectID": "docs/sip/getting-started.html",
-    "href": "docs/sip/getting-started.html",
-    "title": "Getting started with the SIP Wizard 4.0",
-    "section": "",
-    "text": "Getting started with the SIP Wizard 4.0\n\nGo to https://sip-wizard.ds-wizard.org: log in or sign up.\nClick Projects (a folder icon in the menu bar on the left) (1).\n\n\n\nYou will see a long list of projects on the right (2). SIPs are projects in the SIP Wizard and are normally named by the community that composed them.\n\n\n\nYou can create SIPs either from scratch or by cloning an existing SIP, and revising it.\n\nClone and adapt the SIP project - By default, you can see only projects you created. To see all projects click on the button where you can see your name and click ‘Clear selection’ (3).\n\n\nLocate your reference SIP in the list.\nIf the SIP has an orange annotation ‘update available’ click on the three dots on the right (4).\n\n\n\nSelect Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model.\nThen click again on the three dots and select Clone (5).\n\n\n\nThis will bring you to the SIP questionnaire. To change the name of the SIP you need to go to Settings (6). You can now start to work with the SIP Wizard questionnaire, and modify the previous FIP declarations (see below). ```\n\n\nMake a new SIP\n\nClick Create (blue button on the top menu bar) (7).\n\n\n\nYou’ll see Create Project - this dialog box will launch your new SIP (8).\n\n\n\nSelect the tab: From Project Template\nEnter a name for your FIP: We recommend [Community acronym] SIP (for better findability avoid using ‘_’ in the name)\nAdd a short description of the FIP\nSelect the SIP template from the drop-down list You’ll see different - select Semantic Interoperability Profile\nLater, when minting nanopublications, you’ll use the other templates for defining:\nA FAIR Implementation Community (FIC)\nA FAIR Supporting Resource from FAIRsharing\nA FAIR Supporting Resource (FSR)\nClick Save. This will bring you to the SIP questionnaire. You can now start to work with the FIP Wizard questionnaire, and make FIP declarations (see below).\n\nPrincipally there should be one and only one person who acts as a data steward for the community and enters all answers. However, in most cases the answers will need to be agreed upon by an expert team of that community. By clicking on the Share button on the top right you can provide editing or viewing rights for your colleagues (9).",
-    "crumbs": [
-      "Guide",
-      "SIP Wizard User Guide",
-      "Getting started with the SIP Wizard 4.0"
-    ]
-  },
-  {
     "objectID": "docs/news/posts/2024-05-29-lifes-update/index.html",
     "href": "docs/news/posts/2024-05-29-lifes-update/index.html",
     "title": "LIFES",

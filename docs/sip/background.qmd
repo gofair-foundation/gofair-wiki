@@ -1,0 +1,27 @@
+# Background
+
+Semantic interoperability (SI) is at the heart of the FAIR principles and of the design of large scale cross disciplinary infrastructures. The European Open Science Cloud (EOSC) is a European-wide effort towards such an infrastructure. The EOSC Semantic Interoperability Task Force is focusing on recommendations for SI (EOSC SI Task Force) with the ambition to converge on globally relevant and scalable SI solutions for EOSC.
+
+Taking into account new developments and ongoing efforts in the field, we want to interview semantic or data management experts involved in cluster projects, EOSC projects, or research infrastructures. With this interview series, we do not claim to be able to provide a statistically relevant base but rather aim at a qualitative, in-depth analysis of the implementation landscape across communities. By providing the answers to the survey you will contribute to a collectively created knowledge base. As this is not a usual survey but a collective kind of editing process we need you to claim ownership about your contributions and, hence, answers are not anonymized. This survey was preceded by a first test run during the summer period 2023 (July and August) to get feedback from interviewees about the questionnaire, which included only questions requiring text-based answers. The current survey is based on the [FIP ontology](https://w3id.org/fair/fip/) resulting in machine-readable output from the answers provided.
+
+Based on the answers given by the interviewees in the first run, i.e. the FAIR Supporting Resources (FSRs) like metadata schemas or semantic artifacts used by communities, the team created machine and human-readable nanopublications that can then be reused in the questionnaire. Additionally, the analysis of the survey will lead to recommendations for projects like FAIRCORE4EOSC and FAIR-Impact on how to implement SI in practice. Find more information about the task force activity in this [publication](https://doi.org/10.5281/zenodo.8102786).
+
+We would like to invite you to **complete the survey together with the interviewer**. We expect answering all questions in the consultation should take around 60 minutes.
+
+Please be aware that you will be asked specific questions in these two sections:
+
+-   General information: In this first chapter you will describe the focus of the targeted data for which you provide more details in the follow up section
+-   Details on semantic interoperability: Here you are supposed to provide insights into challenges and solutions in the use of combined datasets.
+
+**If your community provides data of a different digital object type and semantic interoperable case study we ask you to clone this project and modify it** only where needed in order to make your answers unambiguous.
+
+We thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: fipadmin\@gofair.foundation.
+
+DISCLAIMER
+
+The Task Force will share publicly the responses and comments obtained. Authorship is acknowledged by your ORCID used in the nanopublication provenance.
+
+The European Commission is not responsible for the content of questionnaires created using the EUSurvey service - it remains the sole responsibility of the form creator and manager. The use of EUSurvey service does not imply a recommendation or endorsement, by the European Commission, of the views expressed within them.
+
+Hence, this user guide is designed to complement the SIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the [DSW User Guide](https://guide.ds-wizard.org).
+

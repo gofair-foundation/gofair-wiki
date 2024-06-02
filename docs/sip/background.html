@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>GO FAIR Wiki - News</title>
+<title>GO FAIR Wiki</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-listing/list.min.js"></script>
-<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,68 +66,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
-<link rel="alternate" type="application/rss+xml" title="GO FAIR Wiki" href="index.xml" data-external="1"></head>
+</head>
 
 <body class="nav-fixed">
 
@@ -156,7 +96,7 @@ window.Quarto = {
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../../docs/news/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../docs/news/index.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
@@ -179,151 +119,46 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="FAIR and Equitable Science">FAIR and Equitable Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="FIP Wizard">FIP Wizard <span class="quarto-category-count">(1)</span></div><div class="category" data-category="LIFES">LIFES <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nano publications">nano publications <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nanodash">nanodash <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/gofair-foundation/gofair-wiki/edit/main/docs/sip/background.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gofair-foundation/gofair-wiki/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">News</h1>
-<p class="subtitle lead">GO FAIR Wiki announcements and news</p>
-</div>
-
-
-
-<div class="quarto-title-meta column-page-left">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
+<main class="content" id="quarto-document-content">
 
 
 
 
+<section id="background" class="level1">
+<h1>Background</h1>
+<p>Semantic interoperability (SI) is at the heart of the FAIR principles and of the design of large scale cross disciplinary infrastructures. The European Open Science Cloud (EOSC) is a European-wide effort towards such an infrastructure. The EOSC Semantic Interoperability Task Force is focusing on recommendations for SI (EOSC SI Task Force) with the ambition to converge on globally relevant and scalable SI solutions for EOSC.</p>
+<p>Taking into account new developments and ongoing efforts in the field, we want to interview semantic or data management experts involved in cluster projects, EOSC projects, or research infrastructures. With this interview series, we do not claim to be able to provide a statistically relevant base but rather aim at a qualitative, in-depth analysis of the implementation landscape across communities. By providing the answers to the survey you will contribute to a collectively created knowledge base. As this is not a usual survey but a collective kind of editing process we need you to claim ownership about your contributions and, hence, answers are not anonymized. This survey was preceded by a first test run during the summer period 2023 (July and August) to get feedback from interviewees about the questionnaire, which included only questions requiring text-based answers. The current survey is based on the <a href="https://w3id.org/fair/fip/">FIP ontology</a> resulting in machine-readable output from the answers provided.</p>
+<p>Based on the answers given by the interviewees in the first run, i.e.&nbsp;the FAIR Supporting Resources (FSRs) like metadata schemas or semantic artifacts used by communities, the team created machine and human-readable nanopublications that can then be reused in the questionnaire. Additionally, the analysis of the survey will lead to recommendations for projects like FAIRCORE4EOSC and FAIR-Impact on how to implement SI in practice. Find more information about the task force activity in this <a href="https://doi.org/10.5281/zenodo.8102786">publication</a>.</p>
+<p>We would like to invite you to <strong>complete the survey together with the interviewer</strong>. We expect answering all questions in the consultation should take around 60 minutes.</p>
+<p>Please be aware that you will be asked specific questions in these two sections:</p>
+<ul>
+<li>General information: In this first chapter you will describe the focus of the targeted data for which you provide more details in the follow up section</li>
+<li>Details on semantic interoperability: Here you are supposed to provide insights into challenges and solutions in the use of combined datasets.</li>
+</ul>
+<p><strong>If your community provides data of a different digital object type and semantic interoperable case study we ask you to clone this project and modify it</strong> only where needed in order to make your answers unambiguous.</p>
+<p>We thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: fipadmin@gofair.foundation.</p>
+<p>DISCLAIMER</p>
+<p>The Task Force will share publicly the responses and comments obtained. Authorship is acknowledged by your ORCID used in the nanopublication provenance.</p>
+<p>The European Commission is not responsible for the content of questionnaires created using the EUSurvey service - it remains the sole responsibility of the form creator and manager. The use of EUSurvey service does not imply a recommendation or endorsement, by the European Commission, of the views expressed within them.</p>
+<p>Hence, this user guide is designed to complement the SIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the <a href="https://guide.ds-wizard.org">DSW User Guide</a>.</p>
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="FAIR and Equitable Science,LIFES" data-listing-date-sort="1716940800000" data-listing-file-modified-sort="1717358336158" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
-<div class="thumbnail">
-<p><a href="../../docs/news/posts/2024-05-29-lifes-update/index.html" class="no-external"></a></p><a href="../../docs/news/posts/2024-05-29-lifes-update/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/2024-05-29-lifes-update/lifes.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../../docs/news/posts/2024-05-29-lifes-update/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../docs/news/posts/2024-05-29-lifes-update/index.html" class="no-external">LIFES</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../docs/news/posts/2024-05-29-lifes-update/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('FAIR and Equitable Science'); return false;">
-FAIR and Equitable Science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('LIFES'); return false;">
-LIFES
-</div>
-</div>
-<div class="listing-description">
-<a href="../../docs/news/posts/2024-05-29-lifes-update/index.html" class="no-external">The Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../docs/news/posts/2024-05-29-lifes-update/index.html" class="no-external">
-<div class="listing-date">
-May 29, 2024
-</div>
-<div class="listing-author">
-Norbert van Dijk
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="FIP Wizard" data-listing-date-sort="1707091200000" data-listing-file-modified-sort="1717358336158" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
-<div class="thumbnail">
-<p><a href="../../docs/news/posts/2024-02-05-fip-wizard-update/index.html" class="no-external"></a></p><a href="../../docs/news/posts/2024-02-05-fip-wizard-update/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/2024-02-05-fip-wizard-update/dsw.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../../docs/news/posts/2024-02-05-fip-wizard-update/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../docs/news/posts/2024-02-05-fip-wizard-update/index.html" class="no-external">FIP Wizard Important Updates</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../docs/news/posts/2024-02-05-fip-wizard-update/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('FIP Wizard'); return false;">
-FIP Wizard
-</div>
-</div>
-<div class="listing-description">
-<a href="../../docs/news/posts/2024-02-05-fip-wizard-update/index.html" class="no-external">We have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../docs/news/posts/2024-02-05-fip-wizard-update/index.html" class="no-external">
-<div class="listing-date">
-Feb 5, 2024
-</div>
-<div class="listing-author">
-Barbara Magagna
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="nanodash,nano publications" data-listing-date-sort="1707091200000" data-listing-file-modified-sort="1717358336158" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
-<div class="thumbnail">
-<p><a href="../../docs/news/posts/2024-02-05-nanodash-update/index.html" class="no-external"></a></p><a href="../../docs/news/posts/2024-02-05-nanodash-update/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/2024-02-05-nanodash-update/nanodash.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../../docs/news/posts/2024-02-05-nanodash-update/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../docs/news/posts/2024-02-05-nanodash-update/index.html" class="no-external">New nanodash platform</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../docs/news/posts/2024-02-05-nanodash-update/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('nanodash'); return false;">
-nanodash
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('nano publications'); return false;">
-nano publications
-</div>
-</div>
-<div class="listing-description">
-<a href="../../docs/news/posts/2024-02-05-nanodash-update/index.html" class="no-external">There exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.kn…<strong></strong></a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../docs/news/posts/2024-02-05-nanodash-update/index.html" class="no-external">
-<div class="listing-date">
-Feb 5, 2024
-</div>
-<div class="listing-author">
-Barbara Magagna
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -738,4 +573,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/gofair-foundation/gofair-wiki/edit/main/docs/news/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gofair-foundation/gofair-wiki/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gofair-foundation/gofair-wiki/edit/main/docs/sip/background.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gofair-foundation/gofair-wiki/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

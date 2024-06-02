@@ -70,32 +70,18 @@
     "text": "Publishing your FIP\nYour completed FIP questionnaire should include:\n\nYour community nanopub,\nThe ORCID for the community data steward,\nAll questions completed.\n\nTo publish your FIP follow these steps:\n\nClick Documents (top menu bar).\nClick New Document (blue button, right side of upper menu bar).\nBe sure to set Nanopublication Template and RDF TriG to get a machine-readable output.\nClick Create.\nIf no error appears you can submit the FIP by clicking on the three dots.\nChoose Nanopub Server.\nClick on view submission.\n\nYou will see the created FIP index nanopub (18)\n\n\n\nIf you want to get a human-readable output (19) you could choose as document template:\n     I. Questionnaire Report which gives you the options to create PDFs or Word documents\n     II. FIP Spreadsheet to get CSV or Excel files (20)\n\n\n\n\n\n\nIf an error appears (21), you should be aware that all questions must have explicit answers: Some questions may have null answers, i.e., declarations that no choice was made.\n\n\n\nBy choosing HTML Preview of the Nanopublication Template (in Settings - 22) you can see in Preview mode the question that needs revision (23).\n\n\n\n\n\n\nError messages can flag possible issues such as:\n\nMissing FAIR Implementation Community\nMissing or wrong style of ORCID\nMissing answer\nWrong answer (providing text instead of a nanopublication)\nFor some question(s), you did not select a resource\nFor some question(s), you did not select the replacement resource (when option b is selected)\nFor some question(s), the considerations field was left empty\n\nAll the nanopublications representing your FIP - i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a SPARQL endpoint. To get a matrix of all created FIPs, called FIP Matrix (24) download the new_matrix.csv."
   },
   {
-    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "title": "New nanodash platform",
+    "objectID": "docs/sip/background.html",
+    "href": "docs/sip/background.html",
+    "title": "Background",
     "section": "",
-    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
+    "text": "Background\nSemantic interoperability (SI) is at the heart of the FAIR principles and of the design of large scale cross disciplinary infrastructures. The European Open Science Cloud (EOSC) is a European-wide effort towards such an infrastructure. The EOSC Semantic Interoperability Task Force is focusing on recommendations for SI (EOSC SI Task Force) with the ambition to converge on globally relevant and scalable SI solutions for EOSC.\nTaking into account new developments and ongoing efforts in the field, we want to interview semantic or data management experts involved in cluster projects, EOSC projects, or research infrastructures. With this interview series, we do not claim to be able to provide a statistically relevant base but rather aim at a qualitative, in-depth analysis of the implementation landscape across communities. By providing the answers to the survey you will contribute to a collectively created knowledge base. As this is not a usual survey but a collective kind of editing process we need you to claim ownership about your contributions and, hence, answers are not anonymized. This survey was preceded by a first test run during the summer period 2023 (July and August) to get feedback from interviewees about the questionnaire, which included only questions requiring text-based answers. The current survey is based on the FIP ontology resulting in machine-readable output from the answers provided.\nBased on the answers given by the interviewees in the first run, i.e. the FAIR Supporting Resources (FSRs) like metadata schemas or semantic artifacts used by communities, the team created machine and human-readable nanopublications that can then be reused in the questionnaire. Additionally, the analysis of the survey will lead to recommendations for projects like FAIRCORE4EOSC and FAIR-Impact on how to implement SI in practice. Find more information about the task force activity in this publication.\nWe would like to invite you to complete the survey together with the interviewer. We expect answering all questions in the consultation should take around 60 minutes.\nPlease be aware that you will be asked specific questions in these two sections:\n\nGeneral information: In this first chapter you will describe the focus of the targeted data for which you provide more details in the follow up section\nDetails on semantic interoperability: Here you are supposed to provide insights into challenges and solutions in the use of combined datasets.\n\nIf your community provides data of a different digital object type and semantic interoperable case study we ask you to clone this project and modify it only where needed in order to make your answers unambiguous.\nWe thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: fipadmin@gofair.foundation.\nDISCLAIMER\nThe Task Force will share publicly the responses and comments obtained. Authorship is acknowledged by your ORCID used in the nanopublication provenance.\nThe European Commission is not responsible for the content of questionnaires created using the EUSurvey service - it remains the sole responsibility of the form creator and manager. The use of EUSurvey service does not imply a recommendation or endorsement, by the European Commission, of the views expressed within them.\nHence, this user guide is designed to complement the SIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the DSW User Guide."
   },
   {
-    "objectID": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-    "href": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-    "title": "FIP Wizard Important Updates",
+    "objectID": "docs/news/posts/2024-05-29-lifes-update/index.html",
+    "href": "docs/news/posts/2024-05-29-lifes-update/index.html",
+    "title": "LIFES",
     "section": "",
-    "text": "DSW\n\n\n\nWe have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:\n\nfor FAIR Implementation Profile projects to FIP Wizard 4\nfor FAIR Enabling Resource projects switch to FAIR Enabling Resource 2\n\nThank you for your attention!"
-  },
-  {
-    "objectID": "docs/fair-connect/fair-connect.html",
-    "href": "docs/fair-connect/fair-connect.html",
-    "title": "FAIR Connect",
-    "section": "",
-    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship. FAIR Connect requires registration. You can create a new account on FAIR Connect here."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
+    "text": "Leiden Institute for FAIR and Equitable Science\n\n\n\nThe Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found here on the GO FAIR Foundation website."
   },
   {
     "objectID": "docs/news/index.html",
@@ -105,11 +91,32 @@
     "text": "LIFES\n\n\n\n\n\n\nFAIR and Equitable Science\n\n\nLIFES\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\nnanodash\n\n\nnano publications\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "docs/news/posts/2024-05-29-lifes-update/index.html",
-    "href": "docs/news/posts/2024-05-29-lifes-update/index.html",
-    "title": "LIFES",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Leiden Institute for FAIR and Equitable Science\n\n\n\nThe Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found here on the GO FAIR Foundation website."
+    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
+  },
+  {
+    "objectID": "docs/fair-connect/fair-connect.html",
+    "href": "docs/fair-connect/fair-connect.html",
+    "title": "FAIR Connect",
+    "section": "",
+    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship. FAIR Connect requires registration. You can create a new account on FAIR Connect here."
+  },
+  {
+    "objectID": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+    "href": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+    "title": "FIP Wizard Important Updates",
+    "section": "",
+    "text": "DSW\n\n\n\nWe have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:\n\nfor FAIR Implementation Profile projects to FIP Wizard 4\nfor FAIR Enabling Resource projects switch to FAIR Enabling Resource 2\n\nThank you for your attention!"
+  },
+  {
+    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "title": "New nanodash platform",
+    "section": "",
+    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
   },
   {
     "objectID": "docs/sip/content.html",

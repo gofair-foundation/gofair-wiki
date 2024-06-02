@@ -8,9 +8,7 @@ September 2023
 
 Cite this document as [[https://osf.io/p9v6m]{.underline}](https://osf.io/p9v6m) CC-By Attribution 4.0 International
 
-# Semantic Interoperability Profile
-
-## Background
+# Background
 
 Semantic interoperability (SI) is at the heart of the FAIR principles and of the design of large scale cross disciplinary infrastructures. The European Open Science Cloud (EOSC) is a European-wide effort towards such an infrastructure. The EOSC Semantic Interoperability Task Force is focusing on recommendations for SI (EOSC SI Task Force) with the ambition to converge on globally relevant and scalable SI solutions for EOSC.
 
@@ -37,7 +35,7 @@ The European Commission is not responsible for the content of questionnaires cre
 
 Hence, this user guide is designed to complement the SIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the [DSW User Guide](https://guide.ds-wizard.org).
 
-## Getting started with the SIP Wizard 4.0
+# Getting started with the SIP Wizard 4.0
 
 -   Go to https://sip-wizard.ds-wizard.org: log in or sign up.
 -   Click Projects (a folder icon in the menu bar on the left) (1).
@@ -99,7 +97,7 @@ Principally only one person should enter all the answers to the questions. Howev
 
 ![](/docs/img/9.png){width="60%"}
 
-## Completing the SIP questionnaire
+# Completing the SIP questionnaire
 
 The SIP questionnaire has 26 questions (referred to in the SIP ontology as "declarations"), divided among 4 chapters:
 
@@ -192,7 +190,7 @@ By clicking on the "template" link in each case, you will be taken to the dialog
 
 Once you have successfully created a new nanopublication, it will become immediately visible (and selectable) to you and others in the appropriate drop down lists of the SIP Wizard 3.0. 3. Creating nanopublications
 
-## Creating a nanopublication
+# Creating a nanopublication
 
 **What is a nanopublication?**
 
@@ -263,7 +261,7 @@ You will view the submission as a FSR nanopub (**18**), the persistent identifie
 
 ![](/docs/img/image_18.jpg)
 
-## Publishing your SIP
+# Publishing your SIP
 
 Your completed SIP questionnaire will include:
 
@@ -329,7 +327,7 @@ Error messages will flag possible issues such as:
 
 ![](/docs/img/image27.jpg){width="60%"}
 
-## Revising your SIP
+# Revising your SIP
 
 Changes in the SIP are automatically saved.
 

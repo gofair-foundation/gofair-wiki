@@ -189,23 +189,23 @@
     "href": "docs/np/index.html",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. But they can also be created in Nanodash",
+    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. However, they can also be created in Nanodash.",
     "crumbs": [
       "Guide",
       "Nanopublications",
-      "Overview"
+      "Introduction"
     ]
   },
   {
-    "objectID": "docs/np/index.html#overview",
-    "href": "docs/np/index.html#overview",
+    "objectID": "docs/np/index.html#introduction",
+    "href": "docs/np/index.html#introduction",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. But they can also be created in Nanodash",
+    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. However, they can also be created in Nanodash.",
     "crumbs": [
       "Guide",
       "Nanopublications",
-      "Overview"
+      "Introduction"
     ]
   },
   {

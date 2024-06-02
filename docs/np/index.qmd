@@ -1,4 +1,4 @@
-## Overview
+## Introduction
 
 Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.
 
@@ -6,4 +6,4 @@ A nanopublication is a tiny RDF knowledge graph composed of three fundamental co
 
 ![](/docs/img/nanopubstructure.jpg){width="60%"}
 
-Nanopublications can be created directly in the [FIP Wizard](https://fip-wizard.ds-wizard.org/) or [SIP Wizard](https://sip-wizard.ds-wizard.org/). But they can also be created in [Nanodash](https://nanodash.knowledgepixels.com/)
+Nanopublications can be created directly in the [FIP Wizard](https://fip-wizard.ds-wizard.org/) or [SIP Wizard](https://sip-wizard.ds-wizard.org/). However, they can also be created in [Nanodash](https://nanodash.knowledgepixels.com/).

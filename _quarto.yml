@@ -60,6 +60,9 @@ website:
           - section: "SIP Wizard User Guide"
             contents:
               - docs/sip/content.qmd
+          - section: "Authors and Contributors"
+            contents:
+              - docs/guide/authors.qmd
     - id: fair-connect
       collapse-level: 1
       contents:

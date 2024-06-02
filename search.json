@@ -90,32 +90,11 @@
     ]
   },
   {
-    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "title": "New nanodash platform",
+    "objectID": "docs/news/posts/2024-05-29-lifes-update/index.html",
+    "href": "docs/news/posts/2024-05-29-lifes-update/index.html",
+    "title": "LIFES",
     "section": "",
-    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
-  },
-  {
-    "objectID": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-    "href": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-    "title": "FIP Wizard Important Updates",
-    "section": "",
-    "text": "DSW\n\n\n\nWe have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:\n\nfor FAIR Implementation Profile projects to FIP Wizard 4\nfor FAIR Enabling Resource projects switch to FAIR Enabling Resource 2\n\nThank you for your attention!"
-  },
-  {
-    "objectID": "docs/fair-connect/fair-connect.html",
-    "href": "docs/fair-connect/fair-connect.html",
-    "title": "FAIR Connect",
-    "section": "",
-    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship. FAIR Connect requires registration. You can create a new account on FAIR Connect here."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
+    "text": "Leiden Institute for FAIR and Equitable Science\n\n\n\nThe Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found here on the GO FAIR Foundation website."
   },
   {
     "objectID": "docs/news/index.html",
@@ -125,11 +104,32 @@
     "text": "LIFES\n\n\n\n\n\n\nFAIR and Equitable Science\n\n\nLIFES\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\nnanodash\n\n\nnano publications\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "docs/news/posts/2024-05-29-lifes-update/index.html",
-    "href": "docs/news/posts/2024-05-29-lifes-update/index.html",
-    "title": "LIFES",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Leiden Institute for FAIR and Equitable Science\n\n\n\nThe Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found here on the GO FAIR Foundation website."
+    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
+  },
+  {
+    "objectID": "docs/fair-connect/fair-connect.html",
+    "href": "docs/fair-connect/fair-connect.html",
+    "title": "FAIR Connect",
+    "section": "",
+    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship. FAIR Connect requires registration. You can create a new account on FAIR Connect here."
+  },
+  {
+    "objectID": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+    "href": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+    "title": "FIP Wizard Important Updates",
+    "section": "",
+    "text": "DSW\n\n\n\nWe have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:\n\nfor FAIR Implementation Profile projects to FIP Wizard 4\nfor FAIR Enabling Resource projects switch to FAIR Enabling Resource 2\n\nThank you for your attention!"
+  },
+  {
+    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "title": "New nanodash platform",
+    "section": "",
+    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
   },
   {
     "objectID": "docs/fip/publishing.html",

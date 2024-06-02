@@ -5,10 +5,10 @@
     - text: Overview
       href: ../fip/index.qmd
 
-#- title: Nanopublications
-#  links:
-#    - text: Introduction
-#      href: ../np/index.qmd
+- title: Nanopublications
+  links:
+    - text: Introduction
+      href: ../np/index.qmd
 
 - title: Semantic Interoperability Profiles
   subtitle: SIP Wizard User Guide

@@ -1,1 +1,9 @@
 ## Overview
+
+Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.
+
+A nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this [website](https://nanopub.net/).
+
+![](/docs/img/nanopubstructure.jpg){width="60%"}
+
+Nanopublications can be created directly in the [FIP Wizard](https://fip-wizard.ds-wizard.org/) or [SIP Wizard](https://sip-wizard.ds-wizard.org/). But they can also be created in [Nanodash](https://nanodash.knowledgepixels.com/)

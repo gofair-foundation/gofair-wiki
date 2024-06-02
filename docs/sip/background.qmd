@@ -1,8 +1,28 @@
----
-authors:
-  - name: Barbara Magagna
-    orcid: 0000-0003-2195-3997
----
+SIP Wizard 0.0.1 User Guide: Making your SIP
+
+Barbara Magagna (orcid:0000-0003-2195-3997)
+
+GO FAIR Foundation
+
+September 2023
+
+Cite this document as [[https://osf.io/p9v6m]{.underline}](https://osf.io/p9v6m) CC-By Attribution 4.0 International
+
+Contents
+
+**Background**
+
+**Overview on how to create a Semantic Interoperability Profile 2**
+
+1.  **Getting started with the SIP Wizard 0.0.1 4**
+
+2.  **Completing the SIP questionnaire 7**
+
+3.  **Creating nanopublications 13**
+
+4.  **Publishing your SIP 16**
+
+5.  **Revising your SIP 21**
 
 # Background
 
@@ -14,14 +34,14 @@ Based on the answers given by the interviewees in the first run, i.e. the FAIR S
 
 We would like to invite you to **complete the survey together with the interviewer**. We expect answering all questions in the consultation should take around 60 minutes.
 
-Please be aware that you will be asked specific questions in these three sections:
+Please be aware that you will be asked specific questions in these two sections:
 
 -   General information: In this first chapter you will describe the focus of the targeted data for which you provide more details in the follow up section
 -   Details on semantic interoperability: Here you are supposed to provide insights into challenges and solutions in the use of combined datasets.
 
 **If your community provides data of a different digital object type and semantic interoperable case study we ask you to clone this project and modify it** only where needed in order to make your answers unambiguous.
 
-We thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: fipadmin\@gofair.foundation.
+We thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: fipadmin\@gofair.foundation.
 
 DISCLAIMER
 
@@ -30,3 +50,321 @@ The Task Force will share publicly the responses and comments obtained. Authorsh
 The European Commission is not responsible for the content of questionnaires created using the EUSurvey service - it remains the sole responsibility of the form creator and manager. The use of EUSurvey service does not imply a recommendation or endorsement, by the European Commission, of the views expressed within them.
 
 Hence, this user guide is designed to complement the SIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the [DSW User Guide](https://guide.ds-wizard.org).
+
+# 1. Getting started with the SIP Wizard 4.0
+
+-   Go to https://sip-wizard.ds-wizard.org: log in or sign up.
+-   Click Projects (a folder icon in the menu bar on the left) (1).
+
+![](/docs/media/1.png){width="20%"}
+
+-   You will see a long list of projects on the right (2). SIPs are projects in the SIP Wizard and are normally named by the community that composed them.
+
+![](/docs/media/2.png){width="80%"}
+
+-   You can create SIPs either from scratch or by cloning an existing SIP, and revising it.
+
+**Clone and adapt the SIP project** - By default, you can see only projects you created. To see all projects click on the button where you can see your name and click ‘Clear selection’ (3).
+
+![](/docs/media/3.png){width="70%"}
+
+-   Locate your reference SIP in the list.
+
+If the SIP has an orange annotation ‘update available’ click on the three dots on the right (4).
+
+![](/docs/media/4.png){width="95%"}
+
+-   Select Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model.
+-   Then click again on the three dots and select Clone (5).
+
+![](/docs/media/5.png){width="25%"}
+
+-   This will bring you to the SIP questionnaire. To change the name of the SIP you need to go to Settings (6). You can now start to work with the SIP Wizard questionnaire, and modify the previous SIP declarations (see below).
+
+![](/docs/media/6.png){width="40%"}
+
+**Make a new SIP**
+
+-   Click **Create** (blue button on the top menu bar) (7).
+
+![](/docs/media/7.png)
+
+-   You’ll see **Create Project** - this dialog box will launch your new SIP (8).
+
+![](/docs/media/image_8.jpg){width="60%"}
+
+Select the tab: **From Project Template**
+
+-   Enter a name for your SIP: We recommend *\[Community acronym\] SIP* (for better findability avoid using '\_' in the name)
+
+-   From the drop-down list select **Semantic Interoperability Profile**
+
+-   Later, when creating nanopublications, you'll use the other templates for defining:
+
+    -   A FAIR Implementation Community (FIC)
+
+    -   A FAIR Supporting Resource from FAIRsharing
+
+    -   A FAIR Supporting Resource (FSR)
+
+-   Click **Save**. This will bring you to the SIP questionnaire. You can now start to work with the SIP Wizard questionnaire, and make SIP declarations (see below).
+
+Principally only one person should enter all the answers to the questions. However, in most cases the answers will need to be agreed upon within an expert team of that community. By clicking on the **Share button** on the top right you can provide editing or viewing rights for your colleagues (9).
+
+![](/docs/media/9.png){width="60%"}
+
+# 2. Completing the SIP questionnaire
+
+The SIP questionnaire has 26 questions (referred to in the SIP ontology as "declarations"), divided among 4 chapters:
+
+Chapter I. About
+
+Chapter II. General information
+
+Chapter III. Details on Semantic Interoperability
+
+Chapter IV. Register a new resource as a nanopublication
+
+On the left, the SIP Wizard displays a questionnaire navigation tool, indicating the chapters and the number of questions that still need to be answered for each chapter (**10**).
+
+![](/docs/media/image10.jpg)
+
+If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.
+
+In the questionnaire, questions that have been answered will be highlighted in green, those that still need to be answered will be highlighted in red and those that are optional in gray (**11**).
+
+![](/docs/media/image11.jpg){width="80%"}
+
+**Chapter I. About**, gives some background information, but has no associated questions.
+
+**Chapter II. General Information (12)**
+
+This chapter contains 10 questions defining the frame of the questionnaire:
+
+1.  Identify your FAIR Implementation Community by using the drop-down / autocomplete functions in the text box. If you do not see your community, you'll have to first create a nanopublication representing your community (see below).
+
+2.  Identify the person who will be responsible for completing the SIP questionnaire (the community data steward) using ORCID.
+
+3.  Identify the type of digital object and the Semantic Interoperaberabiltiy case study that best describes your data, include a link to an example dataset
+
+4.  Select the registry used for the data and indicate if a data model is used
+
+5.  Start date of the validity of the SIP and end date of the validity of the SIP. It may be the case that an explicit end date is not known, in this case answer with "December 31 2050".
+
+6.  If your community provides data of different digital object types using different methodologies we ask you to clone this project and modify it only where needed in order to make your answers unambiguous.
+
+![](/docs/media/figure12.jpg){width="80%"}
+
+**Chapter III: Details on Semantic Interoperability.**
+
+There is a common pattern for each of the questions. The questions begin by asking you if the community is using a specific type of FAIR Supporting Resources.
+
+You have three options for each of the questions:
+
+![](/docs/media/figure13.jpg)
+
+i.  In case your community does not use any resource, you answer with 'no', and add free text in the 'Considerations' box to describe any community requirements and constraints that leads to this answer (**13**). If you consider to FAIRify a resource you use you can click on 'yes' defining that you are going to use it in future (see below).
+
+ii. You answer with 'I don't know' if you need further explanations to properly understand the question, that your interviewer will be happy to provide. You can also ask your team in a later moment to answer this question.
+
+iii. You answer with 'yes' if your community uses a resource (**14**).
+
+![](/docs/media/image14.jpg)
+
+In case you want to declare more than one resource use the **+Add** button.
+
+The questionnaire asks you to select (from the drop-down list) a FSR (**15**).
+
+![](/docs/media/image16.jpg)
+
+Note: those items in the list that are marked with the GFF ![](/docs/media/image14.png){width="10%"} qualification logo are quality-checked by the GO FAIR team. Others without badge have not yet been quality-checked.
+
+Your selection has a follow up question regarding the **usage status** of that FSR in your community.
+
+Is the FSR:
+
+a.  Currently in use by the community
+
+b.  Currently in use, but is planned to be replaced in the future. This will open another text box, allowing you to select the replacement FSR.
+
+c.  Is planned to be used in the future
+
+Lastly, there is a free-text box where you may record the considerations behind your declared choices. These are typically the requirements and constraints your community has identified that factor into the implementation.
+
+**Chapter VII. Register a new resource as a nanopublication**
+
+There are 2 cases where you will need to create a new nanopublication, before you can complete the SIP questionnaire:
+
+1.  creating a new FAIR Implementation Community (FIC)
+
+2.  creating a new FAIR Supporting Resource (FSR) (that does not yet appear in the drop-down list):
+
+-   either taking preferrably metadata from FAIRsharing or
+-   creating new metadata
+
+By clicking on the "template" link in each case, you will be taken to the dialog box for creating a new project - in this case, a new Wizard project template for authoring nanopublications.
+
+Once you have successfully created a new nanopublication, it will become immediately visible (and selectable) to you and others in the appropriate drop down lists of the SIP Wizard 3.0. 3. Creating nanopublications
+
+# 3. Creating a nanopublication
+
+**What is a nanopublication?**
+
+![](/docs/media/icon%20(2).png){width="10%"} A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see [[here]{.underline}](https://nanopub.net) and [[here]{.underline})](https://peerj.com/articles/cs-387/).
+
+Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.
+
+Multiple nanopublications can be "contained" or bundled using a special kind of nanopublication called "index nanopublications".
+
+**Why nanopublication?**
+
+The computational properties of nanopublications can be powerfully leveraged to make machine-readable SIPs.
+
+This happens in two ways:
+
+-   Individual components of the SIP (such as the FIC and FSRs) are all represented as nanopublications.
+-   The output of the SIP Wizard 3.0 (see below, Publishing your SIP) is an index nanopublication that provides a list of declared FSRs for every FIC.
+
+**How to create FSR nanopublications in the SIP Wizard**
+
+Go to **VII. Register a new resource as a nanopublication**
+
+-   Click on one of the three "templates" link. This takes you to a new project dialog box.
+
+-   Enter a name for your new nanopub.
+
+-   There is no specific format required here for the name.
+
+-   Click **Create**. This will bring you to the FSR questionnaire.
+
+There are only two chapters in the questionnaire:
+
+**Chapter I. Author** - provide your ORCID (just the numbers, without https://orcid.org/ prefix).
+
+**Chapter II. Definition**
+
+-   various details required to build your nanopublication. For Communities you may choose a "supercommunity" to which your community belongs which will help in the analysis of the results. For FSRs you have to identify the appropriate FSR type. More than one FSR type can apply. A FSR might be available or to be developed.
+
+-   For short name please use a short name containing alphanumeric symbols and dash only, no spaces
+
+-   For the name of the resource you are creating you should avoid ',' use a pipe (\|) with a space before and after that symbol (for enabling a better findability) if you want to add both an acronym and a longer name like *Envhes \| Environmental Thesaurus*
+
+-   After completing the questionnaire, go to **Documents (16)** and make a "new document".
+
+-   As Template choose Nanopublication Template and as Format choose **RDF Trig**.
+
+-   Push **Create**
+
+![](/docs/media/image18.jpg){width="2.9791666666666665in" height="3.1979166666666665in"}
+
+-   If no error appears you can submit the nanopub clicking on the three dots (**17**):
+
+![](/docs/media/image19.jpg){width="1.5in" height="2.0729166666666665in"}
+
+-   Choose Nanopub Server (not the local one, which is only for testing) and submit. Please don't submit it again, because this would create yet another instance with the same content.
+
+-   Click on view submission
+
+You will view the submission as a FSR nanopub (**18**), the persistent identifier (nanopub URI) is hightlighted in orange
+
+-   This FSR will now appear, automatically, in the drop downs of the question where the FSR type is expected.
+
+-   The newly created FSR will not yet have a GFF qualification, as this review process will take a few days. If it is not accepted you will get a notification about the reason.
+
+-   You can, however, already use the FSR before it gets a qualification.
+
+-   If you want to improve the FSR description you can do this using the same project and enhancing its content. Then create a new document and submit this new nanopub, which will superseed the other one.
+
+![](/docs/media/image_18.jpg)
+
+# 4. Publishing your SIP
+
+Your completed SIP questionnaire will include:
+
+Your community nanopub, the ORCID for the community data steward and all questions completed.
+
+-   Now click **Documents** (top menu bar).
+
+-   Click New Document (blue button, right side of upper menu bar).
+
+-   Be sure to set Nanopublication Template and RDF TriG to get a machine-readable output.
+
+-   Click **Create**.
+
+If no error appears you can submit the SIP clicking on the three dots:
+
+-   Choose Nanopub Server
+
+-   Click on view submission
+
+-   You will see the created SIP index nanopub (**19**)
+
+![](/docs/media/image_19.jpg)
+
+If you want to get a human-readable output (**20**) you could choose as document template:
+
+![](/docs/media/image22.jpg){width="30%\""}
+
+-   Questionnaire Report which gives you the options to create PDFs or Word documents
+
+-   SIP Spreadsheet to get CSV or Excel files (**21**)
+
+![](/docs/media/image23.jpg){width="90%"}
+
+If an error appears (**22**), you should be aware that all questions must have explicit answers. Some questions may have "null" answers, i.e., declarations that no choice was made.
+
+![](/docs/media/image24.jpg){width="100%"}
+
+By choosing "HTML Preview" of the Nanopublication Template (in Settings- **23**) you will see in Preview mode the question that needs revision (**24**).
+
+![](/docs/media/image25.jpg){width="50%"}
+
+![](/docs/media/image26.jpg){width="60%"}
+
+Error messages will flag possible issues such as:
+
+-   Missing FAIR Implementation Community
+
+-   Missing or wrong style of ORCID
+
+-   Missing answer
+
+-   Wrong answer (providing text instead of a nanopublication)
+
+-   For some question(s), you did not select a resource
+
+-   For some question(s), you did not select the replacement resource (when option b is selected)
+
+-   For some question(s), the considerations field was left empty
+
+-   All the nanopublications representing your SIP - i.e., the FIC, the many FSRs and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [[SPARQL]{.underline}](https://virtuoso.nps.petapico.org/sparql) [[endpoint]{.underline}](https://virtuoso.nps.petapico.org/sparql).
+
+-   To get a matrix of all created SIPs, called SIP Matrix (**25**) use the [[DSW-nanopub]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix) [[API]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix).
+
+![](/docs/media/image27.jpg){width="60%"}
+
+# 5. Revising your SIP
+
+Changes in the SIP are automatically saved.
+
+There is no undo button for any action BUT you can use the version history button (**26**) which allows you to:
+
+-   see all changes done by any editors
+
+-   see details on each activity when clicking on it
+
+-   by clicking on the three dots you see a menu with an option to revert to this version
+
+![](/docs/media/image28.jpg){width="3.3020833333333335in" height="4.770833333333333in"}
+
+-   If you want to answer a specific question later, click on the plus button to get a TODO reminder (**27**).
+
+-   Clicking the TODO button you will see all the TODOs as list.
+
+-   For each question you can add a comment and replies of that comment which should assist interactions within your team.
+
+![](/docs/media/image_27.jpg)
+
+After having submitted a document as a nanopublication you might still want to correct your declarations in the SIP and publish a new version. The new nanopublication is recognized as an update of the older submission. This is true also for FSR nanopublications which makes it possible to show only the latest version of a specific FSR in the drop-down menus for the answers.
+
+A nanopublication is just that - a publication. As such, it is persistent and can not be deleted from the nanopub record. However, as with any traditional publication, nanopublications can be "retracted". This is done by issuing a special purpose retraction nanopublication, linking to the original. This can only be done by the administrator of the SIP Wizard. If you feel a nanopublication created in the SIP Wizard should be retracted, please contact the SIP Wizard team mentioned at the top of this document.

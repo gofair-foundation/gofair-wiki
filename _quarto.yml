@@ -65,13 +65,7 @@ website:
               - docs/np/index.qmd
           - section: "SIP Wizard User Guide"
             contents:
-              - docs/sip/background.qmd
-              - docs/sip/overview.qmd
-              - docs/sip/getting-started.qmd
-              - docs/sip/completing-questionnaire.qmd
-              - docs/sip/minting-nanopublications.qmd
-              - docs/sip/publishing.qmd
-              - docs/sip/revising.qmd
+              - docs/sip/content.qmd
     - id: fair-connect
       collapse-level: 1
       contents:

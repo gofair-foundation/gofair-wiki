@@ -56,42 +56,42 @@ Hence, this user guide is designed to complement the SIP-specific features of th
 -   Go to https://sip-wizard.ds-wizard.org: log in or sign up.
 -   Click Projects (a folder icon in the menu bar on the left) (1).
 
-![](/docs/media/1.png){width="20%"}
+![](/docs/img/1.png){width="20%"}
 
 -   You will see a long list of projects on the right (2). SIPs are projects in the SIP Wizard and are normally named by the community that composed them.
 
-![](/docs/media/2.png){width="80%"}
+![](/docs/img/2.png){width="80%"}
 
 -   You can create SIPs either from scratch or by cloning an existing SIP, and revising it.
 
 **Clone and adapt the SIP project** - By default, you can see only projects you created. To see all projects click on the button where you can see your name and click ‘Clear selection’ (3).
 
-![](/docs/media/3.png){width="70%"}
+![](/docs/img/3.png){width="70%"}
 
 -   Locate your reference SIP in the list.
 
 If the SIP has an orange annotation ‘update available’ click on the three dots on the right (4).
 
-![](/docs/media/4.png){width="95%"}
+![](/docs/img/4.png){width="95%"}
 
 -   Select Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model.
 -   Then click again on the three dots and select Clone (5).
 
-![](/docs/media/5.png){width="25%"}
+![](/docs/img/5.png){width="25%"}
 
 -   This will bring you to the SIP questionnaire. To change the name of the SIP you need to go to Settings (6). You can now start to work with the SIP Wizard questionnaire, and modify the previous SIP declarations (see below).
 
-![](/docs/media/6.png){width="40%"}
+![](/docs/img/6.png)
 
 **Make a new SIP**
 
 -   Click **Create** (blue button on the top menu bar) (7).
 
-![](/docs/media/7.png)
+![](/docs/img/7.png){width="40%"}
 
 -   You’ll see **Create Project** - this dialog box will launch your new SIP (8).
 
-![](/docs/media/image_8.jpg){width="60%"}
+![](/docs/img/image_8.jpg){width="60%"}
 
 Select the tab: **From Project Template**
 
@@ -111,7 +111,7 @@ Select the tab: **From Project Template**
 
 Principally only one person should enter all the answers to the questions. However, in most cases the answers will need to be agreed upon within an expert team of that community. By clicking on the **Share button** on the top right you can provide editing or viewing rights for your colleagues (9).
 
-![](/docs/media/9.png){width="60%"}
+![](/docs/img/9.png){width="60%"}
 
 # 2. Completing the SIP questionnaire
 
@@ -127,13 +127,13 @@ Chapter IV. Register a new resource as a nanopublication
 
 On the left, the SIP Wizard displays a questionnaire navigation tool, indicating the chapters and the number of questions that still need to be answered for each chapter (**10**).
 
-![](/docs/media/image10.jpg)
+![](/docs/img/image10.jpg)
 
 If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.
 
 In the questionnaire, questions that have been answered will be highlighted in green, those that still need to be answered will be highlighted in red and those that are optional in gray (**11**).
 
-![](/docs/media/image11.jpg){width="80%"}
+![](/docs/img/image11.jpg){width="80%"}
 
 **Chapter I. About**, gives some background information, but has no associated questions.
 
@@ -153,7 +153,7 @@ This chapter contains 10 questions defining the frame of the questionnaire:
 
 6.  If your community provides data of different digital object types using different methodologies we ask you to clone this project and modify it only where needed in order to make your answers unambiguous.
 
-![](/docs/media/figure12.jpg){width="80%"}
+![](/docs/img/figure12.jpg){width="80%"}
 
 **Chapter III: Details on Semantic Interoperability.**
 
@@ -161,7 +161,7 @@ There is a common pattern for each of the questions. The questions begin by aski
 
 You have three options for each of the questions:
 
-![](/docs/media/figure13.jpg)
+![](/docs/img/figure13.jpg)
 
 i.  In case your community does not use any resource, you answer with 'no', and add free text in the 'Considerations' box to describe any community requirements and constraints that leads to this answer (**13**). If you consider to FAIRify a resource you use you can click on 'yes' defining that you are going to use it in future (see below).
 
@@ -169,15 +169,15 @@ ii. You answer with 'I don't know' if you need further explanations to properly 
 
 iii. You answer with 'yes' if your community uses a resource (**14**).
 
-![](/docs/media/image14.jpg)
+![](/docs/img/image14.jpg)
 
 In case you want to declare more than one resource use the **+Add** button.
 
 The questionnaire asks you to select (from the drop-down list) a FSR (**15**).
 
-![](/docs/media/image16.jpg)
+![](/docs/img/image16.jpg)
 
-Note: those items in the list that are marked with the GFF ![](/docs/media/image14.png){width="10%"} qualification logo are quality-checked by the GO FAIR team. Others without badge have not yet been quality-checked.
+Note: those items in the list that are marked with the GFF ![](/docs/img/GFF_checkmark.png){width="10%"} qualification logo are quality-checked by the GO FAIR team. Others without badge have not yet been quality-checked.
 
 Your selection has a follow up question regarding the **usage status** of that FSR in your community.
 
@@ -210,7 +210,7 @@ Once you have successfully created a new nanopublication, it will become immedia
 
 **What is a nanopublication?**
 
-![](/docs/media/icon%20(2).png){width="10%"} A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see [[here]{.underline}](https://nanopub.net) and [[here]{.underline})](https://peerj.com/articles/cs-387/).
+![](/docs/img/nanopub.png){width="10%"} A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see [[here]{.underline}](https://nanopub.net) and [[here]{.underline})](https://peerj.com/articles/cs-387/).
 
 Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.
 
@@ -255,11 +255,11 @@ There are only two chapters in the questionnaire:
 
 -   Push **Create**
 
-![](/docs/media/image18.jpg){width="2.9791666666666665in" height="3.1979166666666665in"}
+![](/docs/img/image18.jpg){width="50%"}
 
 -   If no error appears you can submit the nanopub clicking on the three dots (**17**):
 
-![](/docs/media/image19.jpg){width="1.5in" height="2.0729166666666665in"}
+![](/docs/img/image19.jpg){width="20%"}
 
 -   Choose Nanopub Server (not the local one, which is only for testing) and submit. Please don't submit it again, because this would create yet another instance with the same content.
 
@@ -275,7 +275,7 @@ You will view the submission as a FSR nanopub (**18**), the persistent identifie
 
 -   If you want to improve the FSR description you can do this using the same project and enhancing its content. Then create a new document and submit this new nanopub, which will superseed the other one.
 
-![](/docs/media/image_18.jpg)
+![](/docs/img/image_18.jpg)
 
 # 4. Publishing your SIP
 
@@ -299,27 +299,27 @@ If no error appears you can submit the SIP clicking on the three dots:
 
 -   You will see the created SIP index nanopub (**19**)
 
-![](/docs/media/image_19.jpg)
+![](/docs/img/image_19.jpg)
 
 If you want to get a human-readable output (**20**) you could choose as document template:
 
-![](/docs/media/image22.jpg){width="30%\""}
+![](/docs/img/image22.jpg){width="30%"}
 
 -   Questionnaire Report which gives you the options to create PDFs or Word documents
 
 -   SIP Spreadsheet to get CSV or Excel files (**21**)
 
-![](/docs/media/image23.jpg){width="90%"}
+![](/docs/img/image23.jpg){width="90%\""}
 
 If an error appears (**22**), you should be aware that all questions must have explicit answers. Some questions may have "null" answers, i.e., declarations that no choice was made.
 
-![](/docs/media/image24.jpg){width="100%"}
+![](/docs/img/image24.jpg)
 
 By choosing "HTML Preview" of the Nanopublication Template (in Settings- **23**) you will see in Preview mode the question that needs revision (**24**).
 
-![](/docs/media/image25.jpg){width="50%"}
+![](/docs/img/image25.jpg){width="50%"}
 
-![](/docs/media/image26.jpg){width="60%"}
+![](/docs/img/image26.jpg){width="60%"}
 
 Error messages will flag possible issues such as:
 
@@ -341,7 +341,7 @@ Error messages will flag possible issues such as:
 
 -   To get a matrix of all created SIPs, called SIP Matrix (**25**) use the [[DSW-nanopub]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix) [[API]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix).
 
-![](/docs/media/image27.jpg){width="60%"}
+![](/docs/img/image27.jpg){width="60%"}
 
 # 5. Revising your SIP
 
@@ -355,7 +355,7 @@ There is no undo button for any action BUT you can use the version history butto
 
 -   by clicking on the three dots you see a menu with an option to revert to this version
 
-![](/docs/media/image28.jpg){width="3.3020833333333335in" height="4.770833333333333in"}
+![](/docs/img/image28.jpg){width="40%"}
 
 -   If you want to answer a specific question later, click on the plus button to get a TODO reminder (**27**).
 
@@ -363,7 +363,7 @@ There is no undo button for any action BUT you can use the version history butto
 
 -   For each question you can add a comment and replies of that comment which should assist interactions within your team.
 
-![](/docs/media/image_27.jpg)
+![](/docs/img/image_27.jpg)
 
 After having submitted a document as a nanopublication you might still want to correct your declarations in the SIP and publish a new version. The new nanopublication is recognized as an update of the older submission. This is true also for FSR nanopublications which makes it possible to show only the latest version of a specific FSR in the drop-down menus for the answers.
 

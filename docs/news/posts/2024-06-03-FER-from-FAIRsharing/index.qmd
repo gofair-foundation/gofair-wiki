@@ -6,7 +6,6 @@ author:
   - name: Barbara Magagna
     orcid: 0000-0003-2195-3997
 date: 6/3/2024
-
 ---
 
 ------------------------------------------------------------------------
@@ -19,5 +18,4 @@ a\)
 
 ![b)](ferffs.jpg)
 
-![](dropdown.jpg){width="50%"}
-
+![](dropdown.jpg){width="40%"}

@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Wiki\nThis GO FAIR wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still under construction. This wiki and all of its content are maintained by the GO FAIR Foundation. The source files of this website can be found on Github.\n\nLatest news\n\n\n\n\n\n\n\n\n\n\nLIFES\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\nNo matching items\n\n\n\nThis website was built with Quarto and rendered with Github Pages."
+    "text": "Wiki\nThis GO FAIR wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still under construction. This wiki and all of its content are maintained by the GO FAIR Foundation. The source files of this website can be found on Github.\n\nLatest news\n\n\n\n\n\n\n\n\n\n\nLIFES\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\nNo matching items\n\n\n\nThis website was built with Quarto and rendered with Github Pages."
   },
   {
     "objectID": "docs/guide/authors.html",
@@ -89,32 +89,11 @@
     "text": "Background\nSemantic interoperability (SI) is at the heart of the FAIR principles and of the design of large scale cross disciplinary infrastructures. The European Open Science Cloud (EOSC) is a European-wide effort towards such an infrastructure. The EOSC Semantic Interoperability Task Force is focusing on recommendations for SI (EOSC SI Task Force) with the ambition to converge on globally relevant and scalable SI solutions for EOSC.\nTaking into account new developments and ongoing efforts in the field, we want to interview semantic or data management experts involved in cluster projects, EOSC projects, or research infrastructures. With this interview series, we do not claim to be able to provide a statistically relevant base but rather aim at a qualitative, in-depth analysis of the implementation landscape across communities. By providing the answers to the survey you will contribute to a collectively created knowledge base. As this is not a usual survey but a collective kind of editing process we need you to claim ownership about your contributions and, hence, answers are not anonymized. This survey was preceded by a first test run during the summer period 2023 (July and August) to get feedback from interviewees about the questionnaire, which included only questions requiring text-based answers. The current survey is based on the FIP ontology resulting in machine-readable output from the answers provided.\nBased on the answers given by the interviewees in the first run, i.e. the FAIR Supporting Resources (FSRs) like metadata schemas or semantic artifacts used by communities, the team created machine and human-readable nanopublications that can then be reused in the questionnaire. Additionally, the analysis of the survey will lead to recommendations for projects like FAIRCORE4EOSC and FAIR-Impact on how to implement SI in practice. Find more information about the task force activity in this publication.\nWe would like to invite you to complete the survey together with the interviewer. We expect answering all questions in the consultation should take around 60 minutes.\nPlease be aware that you will be asked specific questions in these two sections:\n\nGeneral information: In this first chapter you will describe the focus of the targeted data for which you provide more details in the follow up section\nDetails on semantic interoperability: Here you are supposed to provide insights into challenges and solutions in the use of combined datasets.\n\nIf your community provides data of a different digital object type and semantic interoperable case study we ask you to clone this project and modify it only where needed in order to make your answers unambiguous.\nWe thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: fipadmin@gofair.foundation.\nDISCLAIMER\nThe Task Force will share publicly the responses and comments obtained. Authorship is acknowledged by your ORCID used in the nanopublication provenance.\nThe European Commission is not responsible for the content of questionnaires created using the EUSurvey service - it remains the sole responsibility of the form creator and manager. The use of EUSurvey service does not imply a recommendation or endorsement, by the European Commission, of the views expressed within them.\nHence, this user guide is designed to complement the SIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the DSW User Guide."
   },
   {
-    "objectID": "docs/news/posts/2024-05-29-lifes-update/index.html",
-    "href": "docs/news/posts/2024-05-29-lifes-update/index.html",
-    "title": "LIFES",
+    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "title": "New nanodash platform",
     "section": "",
-    "text": "Leiden Institute for FAIR and Equitable Science\n\n\n\nThe Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found here on the GO FAIR Foundation website."
-  },
-  {
-    "objectID": "docs/news/index.html",
-    "href": "docs/news/index.html",
-    "title": "News",
-    "section": "",
-    "text": "LIFES\n\n\n\n\n\n\nFAIR and Equitable Science\n\n\nLIFES\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\nnanodash\n\n\nnano publications\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
-  },
-  {
-    "objectID": "docs/fair-connect/fair-connect.html",
-    "href": "docs/fair-connect/fair-connect.html",
-    "title": "FAIR Connect",
-    "section": "",
-    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship."
+    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
   },
   {
     "objectID": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
@@ -124,11 +103,39 @@
     "text": "DSW\n\n\n\nWe have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:\n\nfor FAIR Implementation Profile projects to FIP Wizard 4\nfor FAIR Enabling Resource projects switch to FAIR Enabling Resource 2\n\nThank you for your attention!"
   },
   {
-    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "title": "New nanodash platform",
+    "objectID": "docs/fair-connect/fair-connect.html",
+    "href": "docs/fair-connect/fair-connect.html",
+    "title": "FAIR Connect",
     "section": "",
-    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
+    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
+  },
+  {
+    "objectID": "docs/news/index.html",
+    "href": "docs/news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "LIFES\n\n\n\n\n\n\nFAIR and Equitable Science\n\n\nLIFES\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nMar 3, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\nnanodash\n\n\nnano publications\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "docs/news/posts/2024-05-29-lifes-update/index.html",
+    "href": "docs/news/posts/2024-05-29-lifes-update/index.html",
+    "title": "LIFES",
+    "section": "",
+    "text": "Leiden Institute for FAIR and Equitable Science\n\n\n\nThe Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found here on the GO FAIR Foundation website."
+  },
+  {
+    "objectID": "docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
+    "href": "docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
+    "title": "FIP Wizard Important Updates",
+    "section": "",
+    "text": "All FAIR Enabling Resource have now extended metadata elements and we updated the Knowledge Model for reusing the metadata content from FAIRsharing with these extenstions. The Project Template is now integrated in the FIP Project template in Chapter VII (a), but can also be found when creating a new project in the drop down of templates (b).\na)\n\n\n\n\nb)"
   },
   {
     "objectID": "docs/sip/content.html",

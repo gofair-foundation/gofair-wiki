@@ -47,6 +47,34 @@
 <item>
   <title>FIP Wizard Important Updates</title>
   <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>All FAIR Enabling Resource have now extended metadata elements and we updated the Knowledge Model for reusing the metadata content from FAIRsharing with these extenstions. The Project Template is now integrated in the FIP Project template in Chapter VII (a), but can also be found when creating a new project in the drop down of templates (b).</p>
+<p>a)</p>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/ferffs.jpg" class="img-fluid figure-img"></p>
+<figcaption>b)</figcaption>
+</figure>
+</div>
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</guid>
+  <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FIP Wizard Important Updates</title>
+  <dc:creator>Barbara Magagna</dc:creator>
   <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-fip-wizard-update/</link>
   <description><![CDATA[ 
 

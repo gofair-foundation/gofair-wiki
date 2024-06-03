@@ -99,13 +99,13 @@ Chapter III. Details on Semantic Interoperability
 
 Chapter IV. Register a new resource as a nanopublication
 
-On the left, the SIP Wizard displays a questionnaire navigation tool, indicating the chapters and the number of questions that still need to be answered for each chapter (**10**).
+On the left, the SIP Wizard displays a questionnaire navigation tool, indicating the chapters and the number of questions that still need to be answered for each chapter (10).
 
 ![](/docs/img/image10.jpg)
 
 If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.
 
-In the questionnaire, questions that have been answered will be highlighted in green, those that still need to be answered will be highlighted in red and those that are optional in gray (**11**).
+In the questionnaire, questions that have been answered will be highlighted in green, those that still need to be answered will be highlighted in red and those that are optional in gray (11).
 
 ![](/docs/img/image11.jpg){width="80%"}
 
@@ -137,17 +137,17 @@ You have three options for each of the questions:
 
 ![](/docs/img/figure13.jpg)
 
-i.  In case your community does not use any resource, you answer with 'no', and add free text in the 'Considerations' box to describe any community requirements and constraints that leads to this answer (**13**). If you consider to FAIRify a resource you use you can click on 'yes' defining that you are going to use it in future (see below).
+i.  In case your community does not use any resource, you answer with 'no', and add free text in the 'Considerations' box to describe any community requirements and constraints that leads to this answer (13). If you consider to FAIRify a resource you use you can click on 'yes' defining that you are going to use it in future (see below).
 
 ii. You answer with 'I don't know' if you need further explanations to properly understand the question, that your interviewer will be happy to provide. You can also ask your team in a later moment to answer this question.
 
-iii. You answer with 'yes' if your community uses a resource (**14**).
+iii. You answer with 'yes' if your community uses a resource (14).
 
 ![](/docs/img/image14.jpg)
 
 In case you want to declare more than one resource use the **+Add** button.
 
-The questionnaire asks you to select (from the drop-down list) a FSR (**15**).
+The questionnaire asks you to select (from the drop-down list) a FSR (15).
 
 ![](/docs/img/image16.jpg)
 
@@ -184,7 +184,9 @@ Once you have successfully created a new nanopublication, it will become immedia
 
 **What is a nanopublication?**
 
-![](/docs/img/nanopub.png){width="10%"} A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see [[here]{.underline}](https://nanopub.net) and [[here]{.underline})](https://peerj.com/articles/cs-387/).
+A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see [[here]{.underline}](https://nanopub.net) and [[here]{.underline})](https://peerj.com/articles/cs-387/).
+
+![](/docs/img/nanopubstructure.jpg){width="50%"}
 
 Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.
 
@@ -223,7 +225,7 @@ There are only two chapters in the questionnaire:
 
 -   For the name of the resource you are creating you should avoid ',' use a pipe (\|) with a space before and after that symbol (for enabling a better findability) if you want to add both an acronym and a longer name like *Envhes \| Environmental Thesaurus*
 
--   After completing the questionnaire, go to **Documents (16)** and make a "new document".
+-   After completing the questionnaire, go to **Documents** (16) and make a "new document".
 
 -   As Template choose Nanopublication Template and as Format choose **RDF Trig**.
 
@@ -231,7 +233,7 @@ There are only two chapters in the questionnaire:
 
 ![](/docs/img/image18.jpg){width="50%"}
 
--   If no error appears you can submit the nanopub clicking on the three dots (**17**):
+-   If no error appears you can submit the nanopub clicking on the three dots (17):
 
 ![](/docs/img/image19.jpg){width="20%"}
 
@@ -239,7 +241,7 @@ There are only two chapters in the questionnaire:
 
 -   Click on view submission
 
-You will view the submission as a FSR nanopub (**18**), the persistent identifier (nanopub URI) is hightlighted in orange
+You will view the submission as a FSR nanopub (18), the persistent identifier (nanopub URI) is hightlighted in orange
 
 -   This FSR will now appear, automatically, in the drop downs of the question where the FSR type is expected.
 
@@ -271,25 +273,25 @@ If no error appears you can submit the SIP clicking on the three dots:
 
 -   Click on view submission
 
--   You will see the created SIP index nanopub (**19**)
+-   You will see the created SIP index nanopub (19)
 
 ![](/docs/img/image_19.jpg)
 
-If you want to get a human-readable output (**20**) you could choose as document template:
+If you want to get a human-readable output (20) you could choose as document template:
 
 ![](/docs/img/image22.jpg){width="30%"}
 
 -   Questionnaire Report which gives you the options to create PDFs or Word documents
 
--   SIP Spreadsheet to get CSV or Excel files (**21**)
+-   SIP Spreadsheet to get CSV or Excel files (21)
 
-![](/docs/img/image23.jpg){width="90%\""}
+![](/docs/img/img21.jpg)
 
 If an error appears (**22**), you should be aware that all questions must have explicit answers. Some questions may have "null" answers, i.e., declarations that no choice was made.
 
 ![](/docs/img/image24.jpg)
 
-By choosing "HTML Preview" of the Nanopublication Template (in Settings- **23**) you will see in Preview mode the question that needs revision (**24**).
+By choosing "HTML Preview" of the Nanopublication Template (in Settings- 23) you will see in Preview mode the question that needs revision (24).
 
 ![](/docs/img/image25.jpg){width="50%"}
 
@@ -313,7 +315,7 @@ Error messages will flag possible issues such as:
 
 -   All the nanopublications representing your SIP - i.e., the FIC, the many FSRs and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [[SPARQL]{.underline}](https://virtuoso.nps.petapico.org/sparql) [[endpoint]{.underline}](https://virtuoso.nps.petapico.org/sparql).
 
--   To get a matrix of all created SIPs, called SIP Matrix (**25**) use the [[DSW-nanopub]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix) [[API]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix).
+-   To get a matrix of all created SIPs, called SIP Matrix (25) use the [[DSW-nanopub]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix) [[API]{.underline}](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix).
 
 ![](/docs/img/image27.jpg){width="60%"}
 
@@ -321,7 +323,7 @@ Error messages will flag possible issues such as:
 
 Changes in the SIP are automatically saved.
 
-There is no undo button for any action BUT you can use the version history button (**26**) which allows you to:
+There is no undo button for any action BUT you can use the version history button (26) which allows you to:
 
 -   see all changes done by any editors
 
@@ -331,7 +333,7 @@ There is no undo button for any action BUT you can use the version history butto
 
 ![](/docs/img/image28.jpg){width="40%"}
 
--   If you want to answer a specific question later, click on the plus button to get a TODO reminder (**27**).
+-   If you want to answer a specific question later, click on the plus button to get a TODO reminder (27).
 
 -   Clicking the TODO button you will see all the TODOs as list.
 

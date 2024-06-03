@@ -35,7 +35,7 @@
 <figcaption>b)</figcaption>
 </figure>
 </div>
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid" style="width:50.0%"></p>
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid" style="width:40.0%"></p>
 
 
 
@@ -43,34 +43,6 @@
   <category>FIP Wizard</category>
   <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</guid>
   <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>LIFES</title>
-  <dc:creator>Norbert van Dijk</dc:creator>
-  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/lifes.png" class="img-fluid figure-img"></p>
-<figcaption>Leiden Institute for FAIR and Equitable Science</figcaption>
-</figure>
-</div>
-<hr>
-<p>The Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found <a href="https://www.gofair.foundation/lifes">here</a> on the GO FAIR Foundation website.</p>
-<hr>
-
-
-
- ]]></description>
-  <category>FAIR and Equitable Science</category>
-  <category>LIFES</category>
-  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</guid>
-  <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>FIP Wizard Important Updates</title>
@@ -103,7 +75,35 @@
  ]]></description>
   <category>FIP Wizard</category>
   <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/</guid>
-  <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/lifes.png" class="img-fluid figure-img"></p>
+<figcaption>Leiden Institute for FAIR and Equitable Science</figcaption>
+</figure>
+</div>
+<hr>
+<p>The Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found <a href="https://www.gofair.foundation/lifes">here</a> on the GO FAIR Foundation website.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</guid>
+  <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>FIP Wizard Important Updates</title>

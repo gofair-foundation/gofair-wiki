@@ -1,13 +1,13 @@
 # Authors
 
-- Barbara Magagna, ORCID [0000-0003-2195-3997](https://orcid.org/0000-0003-2195-3997)
+-   Barbara Magagna, ORCID [0000-0003-2195-3997](https://orcid.org/0000-0003-2195-3997)
 
-- Erik Schultes, ORCID [0000-0001-8888-635X](https://orcid.org/0000-0001-8888-635X)
+-   Erik Schultes, ORCID [0000-0001-8888-635X](https://orcid.org/0000-0001-8888-635X)
 
 # Contributors
 
-- Norbert van Dijk, ORCID[https://orcid.org/0009-0003-5409-652X]
+-   Norbert van Dijk, ORCID [0009-0003-5409-652X](https://orcid.org/0009-0003-5409-652X)
 
-- Gerhard Burger, ORCID [https://orcid.org/0000-0003-1062-5576]
+-   Gerhard Burger, ORCID [0000-0003-1062-5576](https://orcid.org/0000-0003-1062-5576)
 
-- Anne Fouilloux, ORCID [https://orcid.org/0000-0002-1784-2920]
+-   Anne Fouilloux, ORCID [0000-0002-1784-2920](https://orcid.org/0000-0002-1784-2920)

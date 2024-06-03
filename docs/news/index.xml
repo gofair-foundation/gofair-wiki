@@ -35,7 +35,7 @@
 <figcaption>b)</figcaption>
 </figure>
 </div>
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid"></p>
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid" style="width:50.0%"></p>
 
 
 
@@ -71,6 +71,39 @@
   <category>LIFES</category>
   <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</guid>
   <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FIP Wizard Important Updates</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>FIPs can be represented as pure RDF output: at the moment this requires some manual concatenating of two strings to a URI, but we are implementing this as additional feature in the FIP Wizard.</p>
+<p>The <strong>manual URI generation</strong> works as follows:</p>
+<p>you need to concatenate two strings to a uri, where the first string is to be reused as it is and the second is the last part of the FIP URI:</p>
+<p>(first part) <em>https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2F</em></p>
+<p>PLUS</p>
+<p>(last part of FIP URI) <em>RA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0</em></p>
+<p><strong>To get RDF</strong>: <em>https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0</em></p>
+<p><strong>To get JSON-LD</strong>: Adding <em>&amp;format=application/ld+json</em> to your string will get you a JSON-LD output</p>
+<p><em>https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0&amp;format=application/ld+json</em></p>
+<p><strong>How to get to your FIP URI</strong>:</p>
+<p>Once you created a nanopublication for your FIP in the Wizard, you should go to submission:</p>
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/viewsub.jpg" class="img-fluid"></p>
+<p>Then you see the full nanopublication: you can easily copy the required part of the URI from the address bar (highlighted in orange).</p>
+<p>https://w3id.org/np/<em>RA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0</em></p>
+<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/identifier.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/</guid>
+  <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>FIP Wizard Important Updates</title>

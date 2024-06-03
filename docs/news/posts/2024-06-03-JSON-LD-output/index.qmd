@@ -22,9 +22,17 @@ PLUS
 
 (last part of FIP URI) *RA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0*
 
-**To get RDF**: *https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0*
+**To get RDF**:
 
-**To get JSON-LD**: Adding *&format=application/ld+json* to your string will get you a JSON-LD output
+*https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0*
+
+**To get JSON-LD**:
+
+Adding
+
+*&format=application/ld+json*
+
+to your string will get you a JSON-LD output
 
 *https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0&format=application/ld+json*
 

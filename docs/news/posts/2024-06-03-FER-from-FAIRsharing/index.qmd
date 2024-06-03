@@ -1,0 +1,21 @@
+---
+title: FIP Wizard Important Updates
+categories:
+  - FIP Wizard
+author: 
+  - name: Barbara Magagna
+    orcid: 0000-0003-2195-3997
+date: 3/3/2024
+---
+
+------------------------------------------------------------------------
+
+All FAIR Enabling Resource have now extended metadata elements and we updated the Knowledge Model for reusing the metadata content from FAIRsharing with these extenstions. The Project Template is now integrated in the FIP Project template in Chapter VII (a), but can also be found when creating a new project in the drop down of templates (b).
+
+a\)
+
+------------------------------------------------------------------------
+
+![b)](ferffs.jpg)
+
+![](dropdown.jpg)

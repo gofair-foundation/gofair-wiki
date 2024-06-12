@@ -3,7 +3,7 @@
   subtitle: FIP Wizard User Guide
   links:
     - text: Overview
-      href: ../fip/index.qmd
+      href: ../fip/content.qmd
 
 - title: Nanopublications
   links:

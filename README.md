@@ -41,7 +41,3 @@ At the top left of `.qmd` files you can switch to Visual mode if you're not fami
 In both RStudio and VS Code the the preview will automatically update when you save changes to project files.
 
 For more information on creating Quarto websites (e.g., adding pages) see <https://quarto.org/docs/websites/>.
-
-## Deployment
-
-To be done

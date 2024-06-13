@@ -33,7 +33,7 @@ website:
       - text: Home
         href: index.qmd
       - text: FIP
-        href: docs/fip
+        href: /fip
       - text: Guide
         href: docs/guide/index.qmd
       - text: News

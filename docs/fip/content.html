@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>GO FAIR Wiki</title>
+<title>GO FAIR Wiki - FIP Wizard User Guide</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,8 +90,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="../../docs/fip"> 
+<span class="menu-text">FIP</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../../docs/guide/index.html" aria-current="page"> 
@@ -113,6 +113,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../license.html"> 
 <span class="menu-text">License</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -124,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../docs/guide/index.html">Guide</a></li><li class="breadcrumb-item"><a href="../../docs/fip/content.html">FIP Wizard User Guide</a></li><li class="breadcrumb-item"><a href="../../docs/fip/content.html">Background</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../docs/guide/index.html">Guide</a></li><li class="breadcrumb-item"><a href="../../docs/fip/content.html">FIP Wizard User Guide</a></li><li class="breadcrumb-item"><a href="../../docs/fip/content.html">FIP Wizard User Guide</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -157,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../docs/fip/content.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Background</span></a>
+ <span class="menu-text">FIP Wizard User Guide</span></a>
   </div>
 </li>
       </ul>
@@ -238,11 +242,27 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../docs/guide/index.html">Guide</a></li><li class="breadcrumb-item"><a href="../../docs/fip/content.html">FIP Wizard User Guide</a></li><li class="breadcrumb-item"><a href="../../docs/fip/content.html">FIP Wizard User Guide</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title">FIP Wizard User Guide</h1>
+</div>
 
 
 
-<section id="background" class="level1">
-<h1>Background</h1>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
 <p>A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as&nbsp; FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, “how to” overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see Reusable FAIR Implementation Profiles as Accelerators of FAIR Convergence, in Grossmann G., Ram S. (eds) Advances in Conceptual Modeling. ER 2020. Lecture Notes in Computer Science, vol 12584. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-65847-2_13">DOI</a>.&nbsp;</p>
 <p>The FIP Wizard 4.0 tool is based on the same technology as the familiar <a href="https://ds-wizard.org/dsw-story">Data Stewardship Wizard</a>. Essentially, we have replaced the Knowledge Model that guides the creation of a data stewardship plan, with a Knowledge Model based on the FIP Questionnaire that guides the user in the creation of a FIP. We have also added the capability for the FIP Wizard 4.0 to use (consume and produce) <a href="https://nanopub.net">nanopublications</a>, allowing the various elements of the FIP to be captured in this highly modular, referenceable, machine-interpretable format. Making use of nanopublications and the <a href="https://w3id.org/fair/fip">FIP Ontology</a>, the FIP Wizard 4.0 captures FIPs that are themselves, to a very high degree, FAIR.&nbsp;</p>
 <p>Hence, this user guide is designed to complement the FIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the <a href="https://guide.ds-wizard.org">DSW User Guide</a>.&nbsp;</p>
@@ -256,8 +276,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>The FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: fipadmin@gofair.foundation.</p>
 </section>
-<section id="overview-on-how-to-create-a-fair-implementation-profile" class="level1">
-<h1>Overview on how to create a FAIR Implementation Profile</h1>
+<section id="overview-on-how-to-create-a-fair-implementation-profile" class="level2">
+<h2 class="anchored" data-anchor-id="overview-on-how-to-create-a-fair-implementation-profile">Overview on how to create a FAIR Implementation Profile</h2>
 <p>The FIP Wizard 4.0 is by now a stable and robust tool. However, as the FIP Wizard generates and relies on information that is open to the community at large, it requires some expert guidance in its use in order to ensure the quality of the output. This means that anyone who wishes to create a FIP should ﬁrst participate in a FIP Introduction workshop conducted by a <strong>GFF qualiﬁed</strong> <a href="https://osf.io/bthf8">3PFF facilitator</a>. A major responsibility of the 3PFF facilitator is to curate newly created FERs to ensure the list of resources is uncluttered by duplicates or erroneous and useless nanopublications. If you are interested in GFF qualiﬁcation as a 3PFF facilitator, please email fipadmin@gofair.foundation.</p>
 <p>Making a FIP will typically involve three activities summarized below. The numbered chapters of this user guide will provide all the details you need to operate the FIP Wizard responsibly and with conﬁdence.</p>
 <ol type="1">
@@ -276,8 +296,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>FIP Publication:</strong> The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see <a href="https://gofair-foundation.github.io/fip/Publishing.html">Publishing</a>).</p></li>
 </ol>
 </section>
-<section id="getting-started-with-the-fip-wizard-4.0" class="level1">
-<h1>Getting started with the FIP Wizard 4.0</h1>
+<section id="getting-started-with-the-fip-wizard-4.0" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started-with-the-fip-wizard-4.0">Getting started with the FIP Wizard 4.0</h2>
 <ul>
 <li>Go to https://fip-wizard.ds-wizard.org: log in or sign up.</li>
 <li>Click Projects (a folder icon in the menu bar on the left) (1).</li>
@@ -327,8 +347,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Principally there should be one and only one person who acts as a data steward for the community and enters all answers. However, in most cases the answers will need to be agreed upon by an expert team of that community. By clicking on the <strong>Share button</strong> on the top right you can provide editing or viewing rights for your colleagues (9).</p>
 <p><img src="./_static/img/9.png" width="60%"></p>
 </section>
-<section id="completing-the-fip-questionnaire" class="level1">
-<h1>Completing the FIP questionnaire</h1>
+<section id="completing-the-fip-questionnaire" class="level2">
+<h2 class="anchored" data-anchor-id="completing-the-fip-questionnaire">Completing the FIP questionnaire</h2>
 <p>The FIP questionnaire has 29 questions (referred to in the FIP ontology as “declarations”), divided among 7 chapters.</p>
 <p>    I. About</p>
 <p>    II. Declare your FAIR Implementation Community</p>
@@ -392,8 +412,8 @@ ul.task-list li input[type="checkbox"] {
 <p>By clicking on the “template” link in each case, you will be taken to the dialog box for creating a new project - in this case, a new Wizard project template for authoring nanopublications.</p>
 <p>Once you have successfully created a new nanopublication, it will become immediately visible (and selectable) to you and others in the appropriate drop-down lists of the FIP Wizard 3.0.</p>
 </section>
-<section id="creating-nanopublications" class="level1">
-<h1>Creating nanopublications</h1>
+<section id="creating-nanopublications" class="level2">
+<h2 class="anchored" data-anchor-id="creating-nanopublications">Creating nanopublications</h2>
 <p><strong>What is a nanopublication?</strong></p>
 <p>A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see <a href="https://nanopub.net/">here</a> and <a href="https://peerj.com/articles/cs-387/">here</a>).</p>
 <p><img src="../../docs/img/nanopubstructure.jpg" class="img-fluid" style="width:50.0%"></p>
@@ -439,8 +459,8 @@ ul.task-list li input[type="checkbox"] {
 <p>The newly created FER will not yet have a GFF qualiﬁcation, as this review process will take a few days. If it is not accepted you will get a notiﬁcation about the reason.</p>
 <p>You can, however, already use the FER before it gets a qualiﬁcation.</p>
 </section>
-<section id="publishing-your-fip" class="level1">
-<h1>Publishing your FIP</h1>
+<section id="publishing-your-fip" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-your-fip">Publishing your FIP</h2>
 <p>Your completed FIP questionnaire should include:</p>
 <ul>
 <li><p>Your community nanopub,</p></li>
@@ -483,8 +503,8 @@ ul.task-list li input[type="checkbox"] {
 <p>All the nanopublications representing your FIP - i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a <a href="https://virtuoso.nps.petapico.org/sparql">SPARQL endpoint</a>. To get a matrix of all created FIPs, called FIP Matrix (24) download the <a href="https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv">new_matrix.csv</a>.</p>
 <p><img src="./_static/img/24.png" width="55%"></p>
 </section>
-<section id="revising-your-fip" class="level1">
-<h1>Revising your FIP</h1>
+<section id="revising-your-fip" class="level2">
+<h2 class="anchored" data-anchor-id="revising-your-fip">Revising your FIP</h2>
 <p>Changes in the FIP are automatically saved.</p>
 <p>There is no undo button for any action BUT you can use the version history button (25) which allows you to:</p>
 <ul>

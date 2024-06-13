@@ -1,4 +1,11 @@
-# Background
+---
+title: FIP Wizard User Guide
+format: html
+aliases: 
+  - /docs/fip/
+---
+
+## Background
 
 A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as  FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, "how to" overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see Reusable FAIR Implementation Profiles as Accelerators of FAIR Convergence, in Grossmann G., Ram S. (eds) Advances in Conceptual Modeling. ER 2020. Lecture Notes in Computer Science, vol 12584. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-030-65847-2_13). 
 
@@ -20,7 +27,7 @@ Hence, this user guide is designed to complement the FIP-specific features of th
 
 The FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: fipadmin\@gofair.foundation.
 
-# Overview on how to create a FAIR Implementation Profile
+## Overview on how to create a FAIR Implementation Profile
 
 The FIP Wizard 4.0 is by now a stable and robust tool. However, as the FIP Wizard generates and relies on information that is open to the community at large, it requires some expert guidance in its use in order to ensure the quality of the output. This means that anyone who wishes to create a FIP should ﬁrst participate in a FIP Introduction workshop conducted by a **GFF qualiﬁed** [3PFF facilitator](https://osf.io/bthf8). A major responsibility of the 3PFF facilitator is to curate newly created FERs to ensure the list of resources is uncluttered by duplicates or erroneous and useless nanopublications. If you are interested in GFF qualiﬁcation as a 3PFF facilitator, please email fipadmin\@gofair.foundation.
 
@@ -41,7 +48,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 3.  **FIP Publication:** The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see [Publishing](https://gofair-foundation.github.io/fip/Publishing.html)).
 
-# Getting started with the FIP Wizard 4.0
+## Getting started with the FIP Wizard 4.0
 
 -   Go to https://fip-wizard.ds-wizard.org: log in or sign up.
 -   Click Projects (a folder icon in the menu bar on the left) (1).
@@ -105,7 +112,7 @@ Principally there should be one and only one person who acts as a data steward f
 
 <img src="./_static/img/9.png" width="60%"/>
 
-# Completing the FIP questionnaire
+## Completing the FIP questionnaire
 
 The FIP questionnaire has 29 questions (referred to in the FIP ontology as “declarations”), divided among 7 chapters.
 
@@ -207,7 +214,7 @@ By clicking on the “template” link in each case, you will be taken to the di
 
 Once you have successfully created a new nanopublication, it will become immediately visible (and selectable) to you and others in the appropriate drop-down lists of the FIP Wizard 3.0.
 
-# Creating nanopublications
+## Creating nanopublications
 
 **What is a nanopublication?**
 
@@ -276,7 +283,7 @@ The newly created FER will not yet have a GFF qualiﬁcation, as this review pro
 
 You can, however, already use the FER before it gets a qualiﬁcation.
 
-# Publishing your FIP
+## Publishing your FIP
 
 Your completed FIP questionnaire should include:
 
@@ -348,7 +355,7 @@ All the nanopublications representing your FIP - i.e., the FIC, the many FERs, a
 
 <img src="./_static/img/24.png" width="55%"/>
 
-# Revising your FIP
+## Revising your FIP
 
 Changes in the FIP are automatically saved.
 

@@ -3,6 +3,7 @@ title: FIP Wizard User Guide
 format: html
 aliases: 
   - /docs/fip/
+  - /fip/
 ---
 
 ## Background

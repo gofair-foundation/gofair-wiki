@@ -34,7 +34,7 @@ This GO FAIR **wiki** is an effort to bring together past, current and future in
 
 ------------------------------------------------------------------------
 
-**Latest news**
+**Latest news | [All news](docs/news)**
 
 ::: {#latest-posts}
 :::

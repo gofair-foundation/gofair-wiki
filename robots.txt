@@ -1,1 +1,1 @@
-Sitemap: https://gofair-foundation.github.io/gofair-wiki/sitemap.xml
+Sitemap: https://wiki.gofair.foundation/sitemap.xml

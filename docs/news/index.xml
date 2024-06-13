@@ -6,20 +6,20 @@
       version="2.0">
 <channel>
 <title>GO FAIR Wiki</title>
-<link>https://gofair-foundation.github.io/gofair-wiki/docs/news/</link>
-<atom:link href="https://gofair-foundation.github.io/gofair-wiki/docs/news/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://wiki.gofair.foundation/docs/news/</link>
+<atom:link href="https://wiki.gofair.foundation/docs/news/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
-<url>https://gofair-foundation.github.io/gofair-wiki/docs/img/GGF_checkmark.png</url>
+<url>https://wiki.gofair.foundation/docs/img/GGF_checkmark.png</url>
 <title>GO FAIR Wiki</title>
-<link>https://gofair-foundation.github.io/gofair-wiki/docs/news/</link>
+<link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.4.555</generator>
 <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>FIP Wizard Important Updates</title>
   <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</link>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</link>
   <description><![CDATA[ 
 
 
@@ -31,23 +31,23 @@
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/ferffs.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/ferffs.jpg" class="img-fluid figure-img"></p>
 <figcaption>b)</figcaption>
 </figure>
 </div>
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid" style="width:40.0%"></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid" style="width:40.0%"></p>
 
 
 
  ]]></description>
   <category>FIP Wizard</category>
-  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</guid>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</guid>
   <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>FIP Wizard Important Updates</title>
   <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/</link>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/</link>
   <description><![CDATA[ 
 
 
@@ -69,22 +69,22 @@
 <p><em>https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0&amp;format=application/ld+json</em></p>
 <p><strong>How to get to your FIP URI</strong>:</p>
 <p>Once you created a nanopublication for your FIP in the Wizard, you should go to submission:</p>
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/viewsub.jpg" class="img-fluid"></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/viewsub.jpg" class="img-fluid"></p>
 <p>Then you see the full nanopublication: you can easily copy the required part of the URI from the address bar (highlighted in orange).</p>
 <p>https://w3id.org/np/<em>RA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0</em></p>
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/identifier.jpg" class="img-fluid"></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/identifier.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>FIP Wizard</category>
-  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-06-03-JSON-LD-output/</guid>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/</guid>
   <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>LIFES</title>
   <dc:creator>Norbert van Dijk</dc:creator>
-  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</link>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-05-29-lifes-update/</link>
   <description><![CDATA[ 
 
 
@@ -93,7 +93,7 @@
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/lifes.png" class="img-fluid figure-img"></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-05-29-lifes-update/lifes.png" class="img-fluid figure-img"></p>
 <figcaption>Leiden Institute for FAIR and Equitable Science</figcaption>
 </figure>
 </div>
@@ -106,13 +106,13 @@
  ]]></description>
   <category>FAIR and Equitable Science</category>
   <category>LIFES</category>
-  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-05-29-lifes-update/</guid>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-05-29-lifes-update/</guid>
   <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>FIP Wizard Important Updates</title>
   <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-fip-wizard-update/</link>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/</link>
   <description><![CDATA[ 
 
 
@@ -121,7 +121,7 @@
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-fip-wizard-update/dsw.png" class="img-fluid figure-img"></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/dsw.png" class="img-fluid figure-img"></p>
 <figcaption>DSW</figcaption>
 </figure>
 </div>
@@ -138,13 +138,13 @@
 
  ]]></description>
   <category>FIP Wizard</category>
-  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-fip-wizard-update/</guid>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/</guid>
   <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>New nanodash platform</title>
   <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-nanodash-update/</link>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</link>
   <description><![CDATA[ 
 
 
@@ -153,7 +153,7 @@
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-nanodash-update/nanodash.png" class="img-fluid figure-img"></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/nanodash.png" class="img-fluid figure-img"></p>
 <figcaption>Nanodash</figcaption>
 </figure>
 </div>
@@ -166,7 +166,7 @@
  ]]></description>
   <category>nanodash</category>
   <category>nano publications</category>
-  <guid>https://gofair-foundation.github.io/gofair-wiki/docs/news/posts/2024-02-05-nanodash-update/</guid>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</guid>
   <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>

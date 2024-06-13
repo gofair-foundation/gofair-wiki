@@ -31,8 +31,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.qmd
+      - text: FIP
+        href: docs/fip
       - text: Guide
         href: docs/guide/index.qmd
       - text: News
@@ -43,6 +43,8 @@ website:
         href: contributing.qmd
       - text: License
         href: license.qmd
+      - text: About
+        href: about.qmd
         
   sidebar:
     - id: guide

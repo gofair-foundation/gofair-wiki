@@ -15,7 +15,30 @@
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Jun 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The I-ADOPT Variable Modeling Challange</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/modeling.jpg" class="img-fluid"></p>
+<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.</p>
+<p>We therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.</p>
+<p>Are you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on https://i-adopt.github.io/challenge.html.</p>
+
+
+
+ ]]></description>
+  <category>I-ADOPT</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</guid>
+  <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>FIP Wizard Important Updates</title>
   <dc:creator>Barbara Magagna</dc:creator>
@@ -168,29 +191,6 @@
   <category>nano publications</category>
   <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</guid>
   <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The I-ADOPT Variable Modeling Challange</title>
-  <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<p>We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.</p>
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/modeling.jpg" class="img-fluid"></p>
-<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.</p>
-<p>We therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.</p>
-<p>Are you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on https://i-adopt.github.io/challenge.html.</p>
-
-
-
- ]]></description>
-  <category>I-ADOPT</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</guid>
-  <pubDate>Invalid Date</pubDate>
 </item>
 </channel>
 </rss>

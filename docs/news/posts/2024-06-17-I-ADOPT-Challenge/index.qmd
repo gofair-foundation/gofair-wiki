@@ -1,3 +1,16 @@
+---
+title: The I-ADOPT Variable Modeling Challange
+categories:
+  - I-ADOPT
+author: 
+  - name: Barbara Magagna
+    orcid: 0000-0003-2195-3997
+date: 17/6/2024
+---
+
+------------------------------------------------------------------------
+
+
 We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.
 
 ![](modeling.jpg)

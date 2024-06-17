@@ -1,0 +1,9 @@
+We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.
+
+![](modeling.jpg)
+
+I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.
+
+We therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.
+
+Are you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on https://i-adopt.github.io/challenge.html.

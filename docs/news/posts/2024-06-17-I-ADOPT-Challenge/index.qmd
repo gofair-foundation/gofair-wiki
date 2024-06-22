@@ -1,5 +1,5 @@
 ---
-title: The I-ADOPT Variable Modeling Challange
+title: The I-ADOPT Variable Modeling Challenge
 categories:
   - I-ADOPT
 author: 

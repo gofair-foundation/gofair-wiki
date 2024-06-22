@@ -3,4 +3,8 @@ title: "FAIR Connect"
 subtitle: "Empowering Data Stewardship"
 ---
 
-[FAIR Connect](https://fairconnect.pro/) is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship. 
+[FAIR Connect](https://fairconnect.pro/) is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship.
+
+[![Homepage FAIR Connect](fairconnect_home.png)](https://fairconnect.pro/)
+
+Recent additions to FAIR Connect are a [Nanopublications Search engine](http://v2.fairconnect.pro/) and a [Dashboard](http://v2.fairconnect.pro/dashboard) listing published FER's by subject and published FIP's by field.

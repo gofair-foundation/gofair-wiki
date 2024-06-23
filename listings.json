@@ -1,7 +1,12 @@
 [
   {
+    "listing": "/docs/guide/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/docs/news/posts/2024-06-24-CBP-Update/index.html",
       "/docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
       "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
       "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
@@ -11,12 +16,9 @@
     ]
   },
   {
-    "listing": "/docs/guide/index.html",
-    "items": []
-  },
-  {
     "listing": "/docs/news/index.html",
     "items": [
+      "/docs/news/posts/2024-06-24-CBP-Update/index.html",
       "/docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
       "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
       "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",

@@ -57,3 +57,9 @@ Two possible qualifications:
 
 -   **3PFF Trainer** (after 60 hours training, exam and 20 hours
     assistance)
+
+Find here more details:
+
+Schultes, E., & Magagna, B. (2022). The GO FAIR Foundation's FAIR
+Capacity Building Programme (1.0). Zenodo.
+<https://zenodo.org/doi/10.5281/zenodo.12160021>

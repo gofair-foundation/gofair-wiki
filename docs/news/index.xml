@@ -15,7 +15,52 @@
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Mon, 17 Jun 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Jun 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>GFF Capacity Building Programme Update</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
+<p>We introduced a new level for qualification for those wanting to learn the content of the CBP but not interested to become facilitators or trainers themselves. They can participate in the same training units but omit the assistance time (so in total spend 60 hours instead of 80 hours) and be qualified as Implementers.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/CBP.jpg" class="img-fluid"></p>
+<p>The two modules are renamed into:</p>
+<p><strong>Module 1</strong>:</p>
+<ul>
+<li><p>Unit FAIR Awareness</p></li>
+<li><p>Unit FAIR Implementation Profile</p></li>
+<li><p>Unit M4M introduction</p></li>
+</ul>
+<p>Three possible qualifications:</p>
+<ul>
+<li><p><strong>FIP Implementer</strong> (after 60 hours training and exam)</p></li>
+<li><p><strong>FIP Facilitator</strong> (after 40 hours training, exam and 20 hours assistance)</p></li>
+<li><p><strong>3PFF Faciltitor</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
+</ul>
+<p><strong>Module 2</strong>, only possible after completing Module 1:</p>
+<ul>
+<li><p>Unit M4M vocabulary</p></li>
+<li><p>Unit M4M metadata</p></li>
+<li><p>Unit FAIR orchestration</p></li>
+</ul>
+<p>Two possible qualifications:</p>
+<ul>
+<li><p><strong>M4M Implementer</strong> (after 60 hours training and exam)</p></li>
+<li><p><strong>3PFF Trainer</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</guid>
+  <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The I-ADOPT Variable Modeling Challenge</title>
   <dc:creator>Barbara Magagna</dc:creator>
@@ -191,51 +236,6 @@
   <category>nano publications</category>
   <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</guid>
   <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>GFF Capacity Building Programme Update</title>
-  <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
-<p>We introduced a new level for qualification for those wanting to learn the content of the CBP but not interested to become facilitators or trainers themselves. They can participate in the same training units but omit the assistance time (so in total spend 60 hours instead of 80 hours) and be qualified as Implementers.</p>
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/CBP.jpg" class="img-fluid"></p>
-<p>The two modules are renamed into:</p>
-<p><strong>Module 1</strong>:</p>
-<ul>
-<li><p>Unit FAIR Awareness</p></li>
-<li><p>Unit FAIR Implementation Profile</p></li>
-<li><p>Unit M4M introduction</p></li>
-</ul>
-<p>Three possible qualifications:</p>
-<ul>
-<li><p><strong>FIP Implementer</strong> (after 60 hours training and exam)</p></li>
-<li><p><strong>FIP Facilitator</strong> (after 40 hours training, exam and 20 hours assistance)</p></li>
-<li><p><strong>3PFF Faciltitor</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
-</ul>
-<p><strong>Module 2</strong>, only possible after completing Module 1:</p>
-<ul>
-<li><p>Unit M4M vocabulary</p></li>
-<li><p>Unit M4M metadata</p></li>
-<li><p>Unit FAIR orchestration</p></li>
-</ul>
-<p>Two possible qualifications:</p>
-<ul>
-<li><p><strong>M4M Implementer</strong> (after 60 hours training and exam)</p></li>
-<li><p><strong>3PFF Trainer</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
-</ul>
-
-
-
- ]]></description>
-  <category>CBP</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</guid>
-  <pubDate>Invalid Date</pubDate>
 </item>
 </channel>
 </rss>

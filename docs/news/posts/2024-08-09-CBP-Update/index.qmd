@@ -1,0 +1,31 @@
+---
+title: GFF Capacity Building Programme Update
+categories:
+  - CBP
+author: 
+  - name: Barbara Magagna
+    orcid: 0000-0003-2195-3997
+date: 8/9/2024
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+------------------------------------------------------------------------
+
+GO FAIR Foundation has updated its **GFF Capacity Building Programme**.
+
+We reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.  
+
+
+![](CBP.jpg)
+
+After completing the mandatory **FAIR Awareness** unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources. 
+
+The **FIP Implementer Qualification** consists of a single training unit (40 hours) while the **M4M Implementer Qualification** consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.
+
+Find here more details:
+
+Schultes, E., & Magagna, B. (2022). The GO FAIR Foundation's FAIR
+Capacity Building Programme (1.0). Zenodo.
+<https://zenodo.org/doi/10.5281/zenodo.12160021>

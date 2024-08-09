@@ -14,8 +14,33 @@
 <title>GO FAIR Wiki</title>
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
-<generator>quarto-1.4.555</generator>
-<lastBuildDate>Mon, 24 Jun 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Fri, 09 Aug 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>GFF Capacity Building Programme Update</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
+<p>We reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/CBP.jpg" class="img-fluid"></p>
+<p>After completing the mandatory <strong>FAIR Awareness</strong> unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.</p>
+<p>The <strong>FIP Implementer Qualification</strong> consists of a single training unit (40 hours) while the <strong>M4M Implementer Qualification</strong> consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.</p>
+<p>Find here more details:</p>
+<p>Schultes, E., &amp; Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. <a href="https://zenodo.org/doi/10.5281/zenodo.12160021" class="uri">https://zenodo.org/doi/10.5281/zenodo.12160021</a></p>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</guid>
+  <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>GFF Capacity Building Programme Update</title>
   <dc:creator>Barbara Magagna</dc:creator>

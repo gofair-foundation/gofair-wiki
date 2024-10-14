@@ -15,7 +15,37 @@
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 09 Aug 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Oct 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The I-ADOPT Variable Modeling Challenge</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT. We are pleased to share news with you about the I-ADOPT Variable Modeling Challenge outcome:</p>
+<p>The Challenge took place from 16 to 29 September 2024.</p>
+<p><strong>1st place</strong>: Anne Fouilloux and Jean Iaquinta (212.75 points) <strong>2nd place</strong>: Andrea Tarallo, Martina Pulieri, Christina Di Muri e Jessica Titocci (206.5 points) <strong>3rd place</strong>: Jörg Klausen, Morgan Silverman and Gao Chen (168.6 points)</p>
+<p>Runner-up contestants:</p>
+<p>Samantha Blakeman, Petra ten Hoopen, Saurav Kumar</p>
+<p>These people will automatically qualify for a share in the prize pot of our second challenge (details below).</p>
+<p>We decided to launch a second challenge that will take place</p>
+<p>from October 14 (10:00 CEST) to 18 (22:00 CEST)</p>
+<p>We have <strong>1000 Euro in the prize pool</strong> for the second challenge.</p>
+<p>There will be no single winner, but everyone contributing with at least 5 high-quality variable models will get an equal amount from the prize pot.* High-quality is defined by a variable that scores 12 points or higher.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/modeling.jpg" class="img-fluid"></p>
+<p>Are you interested in joining the second challenge? More information on <a href="https://i-adopt.github.io/challenge.html">https://i-adopt.github.io/challenge.html</a>.</p>
+
+
+
+ ]]></description>
+  <category>I-ADOPT</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/</guid>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>GFF Capacity Building Programme Update</title>
   <dc:creator>Barbara Magagna</dc:creator>

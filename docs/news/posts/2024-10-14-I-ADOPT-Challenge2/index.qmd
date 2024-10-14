@@ -1,5 +1,5 @@
 ---
-title: The I-ADOPT Variable Modeling Challenge
+title: The I-ADOPT Variable Modeling Challenge 2
 categories:
   - I-ADOPT
 author: 
@@ -27,7 +27,7 @@ Samantha Blakeman, Petra ten Hoopen, Saurav Kumar
 
 These people will automatically qualify for a share in the prize pot of our second challenge (details below).
 
-We decided to launch a second challenge that will take place
+We decided to launch a **second challenge** that will take place
 
 from October 14 (10:00 CEST) to 18 (22:00 CEST)
 

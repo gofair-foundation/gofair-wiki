@@ -1,20 +1,8 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/docs/news/posts/2024-08-09-CBP-Update/index.html",
-      "/docs/news/posts/2024-06-24-CBP-Update/index.html",
-      "/docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
-      "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
-      "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
-      "/docs/news/posts/2024-05-29-lifes-update/index.html",
-      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-      "/docs/news/posts/2024-02-05-nanodash-update/index.html"
-    ]
-  },
-  {
     "listing": "/docs/news/index.html",
     "items": [
+      "/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/index.html",
       "/docs/news/posts/2024-08-09-CBP-Update/index.html",
       "/docs/news/posts/2024-06-24-CBP-Update/index.html",
       "/docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
@@ -28,5 +16,19 @@
   {
     "listing": "/docs/guide/index.html",
     "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/index.html",
+      "/docs/news/posts/2024-08-09-CBP-Update/index.html",
+      "/docs/news/posts/2024-06-24-CBP-Update/index.html",
+      "/docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
+      "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
+      "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
+      "/docs/news/posts/2024-05-29-lifes-update/index.html",
+      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+      "/docs/news/posts/2024-02-05-nanodash-update/index.html"
+    ]
   }
 ]

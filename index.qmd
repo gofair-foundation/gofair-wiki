@@ -32,6 +32,8 @@ listing:
 
 This GO FAIR **wiki** is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still **under construction**. This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). The source files of this website can be found on [Github](https://github.com/gofair-foundation/gofair-wiki).
 
+Test content
+
 ------------------------------------------------------------------------
 
 **Latest news | [All news](docs/news)**

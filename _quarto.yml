@@ -52,9 +52,10 @@ website:
         - section: "Guide"
           href: docs/guide/index.qmd
           contents:
-          - section: "FIP Wizard User Guide"
+          - section: "FAIR Implementation Profile"
             contents:
               - docs/fip/content.qmd
+              - docs/fip/fer.qmd
           - section: "Nanopublications"
             contents:
               - docs/np/index.qmd

@@ -1,0 +1,90 @@
+---
+title: FAIR Enabling Resources (FERs)
+format: 
+  html:
+    css: table.css
+---
+
+## FER Types
+
+```{=html}
+<table class="fer">
+<caption><span data-qmd="FAIR Enabling Resource (FER) Types. Adapted from @3pff_references."></span></caption>
+<thead>
+  <tr>
+    <th>FAIR principle</th>
+    <th>FER Type</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><span data-qmd="{{< var F1 >}}"></span></td>
+    <td>Identifier service</td>
+    <td>A <b>service</b> that provides for any digital object (1) algorithms guaranteeing global uniqueness, (2) policy document that guarantees persistent and (3) resolution of the identifier to machine-actionable metadata describing the object and its location.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F2 >}}"></span></td>
+    <td>Metadata schema</td>
+    <td>A <b>specification</b> that specifies the structured representation of metadata describing attributes of data or other digital objects in terms of semantics, syntax and optionality.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F3 >}}"></span></td>
+    <td>Metadata-Data linking schema</td>
+    <td>A <b>specification</b> that provides a unique, persistent, (ideally) bi-directional, machine-actionable link between metadata and the data they describe.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F4 >}}"></span></td>
+    <td>Registry</td>
+    <td>A <b>service</b> that indexes metadata and data and provides search over that index.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-1 >}}"></span></td>
+    <td>Communication protocol</td>
+    <td>A <b>specification</b> of how messages are structured and exchanged.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-2 >}}"></span></td>
+    <td>Authentication &amp; authorisation service</td>
+    <td>A <b>service</b> that mediates access to digital objects according to specifed conditions.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A2 >}}"></span></td>
+    <td>Metadata preservation policy</td>
+    <td>A data <b>policy</b> that describes the conditions under which metadata should be provided in the future.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I1 >}}"></span></td>
+    <td>Knowledge representation language</td>
+    <td>A language <b>specification</b> that enables knowledge to be processed by machines.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I2 >}}"></span></td>
+    <td>Structured vocabularie</td>
+    <td>A <b>specification</b> for a controlled list of uniquely identified and unambigous concepts with their definitions represented using web standards.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I3 >}}"></span></td>
+    <td>Semantic model</td>
+    <td>A <b>specification</b> that defines qualified relations between entities describing data or other digital objects according to the Linked Data principles. This can include semantic data models and ontologies.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-1 >}}"></span></td>
+    <td>Data usage license</td>
+    <td>A data <b>policy</b> that specifies legal restrictions on the reuse of the data.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-2 >}}"></span></td>
+    <td>Provenance model</td>
+    <td>A <b>specification</b> that specifies metadata describing the origin and lineage of data or other digital objects.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-3 >}}"></span></td>
+    <td>The FAIR implementation Profile</td>
+    <td>A FAIR Implementation Profile (FIP) is a list of declared technology choices intended to implement each of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice.</td>
+  </tr>
+</tbody></table>
+```
+
+### FAIR Supporting Resources (FSRs)
+
+![FAIR Supporting Resources versus FAIR Enabling Resources.](_static/img/fsr-new.drawio.svg){#fig-fsr}

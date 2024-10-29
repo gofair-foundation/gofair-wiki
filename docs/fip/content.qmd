@@ -44,7 +44,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
     A few notes:
 
     -   Many resources might be already described in [FAIRsharing](https://fairsharing.org/), in which case you should reuse the metadata recorded in there.
-    -   Typically, FERs of type Metadata-data-linking-mechanism (F3), Communication-protocol (A1.1), Authentication & Authorization Techniques (A1.2), a Knowledge-representation-language (I1) or Usage-license (R1.1) need to be described from scratch. This is true as well for “new” resources and “resources in development”.
+    -   Typically, FERs of type Metadata-data-linking-mechanism ({{< var F3 >}}), Communication-protocol ({{< var A1-1 >}}), Authentication & Authorization Techniques ({{< var A1-2 >}}), a Knowledge-representation-language ({{< var I1 >}}) or Usage-license ({{< var R1-1 >}}) need to be described from scratch. This is true as well for “new” resources and “resources in development”.
     -   Creating new FERs with good metadata as nanopubs requires a deep understanding about the resource and the [FER types](https://osf.io/2f9ej) to which it is assigned.
 
 3.  **FIP Publication:** The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see [Publishing](https://gofair-foundation.github.io/fip/Publishing.html)).
@@ -137,7 +137,7 @@ On the left, the FIP Wizard displays a questionnaire navigation tool, indicating
 
 If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.
 
-In the questionnaire, questions that have been answered will be highlighted in green, and those that still need to be answered will be highlighted in red. The FIP Wizard will use the resulting FIP as the definitive answer for R1.3 (domain-relevant community standards).
+In the questionnaire, questions that have been answered will be highlighted in green, and those that still need to be answered will be highlighted in red. The FIP Wizard will use the resulting FIP as the definitive answer for {{< var R1-3 >}} (domain-relevant community standards).
 
 **Chapter I. About**, gives some background information but has no associated questions.
 
@@ -161,7 +161,7 @@ This chapter contains these questions:
 
 <img src="./_static/img/11.png" width="100%"/>
 
-The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon [Jacobsen et al (2020) “FAIR Principles: Interpretations and Implementation Considerations”](https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation) and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: https://www.gofair.foundation/interpretation. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for F2 and R1.2).
+The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon [Jacobsen et al (2020) “FAIR Principles: Interpretations and Implementation Considerations”](https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation) and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: https://www.gofair.foundation/interpretation. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for {{< var F2 >}} and {{< var R1-2 >}}).
 
 There is a common pattern for each of the questions referring to each FAIR Principles. The questions begin by asking you to make an explicit declaration, about the usage of FAIR Enabling Resources regarding that Principle within your community.
 
@@ -278,7 +278,9 @@ You will see the submission as a FER nanopub (17), the persistent identiﬁer (n
 
 ![](/docs/img/img17.jpg)
 
-This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for F1).
+This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for {{< var F1 >}}).
+
+{{< var A1-1 >}}
 
 The newly created FER will not yet have a GFF qualiﬁcation, as this review process will take a few days. If it is not accepted you will get a notiﬁcation about the reason.
 

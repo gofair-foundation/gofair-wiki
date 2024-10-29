@@ -1,1 +1,17 @@
 version: 1.2
+
+F1: '<a href="https://www.gofair.foundation/f1" data-bs-toggle="tooltip" data-bs-title="(meta)data are assigned a globally unique and persistent identifier">F1</a>'
+F2: '<a href="https://www.gofair.foundation/f2" data-bs-toggle="tooltip" data-bs-title="data are described with rich metadata">F2</a>'
+F3: '<a href="https://www.gofair.foundation/f3" data-bs-toggle="tooltip" data-bs-title="metadata clearly and explicitly include the identifier of the data it describes">F3</a>'
+F4: '<a href="https://www.gofair.foundation/f4" data-bs-toggle="tooltip" data-bs-title="(meta)data are registered or indexed in a searchable resource">F4</a>'
+A1: '<a href="https://www.gofair.foundation/a1" data-bs-toggle="tooltip" data-bs-title="(meta)data are retrievable by their identifier using a standardized communications protocol">A1</a>'
+A1-1: '<a href="https://www.gofair.foundation/a1-1" data-bs-toggle="tooltip" data-bs-title="the protocol is open, free, and universally implementable">A1.1</a>'
+A1-2: '<a href="https://www.gofair.foundation/a1-2" data-bs-toggle="tooltip" data-bs-title="the protocol allows for an authentication and authorization procedure, where necessary">A1.2</a>'
+A2: '<a href="https://www.gofair.foundation/a2" data-bs-toggle="tooltip" data-bs-title="metadata are accessible, even when the data are no longer available">A2</a>'
+I1: '<a href="https://www.gofair.foundation/i1" data-bs-toggle="tooltip" data-bs-title="(meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation">I1</a>'
+I2: '<a href="https://www.gofair.foundation/i2" data-bs-toggle="tooltip" data-bs-title="(meta)data use vocabularies that follow FAIR principles">I2</a>'
+I3: '<a href="https://www.gofair.foundation/i3" data-bs-toggle="tooltip" data-bs-title="(meta)data include qualified references to other (meta)data">I3</a>'
+R1: '<a href="https://www.gofair.foundation/r1" data-bs-toggle="tooltip" data-bs-title="(meta)data are richly described with a plurality of accurate and relevant attributes">R1</a>'
+R1-1: '<a href="https://www.gofair.foundation/r1-1" data-bs-toggle="tooltip" data-bs-title="(meta)data are released with a clear and accessible data usage license">R1.1</a>'
+R1-2: '<a href="https://www.gofair.foundation/r1-2" data-bs-toggle="tooltip" data-bs-title="(meta)data are associated with detailed provenance">R1.2</a>'
+R1-3: '<a href="https://www.gofair.foundation/r1-3" data-bs-toggle="tooltip" data-bs-title="(meta)data meet domain-relevant community standards">R1.3</a>'

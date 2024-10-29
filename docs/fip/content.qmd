@@ -280,8 +280,6 @@ You will see the submission as a FER nanopub (17), the persistent identiﬁer (n
 
 This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for {{< var F1 >}}).
 
-{{< var A1-1 >}}
-
 The newly created FER will not yet have a GFF qualiﬁcation, as this review process will take a few days. If it is not accepted you will get a notiﬁcation about the reason.
 
 You can, however, already use the FER before it gets a qualiﬁcation.

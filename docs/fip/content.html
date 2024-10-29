@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -230,7 +250,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#getting-started-with-the-fip-wizard-4.0" id="toc-getting-started-with-the-fip-wizard-4.0" class="nav-link" data-scroll-target="#getting-started-with-the-fip-wizard-4.0">Getting started with the FIP Wizard 4.0</a></li>
   <li><a href="#completing-the-fip-questionnaire" id="toc-completing-the-fip-questionnaire" class="nav-link" data-scroll-target="#completing-the-fip-questionnaire">Completing the FIP questionnaire</a></li>
   <li><a href="#creating-nanopublications" id="toc-creating-nanopublications" class="nav-link" data-scroll-target="#creating-nanopublications">Creating nanopublications</a></li>
-  <li><a href="#publishing-your-fip" id="toc-publishing-your-fip" class="nav-link" data-scroll-target="#publishing-your-fip">Publishing your FIP</a></li>
+  <li><a href="#sec-fip-publishing" id="toc-sec-fip-publishing" class="nav-link" data-scroll-target="#sec-fip-publishing">Publishing your FIP</a></li>
   <li><a href="#revising-your-fip" id="toc-revising-your-fip" class="nav-link" data-scroll-target="#revising-your-fip">Revising your FIP</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/gofair-foundation/gofair-wiki/edit/main/docs/fip/content.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gofair-foundation/gofair-wiki/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -259,7 +279,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="background" class="level2">
 <h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as&nbsp; FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, “how to” overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see Reusable FAIR Implementation Profiles as Accelerators of FAIR Convergence, in Grossmann G., Ram S. (eds) Advances in Conceptual Modeling. ER 2020. Lecture Notes in Computer Science, vol 12584. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-65847-2_13">DOI</a>.&nbsp;</p>
+<p>A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, “how to” overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see <span class="citation" data-cites="Schultes2020">Schultes et al. (<a href="#ref-Schultes2020" role="doc-biblioref">2020</a>)</span>.</p>
 <p>The FIP Wizard 4.0 tool is based on the same technology as the familiar <a href="https://ds-wizard.org/dsw-story">Data Stewardship Wizard</a>. Essentially, we have replaced the Knowledge Model that guides the creation of a data stewardship plan, with a Knowledge Model based on the FIP Questionnaire that guides the user in the creation of a FIP. We have also added the capability for the FIP Wizard 4.0 to use (consume and produce) <a href="https://nanopub.net">nanopublications</a>, allowing the various elements of the FIP to be captured in this highly modular, referenceable, machine-interpretable format. Making use of nanopublications and the <a href="https://w3id.org/fair/fip">FIP Ontology</a>, the FIP Wizard 4.0 captures FIPs that are themselves, to a very high degree, FAIR.&nbsp;</p>
 <p>Hence, this user guide is designed to complement the FIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the <a href="https://guide.ds-wizard.org">DSW User Guide</a>.&nbsp;</p>
 <p><strong>Why FIPs anyways?</strong></p>
@@ -289,7 +309,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Typically, FERs of type Metadata-data-linking-mechanism (<a href="https://www.gofair.foundation/f3" data-bs-toggle="tooltip" data-bs-title="metadata clearly and explicitly include the identifier of the data it describes">F3</a>), Communication-protocol (<a href="https://www.gofair.foundation/a1-1" data-bs-toggle="tooltip" data-bs-title="the protocol is open, free, and universally implementable">A1.1</a>), Authentication &amp; Authorization Techniques (<a href="https://www.gofair.foundation/a1-2" data-bs-toggle="tooltip" data-bs-title="the protocol allows for an authentication and authorization procedure, where necessary">A1.2</a>), a Knowledge-representation-language (<a href="https://www.gofair.foundation/i1" data-bs-toggle="tooltip" data-bs-title="(meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation">I1</a>) or Usage-license (<a href="https://www.gofair.foundation/r1-1" data-bs-toggle="tooltip" data-bs-title="(meta)data are released with a clear and accessible data usage license">R1.1</a>) need to be described from scratch. This is true as well for “new” resources and “resources in development”.</li>
 <li>Creating new FERs with good metadata as nanopubs requires a deep understanding about the resource and the <a href="https://osf.io/2f9ej">FER types</a> to which it is assigned.</li>
 </ul></li>
-<li><p><strong>FIP Publication:</strong> The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see <a href="https://gofair-foundation.github.io/fip/Publishing.html">Publishing</a>).</p></li>
+<li><p><strong>FIP Publication:</strong> The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see <a href="#sec-fip-publishing">Publishing your FIP</a>).</p></li>
 </ol>
 </section>
 <section id="getting-started-with-the-fip-wizard-4.0" class="level2">
@@ -370,7 +390,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p>End date of the validity of the FIP. It may be the case that an explicit end date has yet to be specified by your community, in this case answer with “December 31 2050”.</p></li>
 </ol>
 <p><img src="./_static/img/11.png" width="100%"></p>
-<p>The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon <a href="https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation">Jacobsen et al (2020) “FAIR Principles: Interpretations and Implementation Considerations”</a> and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: https://www.gofair.foundation/interpretation. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for <a href="https://www.gofair.foundation/f2" data-bs-toggle="tooltip" data-bs-title="data are described with rich metadata">F2</a> and <a href="https://www.gofair.foundation/r1-2" data-bs-toggle="tooltip" data-bs-title="(meta)data are associated with detailed provenance">R1.2</a>).</p>
+<p>The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon <span class="citation" data-cites="Jacobsen2020">Jacobsen et al. (<a href="#ref-Jacobsen2020" role="doc-biblioref">2020</a>)</span> and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: <a href="https://www.gofair.foundation/interpretation" class="uri">https://www.gofair.foundation/interpretation</a>. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for <a href="https://www.gofair.foundation/f2" data-bs-toggle="tooltip" data-bs-title="data are described with rich metadata">F2</a> and <a href="https://www.gofair.foundation/r1-2" data-bs-toggle="tooltip" data-bs-title="(meta)data are associated with detailed provenance">R1.2</a>).</p>
 <p>There is a common pattern for each of the questions referring to each FAIR Principles. The questions begin by asking you to make an explicit declaration, about the usage of FAIR Enabling Resources regarding that Principle within your community.</p>
 <p>If your community uses a resource that is not FAIR, you have two options:</p>
 <ul>
@@ -411,7 +431,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="creating-nanopublications" class="level2">
 <h2 class="anchored" data-anchor-id="creating-nanopublications">Creating nanopublications</h2>
 <p><strong>What is a nanopublication?</strong></p>
-<p>A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see <a href="https://nanopub.net/">here</a> and <a href="https://peerj.com/articles/cs-387/">here</a>).</p>
+<p>A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see <span class="citation" data-cites="Kuhn2021">Kuhn et al. (<a href="#ref-Kuhn2021" role="doc-biblioref">2021</a>)</span> and <a href="https://nanopub.net/" class="uri">https://nanopub.net/</a>).</p>
 <p><img src="../../docs/img/nanopubstructure.jpg" class="img-fluid" style="width:50.0%"></p>
 <p>Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.</p>
 <p>Multiple nanopublications can be “contained” or bundled using a special kind of nanopublication called “index nanopublications”.</p>
@@ -421,7 +441,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p>This happens in two ways:</p>
 <ul>
 <li><p>Individual components of the FIP (such as the FIC and FERs) are all represented as nanopublications.</p></li>
-<li><p>The output of the FIP Wizard 3.0 (see <em>Publishing your FIP</em>) is an index nanopublication that provides a list of declared FERs for every FIC.</p></li>
+<li><p>The output of the FIP Wizard 3.0 (see <a href="#sec-fip-publishing">Publishing your FIP</a>) is an index nanopublication that provides a list of declared FERs for every FIC.</p></li>
 </ul></li>
 </ul>
 <p><strong>How to create FER nanopublications in the FIP Wizard</strong></p>
@@ -455,8 +475,8 @@ ul.task-list li input[type="checkbox"] {
 <p>The newly created FER will not yet have a GFF qualiﬁcation, as this review process will take a few days. If it is not accepted you will get a notiﬁcation about the reason.</p>
 <p>You can, however, already use the FER before it gets a qualiﬁcation.</p>
 </section>
-<section id="publishing-your-fip" class="level2">
-<h2 class="anchored" data-anchor-id="publishing-your-fip">Publishing your FIP</h2>
+<section id="sec-fip-publishing" class="level2">
+<h2 class="anchored" data-anchor-id="sec-fip-publishing">Publishing your FIP</h2>
 <p>Your completed FIP questionnaire should include:</p>
 <ul>
 <li><p>Your community nanopub,</p></li>
@@ -517,9 +537,20 @@ ul.task-list li input[type="checkbox"] {
 <p>A nanopublication is just that - a publication. As such, it is persistent and can not be deleted from the nanopub record. However, as with any traditional publication, nanopublications can be “retracted”. This is done by issuing a special purpose retraction nanopublication, linking to the original. This can only be done by the FIP facilitator. If you feel a nanopublication created in the FIP Wizard should be retracted, please add a new issue in our <a href="https://github.com/gofair-foundation/fsr_qualification/issues">qualification github repository</a>.</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-Jacobsen2020" class="csl-entry" role="listitem">
+Jacobsen, Annika, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, Mélanie Courtot, et al. 2020. <span>“FAIR Principles: Interpretations and Implementation Considerations.”</span> <em>Data Intelligence</em> 2 (1–2): 10–29. <a href="https://doi.org/10.1162/dint_r_00024">https://doi.org/10.1162/dint_r_00024</a>.
+</div>
+<div id="ref-Kuhn2021" class="csl-entry" role="listitem">
+Kuhn, Tobias, Ruben Taelman, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, and Michel Dumontier. 2021. <span>“Semantic Micro-Contributions with Decentralized Nanopublication Services.”</span> <em>PeerJ Computer Science</em> 7 (March): e387. <a href="https://doi.org/10.7717/peerj-cs.387">https://doi.org/10.7717/peerj-cs.387</a>.
+</div>
+<div id="ref-Schultes2020" class="csl-entry" role="listitem">
+Schultes, Erik, Barbara Magagna, Kristina Maria Hettne, Robert Pergl, Marek Suchánek, and Tobias Kuhn. 2020. <span>“<span class="nocase">Reusable FAIR Implementation Profiles as Accelerators of FAIR Convergence</span>.”</span> In <em><span class="nocase">Advances in Conceptual Modeling</span></em>, 138–47. Springer International Publishing. <a href="https://doi.org/10.1007/978-3-030-65847-2_13">https://doi.org/10.1007/978-3-030-65847-2_13</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

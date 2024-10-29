@@ -15,7 +15,7 @@ Please be aware that you will be asked specific questions in these two sections:
 
 **If your community provides data of a different digital object type and semantic interoperable case study we ask you to clone this project and modify it** only where needed in order to make your answers unambiguous.
 
-We thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: fipadmin\@gofair.foundation.
+We thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: [fipadmin\@gofair.foundation](mailto:fipadmin\@gofair.foundation).
 
 DISCLAIMER
 

@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>content – GO FAIR Wiki</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../docs/guide/authors.html" rel="next">
+<link href="../../docs/np/index.html" rel="prev">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../fip"> 
+<span class="menu-text">FIP</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../docs/guide/index.html" aria-current="page"> 
+<span class="menu-text">Guide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../docs/news/index.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../docs/fair-connect/fair-connect.html"> 
+<span class="menu-text">FAIR Connect</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contributing.html"> 
+<span class="menu-text">Contributing</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../docs/guide/index.html">Guide</a></li><li class="breadcrumb-item"><a href="../../docs/sip/content.html">SIP Wizard User Guide</a></li><li class="breadcrumb-item"><a href="../../docs/sip/content.html">Background</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../docs/guide/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Guide</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+ <span class="menu-text">FIP Wizard User Guide</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../docs/fip/content.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FIP Wizard User Guide</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Nanopublications</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../docs/np/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">SIP Wizard User Guide</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../docs/sip/content.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Background</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+ <span class="menu-text">Authors and Contributors</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../docs/guide/authors.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Authors</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#getting-started-with-the-sip-wizard-4.0" id="toc-getting-started-with-the-sip-wizard-4.0" class="nav-link" data-scroll-target="#getting-started-with-the-sip-wizard-4.0">Getting started with the SIP Wizard 4.0</a></li>
+  <li><a href="#completing-the-sip-questionnaire" id="toc-completing-the-sip-questionnaire" class="nav-link" data-scroll-target="#completing-the-sip-questionnaire">Completing the SIP questionnaire</a></li>
+  <li><a href="#creating-a-nanopublication" id="toc-creating-a-nanopublication" class="nav-link" data-scroll-target="#creating-a-nanopublication">Creating a nanopublication</a></li>
+  <li><a href="#publishing-your-sip" id="toc-publishing-your-sip" class="nav-link" data-scroll-target="#publishing-your-sip">Publishing your SIP</a></li>
+  <li><a href="#revising-your-sip" id="toc-revising-your-sip" class="nav-link" data-scroll-target="#revising-your-sip">Revising your SIP</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/gofair-foundation/gofair-wiki/edit/main/docs/sip/content.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gofair-foundation/gofair-wiki/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="background" class="level1">
+<h1>Background</h1>
+<p>Semantic interoperability (SI) is at the heart of the FAIR principles and of the design of large scale cross disciplinary infrastructures. The European Open Science Cloud (EOSC) is a European-wide effort towards such an infrastructure. The EOSC Semantic Interoperability Task Force is focusing on recommendations for SI (EOSC SI Task Force) with the ambition to converge on globally relevant and scalable SI solutions for EOSC.</p>
+<p>Taking into account new developments and ongoing efforts in the field, we want to interview semantic or data management experts involved in cluster projects, EOSC projects, or research infrastructures. With this interview series, we do not claim to be able to provide a statistically relevant base but rather aim at a qualitative, in-depth analysis of the implementation landscape across communities. By providing the answers to the survey you will contribute to a collectively created knowledge base. As this is not a usual survey but a collective kind of editing process we need you to claim ownership about your contributions and, hence, answers are not anonymized. This survey was preceded by a first test run during the summer period 2023 (July and August) to get feedback from interviewees about the questionnaire, which included only questions requiring text-based answers. The current survey is based on the <a href="https://w3id.org/fair/fip/">FIP ontology</a> resulting in machine-readable output from the answers provided.</p>
+<p>Based on the answers given by the interviewees in the first run, i.e.&nbsp;the FAIR Supporting Resources (FSRs) like metadata schemas or semantic artifacts used by communities, the team created machine and human-readable nanopublications that can then be reused in the questionnaire. Additionally, the analysis of the survey will lead to recommendations for projects like FAIRCORE4EOSC and FAIR-Impact on how to implement SI in practice. Find more information about the task force activity in this <a href="https://doi.org/10.5281/zenodo.8102786">publication</a>.</p>
+<p>We would like to invite you to <strong>complete the survey together with the interviewer</strong>. We expect answering all questions in the consultation should take around 60 minutes.</p>
+<p>Please be aware that you will be asked specific questions in these two sections:</p>
+<ul>
+<li>General information: In this first chapter you will describe the focus of the targeted data for which you provide more details in the follow up section</li>
+<li>Details on semantic interoperability: Here you are supposed to provide insights into challenges and solutions in the use of combined datasets.</li>
+</ul>
+<p><strong>If your community provides data of a different digital object type and semantic interoperable case study we ask you to clone this project and modify it</strong> only where needed in order to make your answers unambiguous.</p>
+<p>We thank you for completing the survey. Feedback from the EOSC community is needed to help fine-tune the approach towards this very crucial question for the future of EOSC! If you have any comments, questions or suggestions on how to improve the SIP Wizard experience, please contact us: <a href="mailto:fipadmin@gofair.foundation">fipadmin@gofair.foundation</a>.</p>
+<p>DISCLAIMER</p>
+<p>The Task Force will share publicly the responses and comments obtained. Authorship is acknowledged by your ORCID used in the nanopublication provenance.</p>
+<p>The European Commission is not responsible for the content of questionnaires created using the EUSurvey service - it remains the sole responsibility of the form creator and manager. The use of EUSurvey service does not imply a recommendation or endorsement, by the European Commission, of the views expressed within them.</p>
+<p>Hence, this user guide is designed to complement the SIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the <a href="https://guide.ds-wizard.org">DSW User Guide</a>.</p>
+</section>
+<section id="getting-started-with-the-sip-wizard-4.0" class="level1">
+<h1>Getting started with the SIP Wizard 4.0</h1>
+<ul>
+<li>Go to https://sip-wizard.ds-wizard.org: log in or sign up.</li>
+<li>Click Projects (a folder icon in the menu bar on the left) (1).</li>
+</ul>
+<p><img src="../../docs/img/1.png" class="img-fluid" style="width:20.0%"></p>
+<ul>
+<li>You will see a long list of projects on the right (2). SIPs are projects in the SIP Wizard and are normally named by the community that composed them.</li>
+</ul>
+<p><img src="../../docs/img/2.png" class="img-fluid" style="width:80.0%"></p>
+<ul>
+<li>You can create SIPs either from scratch or by cloning an existing SIP, and revising it.</li>
+</ul>
+<p><strong>Clone and adapt the SIP project</strong> - By default, you can see only projects you created. To see all projects click on the button where you can see your name and click ‘Clear selection’ (3).</p>
+<p><img src="../../docs/img/3.png" class="img-fluid" style="width:70.0%"></p>
+<ul>
+<li>Locate your reference SIP in the list.</li>
+</ul>
+<p>If the SIP has an orange annotation ‘update available’ click on the three dots on the right (4).</p>
+<p><img src="../../docs/img/4.png" class="img-fluid" style="width:95.0%"></p>
+<ul>
+<li>Select Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model.</li>
+<li>Then click again on the three dots and select Clone (5).</li>
+</ul>
+<p><img src="../../docs/img/5.png" class="img-fluid" style="width:25.0%"></p>
+<ul>
+<li>This will bring you to the SIP questionnaire. To change the name of the SIP you need to go to Settings (6). You can now start to work with the SIP Wizard questionnaire, and modify the previous SIP declarations (see below).</li>
+</ul>
+<p><img src="../../docs/img/6.png" class="img-fluid" style="width:50.0%"></p>
+<p><strong>Make a new SIP</strong></p>
+<ul>
+<li>Click <strong>Create</strong> (blue button on the top menu bar) (7).</li>
+</ul>
+<p><img src="../../docs/img/7.png" class="img-fluid" style="width:40.0%"></p>
+<ul>
+<li>You’ll see <strong>Create Project</strong> - this dialog box will launch your new SIP (8).</li>
+</ul>
+<p><img src="../../docs/img/image_8.jpg" class="img-fluid" style="width:60.0%"></p>
+<p>Select the tab: <strong>From Project Template</strong></p>
+<ul>
+<li><p>Enter a name for your SIP: We recommend <em>[Community acronym] SIP</em> (for better findability avoid using ‘_’ in the name)</p></li>
+<li><p>From the drop-down list select <strong>Semantic Interoperability Profile</strong></p></li>
+<li><p>Later, when creating nanopublications, you’ll use the other templates for defining:</p>
+<ul>
+<li><p>A FAIR Implementation Community (FIC)</p></li>
+<li><p>A FAIR Supporting Resource from FAIRsharing</p></li>
+<li><p>A FAIR Supporting Resource (FSR)</p></li>
+</ul></li>
+<li><p>Click <strong>Save</strong>. This will bring you to the SIP questionnaire. You can now start to work with the SIP Wizard questionnaire, and make SIP declarations (see below).</p></li>
+</ul>
+<p>Principally only one person should enter all the answers to the questions. However, in most cases the answers will need to be agreed upon within an expert team of that community. By clicking on the <strong>Share button</strong> on the top right you can provide editing or viewing rights for your colleagues (9).</p>
+<p><img src="../../docs/img/9.png" class="img-fluid" style="width:60.0%"></p>
+</section>
+<section id="completing-the-sip-questionnaire" class="level1">
+<h1>Completing the SIP questionnaire</h1>
+<p>The SIP questionnaire has 26 questions (referred to in the SIP ontology as “declarations”), divided among 4 chapters:</p>
+<p>Chapter I. About</p>
+<p>Chapter II. General information</p>
+<p>Chapter III. Details on Semantic Interoperability</p>
+<p>Chapter IV. Register a new resource as a nanopublication</p>
+<p>On the left, the SIP Wizard displays a questionnaire navigation tool, indicating the chapters and the number of questions that still need to be answered for each chapter (10).</p>
+<p><img src="../../docs/img/image10.jpg" class="img-fluid"></p>
+<p>If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.</p>
+<p>In the questionnaire, questions that have been answered will be highlighted in green, those that still need to be answered will be highlighted in red and those that are optional in gray (11).</p>
+<p><img src="../../docs/img/image11.jpg" class="img-fluid" style="width:80.0%"></p>
+<p><strong>Chapter I. About</strong>, gives some background information, but has no associated questions.</p>
+<p><strong>Chapter II. General Information (12)</strong></p>
+<p>This chapter contains 10 questions defining the frame of the questionnaire:</p>
+<ol type="1">
+<li><p>Identify your FAIR Implementation Community by using the drop-down / autocomplete functions in the text box. If you do not see your community, you’ll have to first create a nanopublication representing your community (see below).</p></li>
+<li><p>Identify the person who will be responsible for completing the SIP questionnaire (the community data steward) using ORCID.</p></li>
+<li><p>Identify the type of digital object and the Semantic Interoperaberabiltiy case study that best describes your data, include a link to an example dataset</p></li>
+<li><p>Select the registry used for the data and indicate if a data model is used</p></li>
+<li><p>Start date of the validity of the SIP and end date of the validity of the SIP. It may be the case that an explicit end date is not known, in this case answer with “December 31 2050”.</p></li>
+<li><p>If your community provides data of different digital object types using different methodologies we ask you to clone this project and modify it only where needed in order to make your answers unambiguous.</p></li>
+</ol>
+<p><img src="../../docs/img/figure12.jpg" class="img-fluid" style="width:80.0%"></p>
+<p><strong>Chapter III: Details on Semantic Interoperability.</strong></p>
+<p>There is a common pattern for each of the questions. The questions begin by asking you if the community is using a specific type of FAIR Supporting Resources.</p>
+<p>You have three options for each of the questions:</p>
+<p><img src="../../docs/img/figure13.jpg" class="img-fluid"></p>
+<ol type="i">
+<li><p>In case your community does not use any resource, you answer with ‘no’, and add free text in the ‘Considerations’ box to describe any community requirements and constraints that leads to this answer (13). If you consider to FAIRify a resource you use you can click on ‘yes’ defining that you are going to use it in future (see below).</p></li>
+<li><p>You answer with ‘I don’t know’ if you need further explanations to properly understand the question, that your interviewer will be happy to provide. You can also ask your team in a later moment to answer this question.</p></li>
+<li><p>You answer with ‘yes’ if your community uses a resource (14).</p></li>
+</ol>
+<p><img src="../../docs/img/image14.jpg" class="img-fluid"></p>
+<p>In case you want to declare more than one resource use the <strong>+Add</strong> button.</p>
+<p>The questionnaire asks you to select (from the drop-down list) a FSR (15).</p>
+<p><img src="../../docs/img/image16.jpg" class="img-fluid"></p>
+<p>Note: those items in the list that are marked with the GFF <img src="../../docs/img/GFF_checkmark.png" class="img-fluid" style="width:10.0%"> qualification logo are quality-checked by the GO FAIR team. Others without badge have not yet been quality-checked.</p>
+<p>Your selection has a follow up question regarding the <strong>usage status</strong> of that FSR in your community.</p>
+<p>Is the FSR:</p>
+<ol type="a">
+<li><p>Currently in use by the community</p></li>
+<li><p>Currently in use, but is planned to be replaced in the future. This will open another text box, allowing you to select the replacement FSR.</p></li>
+<li><p>Is planned to be used in the future</p></li>
+</ol>
+<p>Lastly, there is a free-text box where you may record the considerations behind your declared choices. These are typically the requirements and constraints your community has identified that factor into the implementation.</p>
+<p><strong>Chapter VII. Register a new resource as a nanopublication</strong></p>
+<p>There are 2 cases where you will need to create a new nanopublication, before you can complete the SIP questionnaire:</p>
+<ol type="1">
+<li><p>creating a new FAIR Implementation Community (FIC)</p></li>
+<li><p>creating a new FAIR Supporting Resource (FSR) (that does not yet appear in the drop-down list):</p></li>
+</ol>
+<ul>
+<li>either taking preferrably metadata from FAIRsharing or</li>
+<li>creating new metadata</li>
+</ul>
+<p>By clicking on the “template” link in each case, you will be taken to the dialog box for creating a new project - in this case, a new Wizard project template for authoring nanopublications.</p>
+<p>Once you have successfully created a new nanopublication, it will become immediately visible (and selectable) to you and others in the appropriate drop down lists of the SIP Wizard 3.0. 3. Creating nanopublications</p>
+</section>
+<section id="creating-a-nanopublication" class="level1">
+<h1>Creating a nanopublication</h1>
+<p><strong>What is a nanopublication?</strong></p>
+<p>A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see <a href="https://nanopub.net"><u>here</u></a> and <a href="https://peerj.com/articles/cs-387/"><u>here</u>)</a>.</p>
+<p><img src="../../docs/img/nanopubstructure.jpg" class="img-fluid" style="width:50.0%"></p>
+<p>Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.</p>
+<p>Multiple nanopublications can be “contained” or bundled using a special kind of nanopublication called “index nanopublications”.</p>
+<p><strong>Why nanopublication?</strong></p>
+<p>The computational properties of nanopublications can be powerfully leveraged to make machine-readable SIPs.</p>
+<p>This happens in two ways:</p>
+<ul>
+<li>Individual components of the SIP (such as the FIC and FSRs) are all represented as nanopublications.</li>
+<li>The output of the SIP Wizard 3.0 (see below, Publishing your SIP) is an index nanopublication that provides a list of declared FSRs for every FIC.</li>
+</ul>
+<p><strong>How to create FSR nanopublications in the SIP Wizard</strong></p>
+<p>Go to <strong>VII. Register a new resource as a nanopublication</strong></p>
+<ul>
+<li><p>Click on one of the three “templates” link. This takes you to a new project dialog box.</p></li>
+<li><p>Enter a name for your new nanopub.</p></li>
+<li><p>There is no specific format required here for the name.</p></li>
+<li><p>Click <strong>Create</strong>. This will bring you to the FSR questionnaire.</p></li>
+</ul>
+<p>There are only two chapters in the questionnaire:</p>
+<p><strong>Chapter I. Author</strong> - provide your ORCID (just the numbers, without https://orcid.org/ prefix).</p>
+<p><strong>Chapter II. Definition</strong></p>
+<ul>
+<li><p>various details required to build your nanopublication. For Communities you may choose a “supercommunity” to which your community belongs which will help in the analysis of the results. For FSRs you have to identify the appropriate FSR type. More than one FSR type can apply. A FSR might be available or to be developed.</p></li>
+<li><p>For short name please use a short name containing alphanumeric symbols and dash only, no spaces</p></li>
+<li><p>For the name of the resource you are creating you should avoid ‘,’ use a pipe (|) with a space before and after that symbol (for enabling a better findability) if you want to add both an acronym and a longer name like <em>Envhes | Environmental Thesaurus</em></p></li>
+<li><p>After completing the questionnaire, go to <strong>Documents</strong> (16) and make a “new document”.</p></li>
+<li><p>As Template choose Nanopublication Template and as Format choose <strong>RDF Trig</strong>.</p></li>
+<li><p>Push <strong>Create</strong></p></li>
+</ul>
+<p><img src="../../docs/img/image18.jpg" class="img-fluid" style="width:50.0%"></p>
+<ul>
+<li>If no error appears you can submit the nanopub clicking on the three dots (17):</li>
+</ul>
+<p><img src="../../docs/img/image19.jpg" class="img-fluid" style="width:20.0%"></p>
+<ul>
+<li><p>Choose Nanopub Server (not the local one, which is only for testing) and submit. Please don’t submit it again, because this would create yet another instance with the same content.</p></li>
+<li><p>Click on view submission</p></li>
+</ul>
+<p>You will view the submission as a FSR nanopub (18), the persistent identifier (nanopub URI) is hightlighted in orange</p>
+<ul>
+<li><p>This FSR will now appear, automatically, in the drop downs of the question where the FSR type is expected.</p></li>
+<li><p>The newly created FSR will not yet have a GFF qualification, as this review process will take a few days. If it is not accepted you will get a notification about the reason.</p></li>
+<li><p>You can, however, already use the FSR before it gets a qualification.</p></li>
+<li><p>If you want to improve the FSR description you can do this using the same project and enhancing its content. Then create a new document and submit this new nanopub, which will superseed the other one.</p></li>
+</ul>
+<p><img src="../../docs/img/image_18.jpg" class="img-fluid"></p>
+</section>
+<section id="publishing-your-sip" class="level1">
+<h1>Publishing your SIP</h1>
+<p>Your completed SIP questionnaire will include:</p>
+<p>Your community nanopub, the ORCID for the community data steward and all questions completed.</p>
+<ul>
+<li><p>Now click <strong>Documents</strong> (top menu bar).</p></li>
+<li><p>Click New Document (blue button, right side of upper menu bar).</p></li>
+<li><p>Be sure to set Nanopublication Template and RDF TriG to get a machine-readable output.</p></li>
+<li><p>Click <strong>Create</strong>.</p></li>
+</ul>
+<p>If no error appears you can submit the SIP clicking on the three dots:</p>
+<ul>
+<li><p>Choose Nanopub Server</p></li>
+<li><p>Click on view submission</p></li>
+<li><p>You will see the created SIP index nanopub (19)</p></li>
+</ul>
+<p><img src="../../docs/img/image_19.jpg" class="img-fluid"></p>
+<p>If you want to get a human-readable output (20) you could choose as document template:</p>
+<p><img src="../../docs/img/image22.jpg" class="img-fluid" style="width:30.0%"></p>
+<ul>
+<li><p>Questionnaire Report which gives you the options to create PDFs or Word documents</p></li>
+<li><p>SIP Spreadsheet to get CSV or Excel files (21)</p></li>
+</ul>
+<p><img src="../../docs/img/img21.jpg" class="img-fluid"></p>
+<p>If an error appears (<strong>22</strong>), you should be aware that all questions must have explicit answers. Some questions may have “null” answers, i.e., declarations that no choice was made.</p>
+<p><img src="../../docs/img/image24.jpg" class="img-fluid"></p>
+<p>By choosing “HTML Preview” of the Nanopublication Template (in Settings- 23) you will see in Preview mode the question that needs revision (24).</p>
+<p><img src="../../docs/img/image25.jpg" class="img-fluid" style="width:50.0%"></p>
+<p><img src="../../docs/img/image26.jpg" class="img-fluid" style="width:60.0%"></p>
+<p>Error messages will flag possible issues such as:</p>
+<ul>
+<li><p>Missing FAIR Implementation Community</p></li>
+<li><p>Missing or wrong style of ORCID</p></li>
+<li><p>Missing answer</p></li>
+<li><p>Wrong answer (providing text instead of a nanopublication)</p></li>
+<li><p>For some question(s), you did not select a resource</p></li>
+<li><p>For some question(s), you did not select the replacement resource (when option b is selected)</p></li>
+<li><p>For some question(s), the considerations field was left empty</p></li>
+<li><p>All the nanopublications representing your SIP - i.e., the FIC, the many FSRs and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a <a href="https://virtuoso.nps.petapico.org/sparql"><u>SPARQL</u></a> <a href="https://virtuoso.nps.petapico.org/sparql"><u>endpoint</u></a>.</p></li>
+<li><p>To get a matrix of all created SIPs, called SIP Matrix (25) use the <a href="https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&amp;op=/make_matrix"><u>DSW-nanopub</u></a> <a href="https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&amp;op=/make_matrix"><u>API</u></a>.</p></li>
+</ul>
+<p><img src="../../docs/img/image27.jpg" class="img-fluid" style="width:60.0%"></p>
+</section>
+<section id="revising-your-sip" class="level1">
+<h1>Revising your SIP</h1>
+<p>Changes in the SIP are automatically saved.</p>
+<p>There is no undo button for any action BUT you can use the version history button (26) which allows you to:</p>
+<ul>
+<li><p>see all changes done by any editors</p></li>
+<li><p>see details on each activity when clicking on it</p></li>
+<li><p>by clicking on the three dots you see a menu with an option to revert to this version</p></li>
+</ul>
+<p><img src="../../docs/img/image28.jpg" class="img-fluid" style="width:40.0%"></p>
+<ul>
+<li><p>If you want to answer a specific question later, click on the plus button to get a TODO reminder (27).</p></li>
+<li><p>Clicking the TODO button you will see all the TODOs as list.</p></li>
+<li><p>For each question you can add a comment and replies of that comment which should assist interactions within your team.</p></li>
+</ul>
+<p><img src="../../docs/img/image_27.jpg" class="img-fluid"></p>
+<p>After having submitted a document as a nanopublication you might still want to correct your declarations in the SIP and publish a new version. The new nanopublication is recognized as an update of the older submission. This is true also for FSR nanopublications which makes it possible to show only the latest version of a specific FSR in the drop-down menus for the answers.</p>
+<p>A nanopublication is just that - a publication. As such, it is persistent and can not be deleted from the nanopub record. However, as with any traditional publication, nanopublications can be “retracted”. This is done by issuing a special purpose retraction nanopublication, linking to the original. This can only be done by the administrator of the SIP Wizard. If you feel a nanopublication created in the SIP Wizard should be retracted, please contact the SIP Wizard team mentioned at the top of this document.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/wiki\.gofair\.foundation\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../../docs/np/index.html" class="pagination-link" aria-label="Introduction">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Introduction</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../../docs/guide/authors.html" class="pagination-link" aria-label="Authors">
+        <span class="nav-page-text">Authors</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ License
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../../license.html">
+<p>CC BY 4.0</p>
+</a>
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gofair-foundation/gofair-wiki/edit/main/docs/sip/content.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gofair-foundation/gofair-wiki/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>
+  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+  const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+</script>
+
+
+
+
+</body></html>

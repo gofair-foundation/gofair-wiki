@@ -1,11 +1,8 @@
 [
   {
-    "listing": "/docs/guide/index.html",
-    "items": []
-  },
-  {
     "listing": "/docs/news/index.html",
     "items": [
+      "/docs/news/posts/2024-12-26/index.html",
       "/docs/news/posts/2024-12-04-GFF-training/index.html",
       "/docs/news/posts/2024-11-28-LIFES-network-meeting/index.html",
       "/docs/news/posts/2024-10-30-LIFES-network-meeting/index.html",
@@ -21,8 +18,13 @@
     ]
   },
   {
+    "listing": "/docs/guide/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/docs/news/posts/2024-12-26/index.html",
       "/docs/news/posts/2024-12-04-GFF-training/index.html",
       "/docs/news/posts/2024-11-28-LIFES-network-meeting/index.html",
       "/docs/news/posts/2024-10-30-LIFES-network-meeting/index.html",

@@ -219,7 +219,7 @@ Once you have successfully created a new nanopublication, it will become immedia
 
 A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see @Kuhn2021 and <https://nanopub.net/>).
 
-![](/docs/img/nanopubstructure.jpg){width="50%"}
+![](/docs/img/nanopubstructure.jpg){width="30%"}
 
 Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.
 

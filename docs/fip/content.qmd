@@ -38,7 +38,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 2.  **Creating New Nanopublications:** When declaring your community as a FAIR Implementation Community (FIC) or when selecting FERs keep in mind that:
 
-    -   Other communities may have provided answers that in some cases are not yet quality-checked by experts (those that have been checked are marked with a GFF badge).
+    -   Other communities may have provided answers that in some cases are not yet curated by experts (those that have been checked are marked with a GFF badge).
     -   When the FICs and FERs you are looking for can not be found in the drop-down lists, you’ll have to create new FICs and FERs as nanopublications (go to [Creating nanopublications](https://gofair-foundation.github.io/fip/MintingNanopublications.html)).
 
     A few notes:
@@ -181,11 +181,11 @@ If your community uses a resource that has some level of FAIRness, then click op
 
 <img src="./_static/img/14new.png" width="100%"/>
 
-Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
+Note: those items in the list that are marked with the GFF curation logo are approved by the GO FAIR team
 
 <img src="./_static/img/GFFcurated.svg" width="20%"/>
 
-Others without badges have not yet been quality-checked.
+Others without badges have not yet been checked by the curation team.
 
 -   Your selection has a follow-up question regarding the usage status of that FER in your community. Is the FER:
 

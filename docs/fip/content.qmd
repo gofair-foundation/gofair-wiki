@@ -179,7 +179,7 @@ If your community uses a resource that has some level of FAIRness, then click op
 
 -   The questionnaire asks you to select (from the drop-down list) a FER for that particular FAIR Principle (14).
 
-<img src="./_static/img/14.png" width="100%"/>
+<img src="./_static/img/14new.png" width="100%"/>
 
 Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
 

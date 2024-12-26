@@ -183,7 +183,7 @@ If your community uses a resource that has some level of FAIRness, then click op
 
 Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
 
-<img src="./_static/img/GFFcurated.svg" width="30%"/>
+<img src="./_static/img/GFFcurated.svg" width="20%"/>
 
 Others without badges have not yet been quality-checked.
 
@@ -254,7 +254,7 @@ Multiple nanopublications can be “contained” or bundled using a special kind
 
 For FERs you need to identify the appropriate FER type. There are three main types of FER: a specification, a service or a data policy. A FER of type specification can be of more than one subtype, but a FER cannot be a service and a specifcation at the same time. However, a service may implement a specification. 
 
-<img src="./_static/img/FERdef.png" width="50%"/>
+<img src="./_static/img/FERdef.png" width="100%"/>
 
 A FER might be available or 'to be developed'. 
     For the name of the resource you are creating you should avoid ‘,’ use a pipe (\|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like *Envthes \| Environmental Thesaurus*

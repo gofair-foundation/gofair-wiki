@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>GO FAIR Wiki</title>
+<link>https://wiki.gofair.foundation/docs/news/</link>
+<atom:link href="https://wiki.gofair.foundation/docs/news/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://wiki.gofair.foundation/docs/img/GGF_checkmark.png</url>
+<title>GO FAIR Wiki</title>
+<link>https://wiki.gofair.foundation/docs/news/</link>
+</image>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Thu, 26 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Curation process</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-12-26/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-12-26/GFFcurated.svg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<hr>
+<p>The approval of nanopublications by GFF trained experts results in the allocation of a curation badge in the FIP Wizard, previously labelled a qualification. A revision of the terminology and icon was made to facilitate improved understanding of the process.</p>
+<p>The curation process checks how useful a resource is at making data FAIR, and makes sure it is correctly aligned with the right FSR classes based on their definition in the FIP ontology. However, it does not check how FAIR the resource is. It checks the metadata description to see if it is complete, and suggests improvements where appropriate. If a review is successful, a nanopublication is approved (using a special template16) and a curation badge is added in the wizard. This helps to avoid duplication, incomplete descriptions, and unuseful FSRs, maintaining the integrity of the FIP approach.</p>
+<p>Thank you for your attention!</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-12-26/</guid>
+  <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Upcoming training</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-12-04-GFF-training/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-12-04-GFF-training/training.jpg" class="img-fluid"></p>
+<hr>
+<p>See training dates published <a href="https://www.gofair.foundation/upcoming-training">here</a> for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-12-04-GFF-training/</guid>
+  <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Network Meeting</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-11-28-LIFES-network-meeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-11-28-LIFES-network-meeting/LIFES-network-meeting.png" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.linkedin.com/events/orchestrationforfair-enableddat7267160416139591680/about/">here</a> on linkedIn for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-11-28-LIFES-network-meeting/</guid>
+  <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Network Meeting</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-10-30-LIFES-network-meeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-10-30-LIFES-network-meeting/LIFES-network-meeting.jpg" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.linkedin.com/events/faircapacitybuilding-growingthe7255509929854210048/">here</a> on linkedIn for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-10-30-LIFES-network-meeting/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The I-ADOPT Variable Modeling Challenge 2</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT. We are pleased to share news with you about the I-ADOPT Variable Modeling Challenge outcome:</p>
+<p>The Challenge took place from 16 to 29 September 2024.</p>
+<p><strong>1st place</strong>: Anne Fouilloux and Jean Iaquinta (212.75 points)</p>
+<p><strong>2nd place</strong>: Andrea Tarallo, Martina Pulieri, Christina Di Muri e Jessica Titocci (206.5 points)</p>
+<p><strong>3rd place</strong>: Jörg Klausen, Morgan Silverman and Gao Chen (168.6 points)</p>
+<p>Runner-up contestants:</p>
+<p>Samantha Blakeman, Petra ten Hoopen, Saurav Kumar</p>
+<p>These people will automatically qualify for a share in the prize pot of our second challenge (details below).</p>
+<p>We decided to launch a <strong>second challenge</strong> that will take place</p>
+<p>from October 14 (10:00 CEST) to 18 (22:00 CEST)</p>
+<p>We have <strong>1000 Euro in the prize pool</strong> for the second challenge.</p>
+<p>There will be no single winner, but everyone contributing with at least 5 high-quality variable models will get an equal amount from the prize pot.* High-quality is defined by a variable that scores 12 points or higher.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/modeling.jpg" class="img-fluid"></p>
+<p>Are you interested in joining the second challenge? More information on <a href="https://i-adopt.github.io/challenge.html">https://i-adopt.github.io/challenge.html</a>.</p>
+
+
+
+ ]]></description>
+  <category>I-ADOPT</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/</guid>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GFF Capacity Building Programme Update</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
+<p>We reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/CBP.jpg" class="img-fluid"></p>
+<p>After completing the mandatory <strong>FAIR Awareness</strong> unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.</p>
+<p>The <strong>FIP Implementer Qualification</strong> consists of a single training unit (40 hours) while the <strong>M4M Implementer Qualification</strong> consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.</p>
+<p>Find here more details:</p>
+<p>Schultes, E., &amp; Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. <a href="https://zenodo.org/doi/10.5281/zenodo.12160021" class="uri">https://zenodo.org/doi/10.5281/zenodo.12160021</a></p>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</guid>
+  <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GFF Capacity Building Programme Update</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
+<p>We introduced a new level for qualification for those wanting to learn the content of the CBP but not interested to become facilitators or trainers themselves. They can participate in the same training units but omit the assistance time (so in total spend 60 hours instead of 80 hours) and be qualified as Implementers.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/CBP.jpg" class="img-fluid"></p>
+<p>The two modules are renamed into:</p>
+<p><strong>Module 1</strong>:</p>
+<ul>
+<li><p>Unit FAIR Awareness</p></li>
+<li><p>Unit FAIR Implementation Profile</p></li>
+<li><p>Unit M4M introduction</p></li>
+</ul>
+<p>Three possible qualifications:</p>
+<ul>
+<li><p><strong>FIP Implementer</strong> (after 60 hours training and exam)</p></li>
+<li><p><strong>FIP Facilitator</strong> (after 40 hours training, exam and 20 hours assistance)</p></li>
+<li><p><strong>3PFF Faciltitor</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
+</ul>
+<p><strong>Module 2</strong>, only possible after completing Module 1:</p>
+<ul>
+<li><p>Unit M4M vocabulary</p></li>
+<li><p>Unit M4M metadata</p></li>
+<li><p>Unit FAIR orchestration</p></li>
+</ul>
+<p>Two possible qualifications:</p>
+<ul>
+<li><p><strong>M4M Implementer</strong> (after 60 hours training and exam)</p></li>
+<li><p><strong>3PFF Trainer</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
+</ul>
+<p>Find here more details:</p>
+<p>Schultes, E., &amp; Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. <a href="https://zenodo.org/doi/10.5281/zenodo.12160021" class="uri">https://zenodo.org/doi/10.5281/zenodo.12160021</a></p>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</guid>
+  <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The I-ADOPT Variable Modeling Challenge</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/modeling.jpg" class="img-fluid"></p>
+<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.</p>
+<p>We therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.</p>
+<p>Are you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on <a href="https://i-adopt.github.io/challenge.html">https://i-adopt.github.io/challenge.html</a>.</p>
+
+
+
+ ]]></description>
+  <category>I-ADOPT</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</guid>
+  <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FIP Wizard Important Updates</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>All FAIR Enabling Resource have now extended metadata elements and we updated the Knowledge Model for reusing the metadata content from FAIRsharing with these extenstions. The Project Template is now integrated in the FIP Project template in Chapter VII (a), but can also be found when creating a new project in the drop down of templates (b).</p>
+<p>a)</p>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/ferffs.jpg" class="img-fluid figure-img"></p>
+<figcaption>b)</figcaption>
+</figure>
+</div>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid" style="width:40.0%"></p>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</guid>
+  <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FIP Wizard Important Updates</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>FIPs can be represented as pure RDF output: at the moment this requires some manual concatenating of two strings to a URI, but we are implementing this as additional feature in the FIP Wizard.</p>
+<p>The <strong>manual URI generation</strong> works as follows:</p>
+<p>you need to concatenate two strings to a uri, where the first string is to be reused as it is and the second is the last part of the FIP URI:</p>
+<p>(first part) <em>https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2F</em></p>
+<p>PLUS</p>
+<p>(last part of FIP URI) <em>RA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0</em></p>
+<p><strong>To get RDF</strong>:</p>
+<p><em>https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0</em></p>
+<p><strong>To get JSON-LD</strong>:</p>
+<p>Adding</p>
+<p><em>&amp;format=application/ld+json</em></p>
+<p>to your string will get you a JSON-LD output</p>
+<p><em>https://grlc.knowledgepixels.com/api-git/knowledgepixels/fairconnect-api/get_fip_rdf?fipnp=https%3A%2F%2Fw3id.org%2Fnp%2FRA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0&amp;format=application/ld+json</em></p>
+<p><strong>How to get to your FIP URI</strong>:</p>
+<p>Once you created a nanopublication for your FIP in the Wizard, you should go to submission:</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/viewsub.jpg" class="img-fluid"></p>
+<p>Then you see the full nanopublication: you can easily copy the required part of the URI from the address bar (highlighted in orange).</p>
+<p>https://w3id.org/np/<em>RA92EUwxXCV8AkRwecLl09mllK1kipomZqPPAgJ8G4oN0</em></p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/identifier.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-JSON-LD-output/</guid>
+  <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-05-29-lifes-update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-05-29-lifes-update/lifes.png" class="img-fluid figure-img"></p>
+<figcaption>Leiden Institute for FAIR and Equitable Science</figcaption>
+</figure>
+</div>
+<hr>
+<p>The Leiden Institute for FAIR and Equitable Science (LIFES) is a public-private partnership where FAIR data and services are the norm. LIFES will develop and maintain the required expertise and ecosystem for the equitable and privacy preserving reuse of data and services. At this time the webpages of LIFES can be found <a href="https://www.gofair.foundation/lifes">here</a> on the GO FAIR Foundation website.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-05-29-lifes-update/</guid>
+  <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FIP Wizard Important Updates</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/dsw.png" class="img-fluid figure-img"></p>
+<figcaption>DSW</figcaption>
+</figure>
+</div>
+<hr>
+<p>We have made a substantial update of the <a href="https://fip-wizard.ds-wizard.org/">FIP Wizard</a> environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:</p>
+<ul>
+<li>for FAIR Implementation Profile projects to FIP Wizard 4</li>
+<li>for FAIR Enabling Resource projects switch to FAIR Enabling Resource 2</li>
+</ul>
+<p>Thank you for your attention!</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/</guid>
+  <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New nanodash platform</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/nanodash.png" class="img-fluid figure-img"></p>
+<figcaption>Nanodash</figcaption>
+</figure>
+</div>
+<hr>
+<p>There exists now a new nanodash platform: <a href="https://nanodash.knowledgepixels.com/" class="uri">https://nanodash.knowledgepixels.com/</a>. For this platform you also need to make a new introduction nanopub (Go to <a href="https://nanodash.knowledgepixels.com/profile" class="uri">https://nanodash.knowledgepixels.com/profile</a> and do the <strong>Recommended Actions</strong>). Please send the nanopub URI to me (@mabablue) in <a href="https://meet.gofair.foundation/">MatterMost</a> so that I can approve it.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>nanodash</category>
+  <category>nano publications</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</guid>
+  <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

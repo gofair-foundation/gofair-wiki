@@ -63,3 +63,8 @@
 .card .source-code {
   margin-top: 3px;
 }
+.gff-orcid-inline img {
+    margin-top: -0.2em;
+    height: .8em;
+    width: .8em
+}

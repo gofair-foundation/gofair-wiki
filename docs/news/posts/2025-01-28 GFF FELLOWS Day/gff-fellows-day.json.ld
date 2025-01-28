@@ -11,6 +11,10 @@
 	"eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
 	"location": [
 	{
+		"@type": "VirtualLocation",
+		"url": "https://docs.google.com/forms/d/e/1FAIpQLSfWehR1qhLdUYJ-VGZP1eGsMB5cjYwX5pE6xvXlYJmpD0AzCg/viewform"
+	},
+	{
 		"@type": "Place",
 		"name": "GFF Office",
 		"address": {
@@ -21,21 +25,21 @@
 		}
 	}
 	],
-  "organizer": {
-  "@type": "Organization",
-      "url": "https://www.gofair.foundation",
-      "sameAs": ["https://ror.org/056j50v04"],
-      "logo": "https://static.wixstatic.com/media/f364d7_c8085d4144a346598467b1ba82a64af7~mv2.png/v1/fill/w_275,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GFF_website%201000ppi.png",
-      "name": "GO FAIR Foundation",
-      "description": "The GO FAIR Foundation (GFF) collaborates with other (data-mandated) organizations to develop and sustain a growing ecosystem of FAIR data and services.",
-      "email": "info@gofair.foundation",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Rijnsburgerweg 10",
-        "addressLocality": "Leiden",
-        "addressCountry": "NL",
-        "postalCode": "2333 AA"
-      }
-  }
+	"organizer": {
+		"@type": "Organization",
+		"url": "https://www.gofair.foundation",
+		"sameAs": ["https://ror.org/056j50v04"],
+		"logo": "https://static.wixstatic.com/media/f364d7_c8085d4144a346598467b1ba82a64af7~mv2.png/v1/fill/w_275,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GFF_website%201000ppi.png",
+		"name": "GO FAIR Foundation",
+		"description": "The GO FAIR Foundation (GFF) collaborates with other (data-mandated) organizations to develop and sustain a growing ecosystem of FAIR data and services.",
+		"email": "info@gofair.foundation",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "Rijnsburgerweg 10",
+			"addressLocality": "Leiden",
+			"addressCountry": "NL",
+			"postalCode": "2333 AA"
+		}
+	}
 }
 </script>

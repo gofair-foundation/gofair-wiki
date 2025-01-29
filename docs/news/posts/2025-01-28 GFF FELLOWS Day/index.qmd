@@ -1,5 +1,5 @@
 ---
-title: "GFF Fellows Day - February 5, 2025"
+title: "GFF Fellows Day - February 3, 2025"
 categories:
   - GFF Fellows
   - CBP

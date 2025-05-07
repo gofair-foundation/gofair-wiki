@@ -15,7 +15,8 @@ date: 05-07-2025
 ------------------------------------------------------------------------
 
 We are migrating the production environment of the **FIP Wizard** to a new URL. Starting **May 14**, the service will be available at: https://fip.fair-wizard.com
-Key Dates:
+
+**Key Dates:**
 
 **May 13**: The current FIP/FSR submission service will be temporarily unavailable during the transition.
 

@@ -36,8 +36,8 @@
 <p>We are migrating the production environment of the <strong>FIP Wizard</strong> to a new URL. Starting <strong>May 14</strong>, the service will be available at: <a href="https://fip.fair-wizard.com">https://fip.fair-wizard.com</a></p>
 <p><strong>Key Dates:</strong></p>
 <p><strong>May 13</strong>: The current FIP/FSR submission service will be temporarily unavailable during the transition.</p>
-<p><strong>May 14</strong>: The new FIP Wizard instance goes live.</p>
-<p><strong>June 4</strong>: The current (old) instance will be fully decommissioned.</p>
+<p><strong>May 14</strong>: The new <a href="https://fip.fair-wizard.com/">FIP Wizard instance</a> goes live.</p>
+<p><strong>June 4</strong>: The current <a href="https://fip-wizard.ds-wizard.org/">(old) instance</a> will be fully decommissioned.</p>
 <p><strong>Between May 14 and June 4</strong>, you can still access the old FIP Wizard to manually transfer any projects that are not yet available in the new instance. However, please note that the old platform <strong>can no longer be used</strong> to create new projects or generate documents.</p>
 <p><strong>All your projects with published documents</strong> (like FIPS or FSRs) <strong>are being securely transferred to the new instance</strong>. You will be able to access them using your existing login credentials—<strong>no action is required on your part</strong>. However, be aware that empty and test projects will not be transferred.</p>
 <p>If you have a <strong>project without a published document</strong> that you want to ensure gets transferred automatically to the new instance, please add its URL to this <a href="https://docs.google.com/spreadsheets/d/1293H4TsuRvarwyZwTch5gEiaMu29gXVC-lvd909yQno/edit?gid=0#gid=0">sheet</a> at latest by <strong>Monday, May 12</strong>.</p>

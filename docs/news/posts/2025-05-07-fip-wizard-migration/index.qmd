@@ -20,9 +20,9 @@ We are migrating the production environment of the **FIP Wizard** to a new URL. 
 
 **May 13**: The current FIP/FSR submission service will be temporarily unavailable during the transition.
 
-**May 14**: The new FIP Wizard instance goes live.
+**May 14**: The new [FIP Wizard instance](https://fip.fair-wizard.com/) goes live.
 
-**June 4**: The current (old) instance will be fully decommissioned.
+**June 4**: The current [(old) instance](https://fip-wizard.ds-wizard.org/) will be fully decommissioned.
 
 **Between May 14 and June 4**, you can still access the old FIP Wizard to manually transfer any projects that are not yet available in the new instance. However, please note that the old platform **can no longer be used** to create new projects or generate documents.
 

@@ -1,7 +1,12 @@
 [
   {
+    "listing": "/docs/guide/index.html",
+    "items": []
+  },
+  {
     "listing": "/docs/news/index.html",
     "items": [
+      "/docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
       "/docs/news/posts/2025-02-03-LIFES-seminar/index.html",
       "/docs/news/posts/2025-01-28 GFF FELLOWS Day/index.html",
       "/docs/news/posts/2025-01-08-LIFES-network-meeting/index.html",
@@ -23,6 +28,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
       "/docs/news/posts/2025-02-03-LIFES-seminar/index.html",
       "/docs/news/posts/2025-01-28 GFF FELLOWS Day/index.html",
       "/docs/news/posts/2025-01-08-LIFES-network-meeting/index.html",
@@ -40,9 +46,5 @@
       "/docs/news/posts/2024-02-05-nanodash-update/index.html",
       "/docs/news/posts/2024-02-05-fip-wizard-update/index.html"
     ]
-  },
-  {
-    "listing": "/docs/guide/index.html",
-    "items": []
   }
 ]

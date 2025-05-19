@@ -1,0 +1,26 @@
+---
+title: "GFF Fellows Day - February 3, 2025"
+categories:
+  - GFF Fellows
+  - CBP
+  - Event
+author: 
+  - name: Gerhard Burger
+    orcid: 0000-0003-1062-5576
+  - name: Barbara Magagna
+    orcid: 0000-0003-2195-3997
+date: 01-25-2025
+image: https://static.wixstatic.com/media/f364d7_81503ae81505496082de3ba2f39cf52f~mv2.png/v1/fill/w_545,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GFF_Qualification%20badge_website2_0_1000ppi.png
+---
+
+Dear GFF Fellows and friends,
+
+We cordially invite you to our Qualification event and Fellows meeting on February 3 (afternoon) at the [GFF office](https://maps.app.goo.gl/HP6rvNDce6wyJqFN9) in Leiden (and remotely via Zoom). We start at 12:00 with lunch, the main program will be from 13:30 -17:30.
+
+For details and registration, see [here](https://docs.google.com/forms/d/e/1FAIpQLSfWehR1qhLdUYJ-VGZP1eGsMB5cjYwX5pE6xvXlYJmpD0AzCg/viewform).
+
+We are very much looking forward to meeting you soon!
+
+Kind regards,  
+Gerhard (on behalf of Barbara)
+

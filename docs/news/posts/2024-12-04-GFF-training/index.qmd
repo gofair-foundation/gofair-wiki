@@ -1,0 +1,19 @@
+---
+title: "Upcoming training"
+categories:
+  - CBP
+author: 
+  - name: Norbert van Dijk
+    orcid: 0009-0003-5409-652X
+date: 12/04/2024
+---
+
+------------------------------------------------------------------------
+
+![](training.jpg)
+
+------------------------------------------------------------------------
+
+See training dates published [here](https://www.gofair.foundation/upcoming-training) for details. 
+
+------------------------------------------------------------------------

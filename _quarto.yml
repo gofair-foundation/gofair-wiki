@@ -44,6 +44,13 @@ website:
         href: contributing.qmd
       - text: About
         href: about.qmd
+    tools:
+      - icon: github
+        href: https://github.com/gofair-foundation/gofair-wiki
+        text: GFF Wiki GitHub
+      - icon: rss
+        href: https://wiki.gofair.foundation/docs/news/index.xml
+        text: GFF News RSS
   
   sidebar:
     - id: guide

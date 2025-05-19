@@ -38,7 +38,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 2.  **Creating New Nanopublications:** When declaring your community as a FAIR Implementation Community (FIC) or when selecting FERs keep in mind that:
 
-    -   Other communities may have provided answers that in some cases are not yet quality-checked by experts (those that have been checked are marked with a GFF badge).
+    -   Other communities may have provided answers that in some cases are not yet curated by experts (those that have been checked are marked with a GFF badge).
     -   When the FICs and FERs you are looking for can not be found in the drop-down lists, you’ll have to create new FICs and FERs as nanopublications (go to [Creating nanopublications](https://gofair-foundation.github.io/fip/MintingNanopublications.html)).
 
     A few notes:
@@ -179,13 +179,13 @@ If your community uses a resource that has some level of FAIRness, then click op
 
 -   The questionnaire asks you to select (from the drop-down list) a FER for that particular FAIR Principle (14).
 
-<img src="./_static/img/14.png" width="100%"/>
+<img src="./_static/img/14new.png" width="100%"/>
 
-Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
+Note: those items in the list that are marked with the GFF curation logo are approved by the GO FAIR team
 
-<img src="./_static/img/fipwug_ch2_img13sharp.png" width="10%"/>
+<img src="./_static/img/GFFcurated.svg" width="20%"/>
 
-Others without badges have not yet been quality-checked.
+Others without badges have not yet been checked by the curation team.
 
 -   Your selection has a follow-up question regarding the usage status of that FER in your community. Is the FER:
 
@@ -203,13 +203,11 @@ Add additional FERs if necessary by clicking the **Add +** button and repeating 
 
 **Chapter VII. Register a new resource as a nanopublication**
 
-There are 3 cases where you will need to create a new nanopublication before you can complete the FIP questionnaire:
+There are 2 cases where you will need to create a new nanopublication before you can complete the FIP questionnaire:
 
 -   creating a new FAIR Implementation Community (FIC),
 
--   creating a new FAIR Enabling Resource (FER): either by using metadata from FAIRsharing or by creating a new metadata,
-
--   creating a Metadata Preservation Policy (MPP).
+-   creating a new FAIR Enabling Resource (FER): either by using metadata from FAIRsharing or by creating a new metadata.
 
 By clicking on the “template” link in each case, you will be taken to the dialog box for creating a new project - in this case, a new Wizard project template for authoring nanopublications.
 
@@ -221,7 +219,7 @@ Once you have successfully created a new nanopublication, it will become immedia
 
 A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see @Kuhn2021 and <https://nanopub.net/>).
 
-![](/docs/img/nanopubstructure.jpg){width="50%"}
+![](/docs/img/nanopubstructure.jpg){width="30%"}
 
 Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.
 
@@ -241,36 +239,41 @@ Multiple nanopublications can be “contained” or bundled using a special kind
 
 1.  Go to *VII. Register a new resource as a nanopublication*
 
-2.  Click on one of the four “template” links
+2.  Click on one of the three “template” links
 
     This takes you to a new project dialog box.
 
-3.  Select the tab: **From Template**
+3.  Enter a name for your new nanopub. There is no speciﬁc format required here for the name.
 
-4.  Enter a name for your new nanopub. There is no speciﬁc format required here for the name.
-
-5.  Click **Save**. This will bring you to the questionnaire.
+4.  Click **Save**. This will bring you to the questionnaire.
 
     There are only two chapters:
 
-    -   **Author** - provide your ORCID.
-    -   **Deﬁnition** - various details required to build your nanopublication. For Communities you may choose a “supercommunity” to which your community belongs which will help in the analysis of the results. For FERs you have to identify the appropriate FER type. More than one FER type can apply. A FER might be available or 'to be developed'.
+    -   **Author** - provide your ORCID without the *https//orcid.org* prefix.
+    -   **Deﬁnition** - various details are required to build your nanopublication. Please follow carefully the instructions for each field. Only red fields are required, the grey fields are optional. For Communities you may choose a “supercommunity” (that you or somebody else has previously defined) to which your community belongs, which will be helpful when analysing the results.
 
-    For the name of the resource you are creating you should avoid ‘,’ use a pipe (\|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like **Envthes \| Environmental Thesaurus**
+For FERs you need to identify the appropriate FER type. There are three main types of FER: a specification, a service or a data policy. A FER of type specification can be of more than one subtype, but a FER cannot be a service and a specifcation at the same time. However, a service may implement a specification. 
 
-6.  After completing the project, go to **Documents** (15) and make a **new document**.
+<img src="./_static/img/FERdef.png" width="100%"/>
+
+A FER might be available or 'to be developed'. 
+    For the name of the resource you are creating you should avoid ‘,’ use a pipe (\|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like *Envthes \| Environmental Thesaurus*
+
+5.  After completing all required fields, go to **Documents** (15) and make a **new document**.
 
 <img src="./_static/img/15.png" width="50%"/>
 
-7.  For Template choose **Nanopublication Template** and for Format choose **RDF Trig**.
+6.  For Template choose **Nanopublication Template** and for Format choose **RDF Trig**.
 
-8.  Push **Create**.
+7.  Push **Create**.
 
     If no error appears you can submit the nanopub clicking on the three dots (16):
 
-9.  Choose **Nanopub Server** (not the local one, which is only for testing) and **submit**.
+8.  Choose **Nanopub Server** (not the local one, which is only for testing) and **submit**. 
 
-10. Click on **view submission**.
+Please **avoid submitting the same trig file again** as this will trigger a new identifier for the same resource! However, you can improve your FER metadata and publish a new RDF Trig file which is an update of the older submission.
+
+9. Click on **view submission**.
 
 <img src="./_static/img/16.png" width="20%"/>
 
@@ -280,9 +283,9 @@ You will see the submission as a FER nanopub (17), the persistent identiﬁer (n
 
 This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for {{< var F1 >}}).
 
-The newly created FER will not yet have a GFF qualiﬁcation, as this review process will take a few days. If it is not accepted you will get a notiﬁcation about the reason.
+The newly created FER will not yet have a GFF curation badge, as this review process will take a few days. If it is not accepted you will get a notiﬁcation about the reason.
 
-You can, however, already use the FER before it gets a qualiﬁcation.
+You can, however, already use the FER before it gets a curation badge.
 
 ## Publishing your FIP {#sec-fip-publishing}
 

@@ -1,0 +1,219 @@
+---
+title: FAIR Enabling Resources (FERs)
+format: 
+  html:
+    css: table.css
+---
+
+## FIP Questions
+
+```{=html}
+<div class="column-page">
+<table class="fipq">
+<caption><span data-qmd="FAIR Implementation Profile (FIP) Questions. Adapted from @FIPmini."></span></caption>
+<thead>
+  <tr>
+    <th>FAIR principle</th>
+    <th>FIP Question</th>
+    <th>FER Type</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><span data-qmd="{{< var F1 >}}"></span></td>
+    <td>What globally unique, persistent, resolvable identifiers do you use for metadata records?</td>
+    <td>Identifier service</td>
+  </tr>
+    <tr>
+    <td><span data-qmd="{{< var F1 >}}"></span></td>
+    <td>What globally unique, persistent, resolvable identifiers do you use for datasets?</td>
+    <td>Identifier service</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F2 >}}"></span></td>
+    <td>Which metadata schemas do you use for findability?</td>
+    <td>Metadata schema</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F3 >}}"></span></td>
+    <td>What is the technology that links the persistent identifiers of your data to the metadata description?</td>
+    <td>Metadata-Data linking schema</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F4 >}}"></span></td>
+    <td>In which search engines are your metadata records indexed?</td>
+    <td>Registry</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F4 >}}"></span></td>
+    <td>In which search engines are your datasets indexed?</td>
+    <td>Registry</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-1 >}}"></span></td>
+    <td>Which standardized communication protocol do you use for metadata records?</td>
+    <td>Communication protocol</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-1 >}}"></span></td>
+    <td>Which standardized communication protocol do you use for datasets?</td>
+    <td>Communication protocol</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-2 >}}"></span></td>
+    <td>Which authentication & authorisation technique do you use for metadata records?</td>
+    <td>Authentication &amp; authorisation service</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-2 >}}"></span></td>
+    <td>Which authentication & authorisation technique do you use for datasets?</td>
+    <td>Authentication &amp; authorisation service</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A2 >}}"></span></td>
+    <td>Which metadata longevity plan do you use?</td>
+    <td>Metadata preservation policy</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I1 >}}"></span></td>
+    <td>Which knowledge representation languages (allowing machine interoperation) do you use for metadata records?</td>
+    <td>Knowledge representation language</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I1 >}}"></span></td>
+    <td>Which knowledge representation languages (allowing machine interoperation) do you use for datasets?</td>
+    <td>Knowledge representation language</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I2 >}}"></span></td>
+    <td>Which structured vocabularies do you use to annotate your metadata records?</td>
+    <td>Structured vocabulary</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I2 >}}"></span></td>
+    <td>Which structured vocabularies do you use to encode your datasets?</td>
+    <td>Structured vocabulary</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I3 >}}"></span></td>
+    <td>Which models, schema(s) do you use for your metadata records?</td>
+    <td>Semantic model</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I3 >}}"></span></td>
+    <td>Which models, schema(s) do you use for your datasets?</td>
+    <td>Semantic model</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-1 >}}"></span></td>
+    <td>Which usage license do you use for your metadata records?</td>
+    <td>Data usage license</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-1 >}}"></span></td>
+    <td>Which usage license do you use for your datasets?</td>
+    <td>Data usage license</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-2 >}}"></span></td>
+    <td>Which metadata schemas do you use for describing the provenance of your metadata records?</td>
+    <td>Provenance model</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-2 >}}"></span></td>
+    <td>Which metadata schemas do you use for describing the provenance of your datasets?</td>
+    <td>Provenance model</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-3 >}}"></span></td>
+    <td>Who is the community, and what are their domain-relevant community standards?</td>
+    <td>The FAIR Implementation Profile</td>
+  </tr>
+</tbody></table>
+</div>
+```
+
+## FER Types
+
+```{=html}
+<div class="column-page">
+<table class="fer">
+<caption><span data-qmd="FAIR Enabling Resource (FER) Types. Adapted from @3pff_references."></span></caption>
+<thead>
+  <tr>
+    <th>FAIR principle</th>
+    <th>FER Type</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><span data-qmd="{{< var F1 >}}"></span></td>
+    <td>Identifier service</td>
+    <td>A <b>service</b> that provides for any digital object (1) algorithms guaranteeing global uniqueness, (2) policy document that guarantees persistent and (3) resolution of the identifier to machine-actionable metadata describing the object and its location.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F2 >}}"></span></td>
+    <td>Metadata schema</td>
+    <td>A <b>specification</b> that specifies the structured representation of metadata describing attributes of data or other digital objects in terms of semantics, syntax and optionality.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F3 >}}"></span></td>
+    <td>Metadata-Data linking schema</td>
+    <td>A <b>specification</b> that provides a unique, persistent, (ideally) bi-directional, machine-actionable link between metadata and the data they describe.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var F4 >}}"></span></td>
+    <td>Registry</td>
+    <td>A <b>service</b> that indexes metadata and data and provides search over that index.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-1 >}}"></span></td>
+    <td>Communication protocol</td>
+    <td>A <b>specification</b> of how messages are structured and exchanged.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A1-2 >}}"></span></td>
+    <td>Authentication &amp; authorisation service</td>
+    <td>A <b>service</b> that mediates access to digital objects according to specifed conditions.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var A2 >}}"></span></td>
+    <td>Metadata preservation policy</td>
+    <td>A data <b>policy</b> that describes the conditions under which metadata should be provided in the future.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I1 >}}"></span></td>
+    <td>Knowledge representation language</td>
+    <td>A language <b>specification</b> that enables knowledge to be processed by machines.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I2 >}}"></span></td>
+    <td>Structured vocabulary</td>
+    <td>A <b>specification</b> for a controlled list of uniquely identified and unambigous concepts with their definitions represented using web standards.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var I3 >}}"></span></td>
+    <td>Semantic model</td>
+    <td>A <b>specification</b> that defines qualified relations between entities describing data or other digital objects according to the Linked Data principles. This can include semantic data models and ontologies.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-1 >}}"></span></td>
+    <td>Data usage license</td>
+    <td>A data <b>policy</b> that specifies legal restrictions on the reuse of the data.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-2 >}}"></span></td>
+    <td>Provenance model</td>
+    <td>A <b>specification</b> that specifies metadata describing the origin and lineage of data or other digital objects.</td>
+  </tr>
+  <tr>
+    <td><span data-qmd="{{< var R1-3 >}}"></span></td>
+    <td>The FAIR Implementation Profile</td>
+    <td>A FAIR Implementation Profile (FIP) is a list of declared technology choices intended to implement each of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice.</td>
+  </tr>
+</tbody></table>
+</div>
+```
+
+### FAIR Supporting Resources (FSRs)
+
+![FAIR Supporting Resources versus FAIR Enabling Resources.](_static/img/fsr-new.drawio.svg){#fig-fsr}

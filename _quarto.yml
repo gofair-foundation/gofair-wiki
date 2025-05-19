@@ -59,9 +59,10 @@ website:
         - section: "Guide"
           href: docs/guide/index.qmd
           contents:
-          - section: "FIP Wizard User Guide"
+          - section: "FAIR Implementation Profile"
             contents:
               - docs/fip/content.qmd
+              - docs/fip/fer.qmd
           - section: "Nanopublications"
             contents:
               - docs/np/index.qmd
@@ -87,6 +88,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    grid:
+      body-width: 900px
 
 include-after-body:
   - text: |

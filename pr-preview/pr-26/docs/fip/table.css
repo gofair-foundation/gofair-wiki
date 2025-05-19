@@ -1,0 +1,57 @@
+/* Color code the FER type table rows */
+.fer tbody tr:nth-child(n+1):nth-child(-n+4) td:first-child {
+  background-color: #F4CCCB;
+}
+.fer tbody tr:nth-child(n+1):nth-child(-n+4) td:not(:first-child) {
+  background-color: #FF9999;
+}
+
+.fer tbody tr:nth-child(n+5):nth-child(-n+7) td:first-child {
+  background-color: #FFF2CC;
+}
+.fer tbody tr:nth-child(n+5):nth-child(-n+7) td:not(:first-child) {
+  background-color: #FFD965;
+}
+
+.fer tbody tr:nth-child(n+8):nth-child(-n+10) td:first-child {
+  background-color: #D9EAD3;
+}
+.fer tbody tr:nth-child(n+8):nth-child(-n+10) td:not(:first-child) {
+  background-color: #A9D08E;
+}
+
+.fer tbody tr:nth-child(n+11):nth-child(-n+13) td:first-child {
+  background-color: #CFE2F3;
+}
+.fer tbody tr:nth-child(n+11):nth-child(-n+13) td:not(:first-child) {
+  background-color: #9BC2E6;
+}
+
+/* Color code the FIP question table rows */
+.fipq tbody tr:nth-child(n+1):nth-child(-n+6) td:first-child {
+  background-color: #F4CCCB;
+}
+.fipq tbody tr:nth-child(n+1):nth-child(-n+6) td:not(:first-child) {
+  background-color: #FF9999;
+}
+
+.fipq tbody tr:nth-child(n+7):nth-child(-n+11) td:first-child {
+  background-color: #FFF2CC;
+}
+.fipq tbody tr:nth-child(n+7):nth-child(-n+11) td:not(:first-child) {
+  background-color: #FFD965;
+}
+
+.fipq tbody tr:nth-child(n+12):nth-child(-n+17) td:first-child {
+  background-color: #D9EAD3;
+}
+.fipq tbody tr:nth-child(n+12):nth-child(-n+17) td:not(:first-child) {
+  background-color: #A9D08E;
+}
+
+.fipq tbody tr:nth-child(n+18):nth-child(-n+22) td:first-child {
+  background-color: #CFE2F3;
+}
+.fipq tbody tr:nth-child(n+18):nth-child(-n+22) td:not(:first-child) {
+  background-color: #9BC2E6;
+}

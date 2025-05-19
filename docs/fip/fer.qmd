@@ -8,6 +8,7 @@ format:
 ## FIP Questions
 
 ```{=html}
+<div class="column-page">
 <table class="fipq">
 <caption><span data-qmd="FAIR Implementation Profile (FIP) Questions. Adapted from @FIPmini."></span></caption>
 <thead>
@@ -128,11 +129,13 @@ format:
     <td>The FAIR Implementation Profile</td>
   </tr>
 </tbody></table>
+</div>
 ```
 
 ## FER Types
 
 ```{=html}
+<div class="column-page">
 <table class="fer">
 <caption><span data-qmd="FAIR Enabling Resource (FER) Types. Adapted from @3pff_references."></span></caption>
 <thead>
@@ -208,6 +211,7 @@ format:
     <td>A FAIR Implementation Profile (FIP) is a list of declared technology choices intended to implement each of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice.</td>
   </tr>
 </tbody></table>
+</div>
 ```
 
 ### FAIR Supporting Resources (FSRs)

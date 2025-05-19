@@ -125,7 +125,7 @@ format:
   <tr>
     <td><span data-qmd="{{< var R1-3 >}}"></span></td>
     <td>Who is the community, and what are their domain-relevant community standards?</td>
-    <td>The FIP</td>
+    <td>The FAIR Implementation Profile</td>
   </tr>
 </tbody></table>
 ```
@@ -204,7 +204,7 @@ format:
   </tr>
   <tr>
     <td><span data-qmd="{{< var R1-3 >}}"></span></td>
-    <td>The FAIR implementation Profile</td>
+    <td>The FAIR Implementation Profile</td>
     <td>A FAIR Implementation Profile (FIP) is a list of declared technology choices intended to implement each of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice.</td>
   </tr>
 </tbody></table>

@@ -9,7 +9,7 @@ format:
 
 ```{=html}
 <table class="fipq">
-<caption><span data-qmd="FAIR Implementation Profile (FIP) Questions. Adapted from https://bit.ly/yourFIP."></span></caption>
+<caption><span data-qmd="FAIR Implementation Profile (FIP) Questions. Adapted from @FIPmini."></span></caption>
 <thead>
   <tr>
     <th>FAIR principle</th>

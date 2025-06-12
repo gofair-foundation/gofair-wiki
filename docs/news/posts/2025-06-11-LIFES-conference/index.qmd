@@ -1,0 +1,21 @@
+---
+title: "LIFES Conference"
+subtitle: "2 July 2025, Poortgebouw, Leiden"
+categories:
+  - FAIR and Equitable Science
+  - LIFES
+author: 
+  - name: Norbert van Dijk
+    orcid: 0009-0003-5409-652X
+date: 06-11-2025
+---
+
+------------------------------------------------------------------------
+
+![](LIFES-conference.jpg)
+
+------------------------------------------------------------------------
+
+See event published [here](https://www.lifes.institute/lifes-conference-2025) for details. 
+
+------------------------------------------------------------------------

@@ -22,7 +22,7 @@ Hence, this user guide is designed to complement the FIP-specific features of th
 
 -   A FIP can be compiled to decide on the future use of FERs in a community (called the TO-BE FIPs). These FIPs can be used to document technology trends in FAIR. 
 
--   A FAIR Implementation Community (FIC) might want to create a Reference FIP (rFIP) to list all FERs that it recommends to use.
+-   A FAIR Implementation Community (FIC) might want to create a Reference FIP (R-FIP) to list all FERs that it recommends to use.
 
 -   It is likely that any given FIP will need periodic revision. In this case, each new version documents improvements in FAIR over time. 
 

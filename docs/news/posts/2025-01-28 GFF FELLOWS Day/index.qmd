@@ -1,26 +1,26 @@
 ---
-title: "GFF Fellows Day - February 3, 2025"
+title: "Fellows Day - September 23, 2025"
 categories:
   - GFF Fellows
   - CBP
   - Event
 author: 
-  - name: Gerhard Burger
-    orcid: 0000-0003-1062-5576
-  - name: Barbara Magagna
-    orcid: 0000-0003-2195-3997
-date: 01-25-2025
+  - name: Judith Schneider
+    orcid: 0009-0007-6976-1456
+date: 08-29-2025
 image: https://static.wixstatic.com/media/f364d7_81503ae81505496082de3ba2f39cf52f~mv2.png/v1/fill/w_545,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GFF_Qualification%20badge_website2_0_1000ppi.png
 ---
 
-Dear GFF Fellows and friends,
+Dear Fellows!
 
-We cordially invite you to our Qualification event and Fellows meeting on February 3 (afternoon) at the [GFF office](https://maps.app.goo.gl/HP6rvNDce6wyJqFN9) in Leiden (and remotely via Zoom). We start at 12:00 with lunch, the main program will be from 13:30 -17:30.
+I am delighted to announce that our next Fellows Day will be held on 23 September (afternoon) at the GFF office in Leiden. This special event is an opportunity for us to come together, share experiences, strengthen our community and celebrate achievements by awarding certificates to those who have successfully completed their courses. Hopefully, this will motivate a few more people to speed up and finish in time – 16 September is the last day to submit your completion declaration before the event. Please contact me if you have any doubts about what is needed to finish the course!
 
-For details and registration, see [here](https://docs.google.com/forms/d/e/1FAIpQLSfWehR1qhLdUYJ-VGZP1eGsMB5cjYwX5pE6xvXlYJmpD0AzCg/viewform).
+The programme will include an overview of our achievements over the last six months and our ongoing projects. You are welcome to present your own work or suggest ideas for collaboration. See [here](https://docs.google.com/document/d/14PpuzwZ8fVpkL4zd_69nrp5moXlEPaOAmP8ViBEHQEQ/edit?tab=t.0) the full agenda
 
-We are very much looking forward to meeting you soon!
+Please mark your calendars and register [here](https://docs.google.com/forms/d/e/1FAIpQLSdygCk0x2UcR3Yi-jKGsUd9zZXu0boEgsuam8_72ny4Qp7Szg/viewfo)
 
-Kind regards,  
-Gerhard (on behalf of Barbara)
+We look forward to seeing many of you there and making this Fellows Day a memorable moment together!
 
+Warm regards,
+
+Judith (on behalf of Barbara)

@@ -1,5 +1,5 @@
 ---
-title: "Fellows Day - September 23, 2025"
+title: "Fellows and Qualification Day - September 23, 2025"
 categories:
   - GFF Fellows
   - CBP

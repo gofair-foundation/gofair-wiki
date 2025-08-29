@@ -1,1 +1,21 @@
+---
+title: "Upcoming Training autum 2025"
+categories:
+  - CBP
+author: 
+  - name: Judith Schneider
+    orcid: 0009-0007-6976-1456
+date: 08-29-2025
+image: https://static.wixstatic.com/media/f364d7_81503ae81505496082de3ba2f39cf52f~mv2.png/v1/fill/w_545,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GFF_Qualification%20badge_website2_0_1000ppi.png
+---
 
+Dear GFF Fellows and friends,
+
+We have published new training dates on our [website] (https://www.gofair.foundation/upcoming-training) . Over the next three months, we will be offering courses on FAIR Awareness, FAIR Implementation Profiles and FAIR Vocabularies. If you have completed the course before, you can listen to it again to refresh your skills.
+
+For more information, check out the google docs [here] (https://docs.google.com/document/d/1vq4JxCIChWbQTaW2WLkfaWhf4MzMQPYJSIMoypYQ4rE/edit?tab=t.0)
+
+We are very much looking forward to meeting you soon!
+
+Kind regards,  
+Judith (on behalf of Barbara)

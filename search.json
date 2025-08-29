@@ -131,32 +131,39 @@
     "text": "See event published here on linkedIn for details."
   },
   {
-    "objectID": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
-    "href": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
-    "title": "The I-ADOPT Variable Modeling Challenge",
+    "objectID": "docs/news/posts/2024-12-26/index.html",
+    "href": "docs/news/posts/2024-12-26/index.html",
+    "title": "Curation process",
     "section": "",
-    "text": "We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.\n\nI-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.\nWe therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.\nAre you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on https://i-adopt.github.io/challenge.html."
+    "text": "The approval of nanopublications by GFF trained experts results in the allocation of a curation badge in the FIP Wizard, previously labelled a qualification. A revision of the terminology and icon was made to facilitate improved understanding of the process.\nThe curation process checks how useful a resource is at making data FAIR, and makes sure it is correctly aligned with the right FSR classes based on their definition in the FIP ontology. However, it does not check how FAIR the resource is. It checks the metadata description to see if it is complete, and suggests improvements where appropriate. If a review is successful, a nanopublication is approved (using a special template16) and a curation badge is added in the wizard. This helps to avoid duplication, incomplete descriptions, and unuseful FSRs, maintaining the integrity of the FIP approach.\nThank you for your attention!"
   },
   {
-    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "title": "New nanodash platform",
+    "objectID": "docs/news/posts/2024-08-09-CBP-Update/index.html",
+    "href": "docs/news/posts/2024-08-09-CBP-Update/index.html",
+    "title": "GFF Capacity Building Programme Update",
     "section": "",
-    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
+    "text": "GO FAIR Foundation has updated its GFF Capacity Building Programme.\nWe reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.\n\nAfter completing the mandatory FAIR Awareness unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.\nThe FIP Implementer Qualification consists of a single training unit (40 hours) while the M4M Implementer Qualification consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.\nFind here more details:\nSchultes, E., & Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. https://zenodo.org/doi/10.5281/zenodo.12160021"
   },
   {
-    "objectID": "docs/news/posts/2024-12-04-GFF-training/index.html",
-    "href": "docs/news/posts/2024-12-04-GFF-training/index.html",
-    "title": "Upcoming training",
+    "objectID": "docs/news/posts/2025-08-29-fellows-day/index.html",
+    "href": "docs/news/posts/2025-08-29-fellows-day/index.html",
+    "title": "GO FAIR Wiki",
     "section": "",
-    "text": "See training dates published here for details."
+    "text": "text"
   },
   {
-    "objectID": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-    "href": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-    "title": "FIP Wizard Important Updates",
+    "objectID": "docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
+    "href": "docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
+    "title": "FIP Service Migration",
     "section": "",
-    "text": "DSW\n\n\n\nWe have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:\n\nfor FAIR Implementation Profile projects to FIP Wizard 4\nfor FAIR Enabling Resource projects switch to FAIR Enabling Resource 2\n\nThank you for your attention!"
+    "text": "DSW\n\n\n\nWe are migrating the production environment of the FIP Wizard to a new URL. Starting May 14, the service will be available at: https://fip.fair-wizard.com\nKey Dates:\nMay 13: The current FIP/FSR submission service will be temporarily unavailable during the transition.\nMay 14: The new FIP Wizard instance goes live.\nJune 4: The current (old) instance will be fully decommissioned.\nBetween May 14 and June 4, you can still access the old FIP Wizard to manually transfer any projects that are not yet available in the new instance. However, please note that the old platform can no longer be used to create new projects or generate documents.\nAll your projects with published documents (like FIPS or FSRs) are being securely transferred to the new instance. You will be able to access them using your existing login credentials—no action is required on your part. However, be aware that empty and test projects will not be transferred.\nIf you have a project without a published document that you want to ensure gets transferred automatically to the new instance, please add its URL to this sheet at latest by Monday, May 12.\nAfter May 14, if you cannot find your project in the new instance, you can still manually transfer your projects by following these instructions: Go to your project and publish a new document as JSON. More specifically, click Documents &gt; New Document with Document Template Questionnaire Report and format JSON Data. Once created, click on the three dots symbol and press Download. In the new instance you create a new project using the same project template and click on import replies (right under the questionnaire at the top) and import that JSON file. All content will be imported.\nIf you have any questions, please do not hesitate to us at fipadmin@gofair.foundation."
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "GO FAIR Wiki",
+    "section": "",
+    "text": "We welcome all contributions to improve the GO FAIR Wiki! Maintainers will do their best to help you if you have any questions, concerns, or experience any difficulties along the way.\n\nMake sure you have a GitHub account.\nRead relevant parts of the Github documentation if you are new to Github.\nFork the FIP repository.\nEdit relevant files on your fork.\nCommit your change. Include a clear commit message describing the change.\nSubmit a pull request.\n\nThank you for your contribution!"
   },
   {
     "objectID": "docs/sip/content.html",
@@ -171,39 +178,32 @@
     ]
   },
   {
-    "objectID": "contributing.html",
-    "href": "contributing.html",
-    "title": "GO FAIR Wiki",
+    "objectID": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+    "href": "docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+    "title": "FIP Wizard Important Updates",
     "section": "",
-    "text": "We welcome all contributions to improve the GO FAIR Wiki! Maintainers will do their best to help you if you have any questions, concerns, or experience any difficulties along the way.\n\nMake sure you have a GitHub account.\nRead relevant parts of the Github documentation if you are new to Github.\nFork the FIP repository.\nEdit relevant files on your fork.\nCommit your change. Include a clear commit message describing the change.\nSubmit a pull request.\n\nThank you for your contribution!"
+    "text": "DSW\n\n\n\nWe have made a substantial update of the FIP Wizard environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:\n\nfor FAIR Implementation Profile projects to FIP Wizard 4\nfor FAIR Enabling Resource projects switch to FAIR Enabling Resource 2\n\nThank you for your attention!"
   },
   {
-    "objectID": "docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
-    "href": "docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
-    "title": "FIP Service Migration",
+    "objectID": "docs/news/posts/2024-12-04-GFF-training/index.html",
+    "href": "docs/news/posts/2024-12-04-GFF-training/index.html",
+    "title": "Upcoming training",
     "section": "",
-    "text": "DSW\n\n\n\nWe are migrating the production environment of the FIP Wizard to a new URL. Starting May 14, the service will be available at: https://fip.fair-wizard.com\nKey Dates:\nMay 13: The current FIP/FSR submission service will be temporarily unavailable during the transition.\nMay 14: The new FIP Wizard instance goes live.\nJune 4: The current (old) instance will be fully decommissioned.\nBetween May 14 and June 4, you can still access the old FIP Wizard to manually transfer any projects that are not yet available in the new instance. However, please note that the old platform can no longer be used to create new projects or generate documents.\nAll your projects with published documents (like FIPS or FSRs) are being securely transferred to the new instance. You will be able to access them using your existing login credentials—no action is required on your part. However, be aware that empty and test projects will not be transferred.\nIf you have a project without a published document that you want to ensure gets transferred automatically to the new instance, please add its URL to this sheet at latest by Monday, May 12.\nAfter May 14, if you cannot find your project in the new instance, you can still manually transfer your projects by following these instructions: Go to your project and publish a new document as JSON. More specifically, click Documents &gt; New Document with Document Template Questionnaire Report and format JSON Data. Once created, click on the three dots symbol and press Download. In the new instance you create a new project using the same project template and click on import replies (right under the questionnaire at the top) and import that JSON file. All content will be imported.\nIf you have any questions, please do not hesitate to us at fipadmin@gofair.foundation."
+    "text": "See training dates published here for details."
   },
   {
-    "objectID": "docs/news/posts/2025-08-29-fellows-day/index.html",
-    "href": "docs/news/posts/2025-08-29-fellows-day/index.html",
-    "title": "GO FAIR Wiki",
+    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "title": "New nanodash platform",
     "section": "",
-    "text": "text"
+    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
   },
   {
-    "objectID": "docs/news/posts/2024-08-09-CBP-Update/index.html",
-    "href": "docs/news/posts/2024-08-09-CBP-Update/index.html",
-    "title": "GFF Capacity Building Programme Update",
+    "objectID": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
+    "href": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
+    "title": "The I-ADOPT Variable Modeling Challenge",
     "section": "",
-    "text": "GO FAIR Foundation has updated its GFF Capacity Building Programme.\nWe reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.\n\nAfter completing the mandatory FAIR Awareness unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.\nThe FIP Implementer Qualification consists of a single training unit (40 hours) while the M4M Implementer Qualification consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.\nFind here more details:\nSchultes, E., & Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. https://zenodo.org/doi/10.5281/zenodo.12160021"
-  },
-  {
-    "objectID": "docs/news/posts/2024-12-26/index.html",
-    "href": "docs/news/posts/2024-12-26/index.html",
-    "title": "Curation process",
-    "section": "",
-    "text": "The approval of nanopublications by GFF trained experts results in the allocation of a curation badge in the FIP Wizard, previously labelled a qualification. A revision of the terminology and icon was made to facilitate improved understanding of the process.\nThe curation process checks how useful a resource is at making data FAIR, and makes sure it is correctly aligned with the right FSR classes based on their definition in the FIP ontology. However, it does not check how FAIR the resource is. It checks the metadata description to see if it is complete, and suggests improvements where appropriate. If a review is successful, a nanopublication is approved (using a special template16) and a curation badge is added in the wizard. This helps to avoid duplication, incomplete descriptions, and unuseful FSRs, maintaining the integrity of the FIP approach.\nThank you for your attention!"
+    "text": "We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.\n\nI-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.\nWe therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.\nAre you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on https://i-adopt.github.io/challenge.html."
   },
   {
     "objectID": "docs/news/posts/2024-06-03-JSON-LD-output/index.html",
@@ -421,6 +421,6 @@
     "href": "index.html",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Wiki\nThis GO FAIR wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still under construction. This wiki and all of its content are maintained by the GO FAIR Foundation. The source files of this website can be found on Github.\n\nLatest news | All news\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Conference\n\n\n2 July 2025, Poortgebouw, Leiden\n\n\n\n\n\n\n\n\nJun 11, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\nFIP Service Migration\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2025\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\nLIFES Seminar FAIR Data for Trusted AI\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\nNo matching items\n\n\nThis website was built with Quarto and rendered with Github Pages."
+    "text": "Wiki\nThis GO FAIR wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still under construction. This wiki and all of its content are maintained by the GO FAIR Foundation. The source files of this website can be found on Github.\n\nLatest news | All news\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Conference\n\n\n2 July 2025, Poortgebouw, Leiden\n\n\n\n\n\n\n\n\nJun 11, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\nFIP Service Migration\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2025\n\n\nBarbara Magagna\n\n\n\n\n\nNo matching items\n\n\nThis website was built with Quarto and rendered with Github Pages."
   }
 ]

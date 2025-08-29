@@ -6,8 +6,13 @@ author:
   - name: Judith Schneider
     orcid: 0009-0007-6976-1456
 date: 08-29-2025
-image: https://static.wixstatic.com/media/f364d7_81503ae81505496082de3ba2f39cf52f~mv2.png/v1/fill/w_545,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GFF_Qualification%20badge_website2_0_1000ppi.png
+
 ---
+-----------------------------------------------------------------------------
+![](3PFF icons combined_dark_400ppi.avif)
+
+-----------------------------------------------------------------------------
+
 
 Dear GFF Fellows and friends,
 

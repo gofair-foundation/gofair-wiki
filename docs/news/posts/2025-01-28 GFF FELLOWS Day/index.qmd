@@ -12,6 +12,7 @@ image: https://static.wixstatic.com/media/f364d7_81503ae81505496082de3ba2f39cf52
 ---
 --------------------------------------------------------------------
 ![](GFF_Qualification badge_website2_0_1000ppi.png)
+
 -------------------------------------------------------------------
 
 Dear Fellows!

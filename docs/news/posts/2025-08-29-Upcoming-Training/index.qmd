@@ -13,14 +13,6 @@ date: 08-29-2025
 
 -----------------------------------------------------------------------------
 
-
-Dear GFF Fellows and friends,
-
-We have published new training dates on our [website] (https://www.gofair.foundation/upcoming-training) . Over the next three months, we will be offering courses on FAIR Awareness, FAIR Implementation Profiles and FAIR Vocabularies. If you have completed the course before, you can listen to it again to refresh your skills.
-
-For more information, check out the google docs [here] (https://docs.google.com/document/d/1vq4JxCIChWbQTaW2WLkfaWhf4MzMQPYJSIMoypYQ4rE/edit?tab=t.0)
+We have published new training dates on our [website](https://www.gofair.foundation/upcoming-training). Over the next three months, we will be offering courses on FAIR Awareness, FAIR Implementation Profiles and FAIR Vocabularies. If you have completed the course before, you can listen to it again to refresh your skills.
 
 We are very much looking forward to meeting you soon!
-
-Kind regards,  
-Judith (on behalf of Barbara)

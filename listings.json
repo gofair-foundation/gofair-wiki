@@ -1,9 +1,14 @@
 [
   {
-    "listing": "/docs/news/index.html",
+    "listing": "/docs/guide/index.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
     "items": [
-      "/docs/news/posts/2025-08-29-Upcoming-Training/index.html",
+      "/docs/news/posts/2025-10-09-lifes-network-meeting/index.html",
       "/docs/news/posts/2025-08-29-fellows-day/index.html",
+      "/docs/news/posts/2025-08-29-Upcoming-Training/index.html",
       "/docs/news/posts/2025-06-11-LIFES-conference/index.html",
       "/docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
       "/docs/news/posts/2025-02-03-LIFES-seminar/index.html",
@@ -20,19 +25,16 @@
       "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
       "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
       "/docs/news/posts/2024-05-29-lifes-update/index.html",
-      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html",
-      "/docs/news/posts/2024-02-05-nanodash-update/index.html"
+      "/docs/news/posts/2024-02-05-nanodash-update/index.html",
+      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html"
     ]
   },
   {
-    "listing": "/docs/guide/index.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
+    "listing": "/docs/news/index.html",
     "items": [
-      "/docs/news/posts/2025-08-29-fellows-day/index.html",
+      "/docs/news/posts/2025-10-09-lifes-network-meeting/index.html",
       "/docs/news/posts/2025-08-29-Upcoming-Training/index.html",
+      "/docs/news/posts/2025-08-29-fellows-day/index.html",
       "/docs/news/posts/2025-06-11-LIFES-conference/index.html",
       "/docs/news/posts/2025-05-07-fip-wizard-migration/index.html",
       "/docs/news/posts/2025-02-03-LIFES-seminar/index.html",
@@ -46,8 +48,8 @@
       "/docs/news/posts/2024-08-09-CBP-Update/index.html",
       "/docs/news/posts/2024-06-24-CBP-Update/index.html",
       "/docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
-      "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
       "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
+      "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
       "/docs/news/posts/2024-05-29-lifes-update/index.html",
       "/docs/news/posts/2024-02-05-fip-wizard-update/index.html",
       "/docs/news/posts/2024-02-05-nanodash-update/index.html"

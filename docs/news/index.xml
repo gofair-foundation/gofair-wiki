@@ -14,8 +14,30 @@
 <title>GO FAIR Wiki</title>
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
-<generator>quarto-1.8.24</generator>
-<lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Thu, 09 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>LIFES Networking Meeting</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-10-09-lifes-network-meeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2025-10-09-lifes-network-meeting/lifes-network-meeting.jpeg" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.lifes.institute/event-details/lifes-networking-meeting-2025-10-14-13-30">here</a> for details and registration.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-10-09-lifes-network-meeting/</guid>
+  <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Upcoming Training autum 2025</title>
   <dc:creator>Judith Schneider</dc:creator>
@@ -559,34 +581,6 @@ Gerhard (on behalf of Barbara)</p>
  ]]></description>
   <category>FIP Wizard</category>
   <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/</guid>
-  <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>New nanodash platform</title>
-  <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/nanodash.png" class="img-fluid figure-img"></p>
-<figcaption>Nanodash</figcaption>
-</figure>
-</div>
-<hr>
-<p>There exists now a new nanodash platform: <a href="https://nanodash.knowledgepixels.com/" class="uri">https://nanodash.knowledgepixels.com/</a>. For this platform you also need to make a new introduction nanopub (Go to <a href="https://nanodash.knowledgepixels.com/profile" class="uri">https://nanodash.knowledgepixels.com/profile</a> and do the <strong>Recommended Actions</strong>). Please send the nanopub URI to me (@mabablue) in <a href="https://meet.gofair.foundation/">MatterMost</a> so that I can approve it.</p>
-<hr>
-
-
-
- ]]></description>
-  <category>nanodash</category>
-  <category>nano publications</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-nanodash-update/</guid>
   <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>

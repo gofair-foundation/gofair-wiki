@@ -1,0 +1,21 @@
+---
+title: SIP resources integratged in FIP
+categories:
+  - FIP Wizard
+author: 
+  - name: Barbara Magagna
+    orcid: 0000-0003-2195-3997
+date: 01-27-2026
+---
+
+------------------------------------------------------------------------
+
+![DSW](dsw.png) 
+
+------------------------------------------------------------------------
+
+The SIP service will be maintained for six months (until 31 July) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out. Resources previously documented in a Semantic Interoperability Profile (SIP) are now included in a standard FIP (version 5 and later) as supporting declarations, enabling streamlined and consistent management.
+
+Please use the [FIP Wizard](https://fip.fair-wizard.com/) going forward. Detailed migration instructions will be provided soon.
+
+If you have any questions, please do not hesitate to us at fipadmin@gofair.foundation.

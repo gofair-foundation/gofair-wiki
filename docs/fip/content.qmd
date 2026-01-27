@@ -262,6 +262,10 @@ For FERs you need to identify the appropriate FER type. There are three main typ
 
 <img src="./_static/img/FERdef.png" width="100%"/>
 
+In addition to FERs, there is the larger FAIR Supporting Resource Typology, that complement essential FERs. 
+
+![](/docs/img/typology.jpg)
+
 A FER might be available or 'to be developed'. 
     For the name of the resource you are creating you should avoid ‘,’ use a pipe (\|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like *Envthes \| Environmental Thesaurus*
 

@@ -15,7 +15,35 @@
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 09 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>SIP resources integratged in FIP</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/dsw.png" class="img-fluid figure-img"></p>
+<figcaption>DSW</figcaption>
+</figure>
+</div>
+<hr>
+<p>The SIP service will be maintained for six months (until 31 July) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out. Resources previously documented in a Semantic Interoperability Profile (SIP) are now included in a standard FIP (version 5 and later) as supporting declarations, enabling streamlined and consistent management.</p>
+<p>Please use the <a href="https://fip.fair-wizard.com/">FIP Wizard</a> going forward. Detailed migration instructions will be provided soon.</p>
+<p>If you have any questions, please do not hesitate to us at fipadmin@gofair.foundation.</p>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/</guid>
+  <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>LIFES Networking Meeting</title>
   <dc:creator>Norbert van Dijk</dc:creator>
@@ -550,38 +578,6 @@ Gerhard (on behalf of Barbara)</p>
   <category>LIFES</category>
   <guid>https://wiki.gofair.foundation/docs/news/posts/2024-05-29-lifes-update/</guid>
   <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>FIP Wizard Important Updates</title>
-  <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/dsw.png" class="img-fluid figure-img"></p>
-<figcaption>DSW</figcaption>
-</figure>
-</div>
-<hr>
-<p>We have made a substantial update of the <a href="https://fip-wizard.ds-wizard.org/">FIP Wizard</a> environment. For all new projects the newest templates are provided automatically. For existing FIPs and FAIR Enabling Resource Projects you need to change to the newest template manually. Click on create migration and switch to these knowledge models:</p>
-<ul>
-<li>for FAIR Implementation Profile projects to FIP Wizard 4</li>
-<li>for FAIR Enabling Resource projects switch to FAIR Enabling Resource 2</li>
-</ul>
-<p>Thank you for your attention!</p>
-<hr>
-
-
-
- ]]></description>
-  <category>FIP Wizard</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-02-05-fip-wizard-update/</guid>
-  <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -77,102 +77,84 @@
     "text": "See event published here for details and registration."
   },
   {
-    "objectID": "docs/news/posts/2025-08-29-Upcoming-Training/index.html",
-    "href": "docs/news/posts/2025-08-29-Upcoming-Training/index.html",
-    "title": "Upcoming Training autum 2025",
+    "objectID": "docs/news/posts/2026-01-27-SIP-integrated-in-FIP/index.html",
+    "href": "docs/news/posts/2026-01-27-SIP-integrated-in-FIP/index.html",
+    "title": "SIP resources integratged in FIP",
     "section": "",
-    "text": "We have published new training dates on our website. Over the next three months, we will be offering courses on FAIR Awareness, FAIR Implementation Profiles and FAIR Vocabularies. If you have completed the course before, you can listen to it again to refresh your skills.\nWe are very much looking forward to meeting you soon!"
+    "text": "DSW\n\n\n\nThe SIP service will be maintained for six months (until 31 July) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out. Resources previously documented in a Semantic Interoperability Profile (SIP) are now included in a standard FIP (version 5 and later) as supporting declarations, enabling streamlined and consistent management.\nPlease use the FIP Wizard going forward. Detailed migration instructions will be provided soon.\nIf you have any questions, please do not hesitate to us at fipadmin@gofair.foundation."
   },
   {
-    "objectID": "docs/news/posts/2025-01-28 GFF FELLOWS Day/index.html",
-    "href": "docs/news/posts/2025-01-28 GFF FELLOWS Day/index.html",
-    "title": "GFF Fellows Day - February 3, 2025",
+    "objectID": "docs/news/posts/2024-10-30-LIFES-network-meeting/index.html",
+    "href": "docs/news/posts/2024-10-30-LIFES-network-meeting/index.html",
+    "title": "LIFES Network Meeting",
     "section": "",
-    "text": "Dear GFF Fellows and friends,\nWe cordially invite you to our Qualification event and Fellows meeting on February 3 (afternoon) at the GFF office in Leiden (and remotely via Zoom). We start at 12:00 with lunch, the main program will be from 13:30 -17:30.\nFor details and registration, see here.\nWe are very much looking forward to meeting you soon!\nKind regards,\nGerhard (on behalf of Barbara)"
+    "text": "See event published here on linkedIn for details."
   },
   {
-    "objectID": "docs/news/posts/2024-12-04-GFF-training/index.html",
-    "href": "docs/news/posts/2024-12-04-GFF-training/index.html",
-    "title": "Upcoming training",
+    "objectID": "docs/news/posts/2024-06-24-CBP-Update/index.html",
+    "href": "docs/news/posts/2024-06-24-CBP-Update/index.html",
+    "title": "GFF Capacity Building Programme Update",
     "section": "",
-    "text": "See training dates published here for details."
+    "text": "GO FAIR Foundation has updated its GFF Capacity Building Programme.\nWe introduced a new level for qualification for those wanting to learn the content of the CBP but not interested to become facilitators or trainers themselves. They can participate in the same training units but omit the assistance time (so in total spend 60 hours instead of 80 hours) and be qualified as Implementers.\n\nThe two modules are renamed into:\nModule 1:\n\nUnit FAIR Awareness\nUnit FAIR Implementation Profile\nUnit M4M introduction\n\nThree possible qualifications:\n\nFIP Implementer (after 60 hours training and exam)\nFIP Facilitator (after 40 hours training, exam and 20 hours assistance)\n3PFF Faciltitor (after 60 hours training, exam and 20 hours assistance)\n\nModule 2, only possible after completing Module 1:\n\nUnit M4M vocabulary\nUnit M4M metadata\nUnit FAIR orchestration\n\nTwo possible qualifications:\n\nM4M Implementer (after 60 hours training and exam)\n3PFF Trainer (after 60 hours training, exam and 20 hours assistance)\n\nFind here more details:\nSchultes, E., & Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. https://zenodo.org/doi/10.5281/zenodo.12160021"
   },
   {
-    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
-    "title": "New nanodash platform",
+    "objectID": "docs/news/posts/2024-10-14-I-ADOPT-Challenge2/index.html",
+    "href": "docs/news/posts/2024-10-14-I-ADOPT-Challenge2/index.html",
+    "title": "The I-ADOPT Variable Modeling Challenge 2",
     "section": "",
-    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
+    "text": "I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT. We are pleased to share news with you about the I-ADOPT Variable Modeling Challenge outcome:\nThe Challenge took place from 16 to 29 September 2024.\n1st place: Anne Fouilloux and Jean Iaquinta (212.75 points)\n2nd place: Andrea Tarallo, Martina Pulieri, Christina Di Muri e Jessica Titocci (206.5 points)\n3rd place: Jörg Klausen, Morgan Silverman and Gao Chen (168.6 points)\nRunner-up contestants:\nSamantha Blakeman, Petra ten Hoopen, Saurav Kumar\nThese people will automatically qualify for a share in the prize pot of our second challenge (details below).\nWe decided to launch a second challenge that will take place\nfrom October 14 (10:00 CEST) to 18 (22:00 CEST)\nWe have 1000 Euro in the prize pool for the second challenge.\nThere will be no single winner, but everyone contributing with at least 5 high-quality variable models will get an equal amount from the prize pot.* High-quality is defined by a variable that scores 12 points or higher.\n\nAre you interested in joining the second challenge? More information on https://i-adopt.github.io/challenge.html."
   },
   {
-    "objectID": "docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
-    "href": "docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
-    "title": "FIP Wizard Important Updates",
+    "objectID": "docs/news/posts/2024-12-26/index.html",
+    "href": "docs/news/posts/2024-12-26/index.html",
+    "title": "Curation process",
     "section": "",
-    "text": "All FAIR Enabling Resource have now extended metadata elements and we updated the Knowledge Model for reusing the metadata content from FAIRsharing with these extenstions. The Project Template is now integrated in the FIP Project template in Chapter VII (a), but can also be found when creating a new project in the drop down of templates (b).\na)\n\n\n\n\nb)"
+    "text": "The approval of nanopublications by GFF trained experts results in the allocation of a curation badge in the FIP Wizard, previously labelled a qualification. A revision of the terminology and icon was made to facilitate improved understanding of the process.\nThe curation process checks how useful a resource is at making data FAIR, and makes sure it is correctly aligned with the right FSR classes based on their definition in the FIP ontology. However, it does not check how FAIR the resource is. It checks the metadata description to see if it is complete, and suggests improvements where appropriate. If a review is successful, a nanopublication is approved (using a special template16) and a curation badge is added in the wizard. This helps to avoid duplication, incomplete descriptions, and unuseful FSRs, maintaining the integrity of the FIP approach.\nThank you for your attention!"
   },
   {
-    "objectID": "docs/news/posts/2025-06-11-LIFES-conference/index.html",
-    "href": "docs/news/posts/2025-06-11-LIFES-conference/index.html",
-    "title": "LIFES Conference",
+    "objectID": "docs/news/posts/2025-01-08-LIFES-network-meeting/index.html",
+    "href": "docs/news/posts/2025-01-08-LIFES-network-meeting/index.html",
+    "title": "LIFES Network Meeting",
     "section": "",
-    "text": "See event published here for details."
+    "text": "See event published here on linkedIn for details."
   },
   {
-    "objectID": "docs/news/posts/2025-08-29-fellows-day/index.html",
-    "href": "docs/news/posts/2025-08-29-fellows-day/index.html",
-    "title": "Fellows and Qualification Day - September 23, 2025",
+    "objectID": "docs/news/posts/2024-08-09-CBP-Update/index.html",
+    "href": "docs/news/posts/2024-08-09-CBP-Update/index.html",
+    "title": "GFF Capacity Building Programme Update",
     "section": "",
-    "text": "Dear Fellows and Friends!\nWe are delighted to announce that our next Fellows Day will be held on 23 September (afternoon) at the GFF office in Leiden. This special event is an opportunity for us to come together, share experiences, strengthen our community and celebrate achievements by awarding certificates to those who have successfully completed their courses. Hopefully, this will motivate a few more people to speed up and finish in time – 16 September is the last day to submit your completion declaration before the event. Please contact me if you have any doubts about what is needed to finish the course!\nThe programme will include an overview of our achievements over the last six months and our ongoing projects. You are welcome to present your own work or suggest ideas for collaboration. See here the full agenda.\nPlease mark your calendars and register here.\nWe look forward to seeing many of you there and making this Fellows Day a memorable moment together!\nWarm regards,\nJudith (on behalf of Barbara)"
+    "text": "GO FAIR Foundation has updated its GFF Capacity Building Programme.\nWe reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.\n\nAfter completing the mandatory FAIR Awareness unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.\nThe FIP Implementer Qualification consists of a single training unit (40 hours) while the M4M Implementer Qualification consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.\nFind here more details:\nSchultes, E., & Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. https://zenodo.org/doi/10.5281/zenodo.12160021"
   },
   {
-    "objectID": "docs/news/index.html",
-    "href": "docs/news/index.html",
-    "title": "News",
+    "objectID": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
+    "href": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
+    "title": "The I-ADOPT Variable Modeling Challenge",
     "section": "",
-    "text": "LIFES Networking Meeting\n\n\n\n\n\n\nLIFES\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Training autum 2025\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nFellows and Qualification Day - September 23, 2025\n\n\n\n\n\n\nGFF Fellows\n\nCBP\n\nEvent\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Conference\n\n\n2 July 2025, Poortgebouw, Leiden\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nJun 11, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Service Migration\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nMay 7, 2025\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Seminar FAIR Data for Trusted AI\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nFeb 3, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nGFF Fellows Day - February 3, 2025\n\n\n\n\n\n\nGFF Fellows\n\nCBP\n\nEvent\n\n\n\n\n\n\n\n\n\nJan 25, 2025\n\n\nGerhard Burger, Barbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Network Meeting\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nCuration process\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nDec 26, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming training\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Network Meeting\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nNov 28, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Network Meeting\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nOct 30, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nThe I-ADOPT Variable Modeling Challenge 2\n\n\n\n\n\n\nI-ADOPT\n\n\n\n\n\n\n\n\n\nOct 14, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nGFF Capacity Building Programme Update\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nGFF Capacity Building Programme Update\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nJun 24, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nThe I-ADOPT Variable Modeling Challenge\n\n\n\n\n\n\nI-ADOPT\n\n\n\n\n\n\n\n\n\nJun 17, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nJun 3, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nJun 3, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\nnanodash\n\nnano publications\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\nNo matching items"
+    "text": "We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.\n\nI-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.\nWe therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.\nAre you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on https://i-adopt.github.io/challenge.html."
   },
   {
-    "objectID": "docs/fair-connect/fair-connect.html",
-    "href": "docs/fair-connect/fair-connect.html",
-    "title": "FAIR Connect",
-    "section": "",
-    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship.\n\n\n\nHomepage FAIR Connect\n\n\nRecent additions to FAIR Connect are a Nanopublications Search engine and a Dashboard listing published FER’s by subject and published FIP’s by field."
-  },
-  {
-    "objectID": "docs/fip/index.html",
-    "href": "docs/fip/index.html",
-    "title": "Background",
-    "section": "",
-    "text": "Background\nA FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as  FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, “how to” overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see Schultes et al. (2020).\nThe FIP Wizard 4.0 tool is based on the same technology as the familiar Data Stewardship Wizard. Essentially, we have replaced the Knowledge Model that guides the creation of a data stewardship plan, with a Knowledge Model based on the FIP Questionnaire that guides the user in the creation of a FIP. We have also added the capability for the FIP Wizard 4.0 to use (consume and produce) nanopublications, allowing the various elements of the FIP to be captured in this highly modular, referenceable, machine-interpretable format. Making use of nanopublications and the FIP Ontology, the FIP Wizard 4.0 captures FIPs that are themselves, to a very high degree, FAIR. \nHence, this user guide is designed to complement the FIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the DSW User Guide. \nWhy FIPs anyways?\n\nA FIP can be compiled to declare both the current and the future use of FERs in a community.\nA FIP can be compiled to declare specifically the current status of implementations within a community (called the AS-IS FIPs). This declaration can also sometimes be useful in guiding data stewards working in that community. \nA FIP can be compiled to decide on the future use of FERs in a community (called the TO-BE FIPs). These FIPs can be used to document technology trends in FAIR. \nIt is likely that any given FIP will need periodic revision. In this case, each new version documents improvements in FAIR over time. \nAny given FIP can be compared with FIPs from other communities giving insight on how FIPs might be optimized to ensure FAIR Convergence.  \n\nThe FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: fipadmin@gofair.foundation.\n\n\n\n\n\nReferences\n\nSchultes, Erik, Barbara Magagna, Kristina Maria Hettne, Robert Pergl, Marek Suchánek, and Tobias Kuhn. 2020. “Reusable FAIR Implementation Profiles as Accelerators of FAIR Convergence.” In Advances in Conceptual Modeling, 138–47. Springer International Publishing. https://doi.org/10.1007/978-3-030-65847-2_13."
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "CC BY 4.0",
-    "section": "",
-    "text": "CC BY 4.0 Legal Code"
-  },
-  {
-    "objectID": "contributing.html",
-    "href": "contributing.html",
+    "objectID": "docs/np/index.html",
+    "href": "docs/np/index.html",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "We welcome all contributions to improve the GO FAIR Wiki! Maintainers will do their best to help you if you have any questions, concerns, or experience any difficulties along the way.\n\nMake sure you have a GitHub account.\nRead relevant parts of the Github documentation if you are new to Github.\nFork the FIP repository.\nEdit relevant files on your fork.\nCommit your change. Include a clear commit message describing the change.\nSubmit a pull request.\n\nThank you for your contribution!"
+    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. However, they can also be created in Nanodash.",
+    "crumbs": [
+      "Guide",
+      "Nanopublications",
+      "Introduction"
+    ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "docs/np/index.html#introduction",
+    "href": "docs/np/index.html#introduction",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Wiki\nThis GO FAIR wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still under construction. This wiki and all of its content are maintained by the GO FAIR Foundation. The source files of this website can be found on Github.\n\nLatest news | All news\n\n\n\n\n\n\n\n\nLIFES Networking Meeting\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\nFellows and Qualification Day - September 23, 2025\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\n\n\n\n\n\nUpcoming Training autum 2025\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\n\n\n\n\n\nLIFES Conference\n\n\n2 July 2025, Poortgebouw, Leiden\n\n\n\n\n\n\n\n\nJun 11, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\nNo matching items\n\n\nThis website was built with Quarto and rendered with Github Pages."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
+    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. However, they can also be created in Nanodash.",
+    "crumbs": [
+      "Guide",
+      "Nanopublications",
+      "Introduction"
+    ]
   },
   {
     "objectID": "docs/fip/content.html",
@@ -271,77 +253,102 @@
     ]
   },
   {
-    "objectID": "docs/np/index.html",
-    "href": "docs/np/index.html",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The GO FAIR Wiki is an effort to bring together current individual documentation efforts into a comprehensive resource."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. However, they can also be created in Nanodash.",
-    "crumbs": [
-      "Guide",
-      "Nanopublications",
-      "Introduction"
-    ]
+    "text": "Wiki\nThis GO FAIR wiki is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still under construction. This wiki and all of its content are maintained by the GO FAIR Foundation. The source files of this website can be found on Github.\n\nLatest news | All news\n\n\n\n\n\n\n\n\nSIP resources integratged in FIP\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2026\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\nLIFES Networking Meeting\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\nFellows and Qualification Day - September 23, 2025\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\n\n\n\n\n\nUpcoming Training autum 2025\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\nNo matching items\n\n\nThis website was built with Quarto and rendered with Github Pages."
   },
   {
-    "objectID": "docs/np/index.html#introduction",
-    "href": "docs/np/index.html#introduction",
+    "objectID": "contributing.html",
+    "href": "contributing.html",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.\nA nanopublication is a tiny RDF knowledge graph composed of three fundamental components: the assertion graph, which contains the primary content; the provenance metadata graph, detailing the generation process of the information; and the publication information graph, which includes metadata about the creator, the creation date and time, the metadata template used, and the usage license. Nanopublications adhere to Semantic Web technologies, utilizing RDF triple statements, and are permanently and uniquely identified through resolvable Trusty URIs. For more details explore this website.\n\nNanopublications can be created directly in the FIP Wizard or SIP Wizard. However, they can also be created in Nanodash.",
-    "crumbs": [
-      "Guide",
-      "Nanopublications",
-      "Introduction"
-    ]
+    "text": "We welcome all contributions to improve the GO FAIR Wiki! Maintainers will do their best to help you if you have any questions, concerns, or experience any difficulties along the way.\n\nMake sure you have a GitHub account.\nRead relevant parts of the Github documentation if you are new to Github.\nFork the FIP repository.\nEdit relevant files on your fork.\nCommit your change. Include a clear commit message describing the change.\nSubmit a pull request.\n\nThank you for your contribution!"
   },
   {
-    "objectID": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
-    "href": "docs/news/posts/2024-06-17-I-ADOPT-Challenge/index.html",
-    "title": "The I-ADOPT Variable Modeling Challenge",
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "CC BY 4.0",
     "section": "",
-    "text": "We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.\n\nI-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.\nWe therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.\nAre you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on https://i-adopt.github.io/challenge.html."
+    "text": "CC BY 4.0 Legal Code"
   },
   {
-    "objectID": "docs/news/posts/2024-08-09-CBP-Update/index.html",
-    "href": "docs/news/posts/2024-08-09-CBP-Update/index.html",
-    "title": "GFF Capacity Building Programme Update",
+    "objectID": "docs/fip/index.html",
+    "href": "docs/fip/index.html",
+    "title": "Background",
     "section": "",
-    "text": "GO FAIR Foundation has updated its GFF Capacity Building Programme.\nWe reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.\n\nAfter completing the mandatory FAIR Awareness unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.\nThe FIP Implementer Qualification consists of a single training unit (40 hours) while the M4M Implementer Qualification consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.\nFind here more details:\nSchultes, E., & Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. https://zenodo.org/doi/10.5281/zenodo.12160021"
+    "text": "Background\nA FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as  FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, “how to” overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see Schultes et al. (2020).\nThe FIP Wizard 4.0 tool is based on the same technology as the familiar Data Stewardship Wizard. Essentially, we have replaced the Knowledge Model that guides the creation of a data stewardship plan, with a Knowledge Model based on the FIP Questionnaire that guides the user in the creation of a FIP. We have also added the capability for the FIP Wizard 4.0 to use (consume and produce) nanopublications, allowing the various elements of the FIP to be captured in this highly modular, referenceable, machine-interpretable format. Making use of nanopublications and the FIP Ontology, the FIP Wizard 4.0 captures FIPs that are themselves, to a very high degree, FAIR. \nHence, this user guide is designed to complement the FIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the DSW User Guide. \nWhy FIPs anyways?\n\nA FIP can be compiled to declare both the current and the future use of FERs in a community.\nA FIP can be compiled to declare specifically the current status of implementations within a community (called the AS-IS FIPs). This declaration can also sometimes be useful in guiding data stewards working in that community. \nA FIP can be compiled to decide on the future use of FERs in a community (called the TO-BE FIPs). These FIPs can be used to document technology trends in FAIR. \nIt is likely that any given FIP will need periodic revision. In this case, each new version documents improvements in FAIR over time. \nAny given FIP can be compared with FIPs from other communities giving insight on how FIPs might be optimized to ensure FAIR Convergence.  \n\nThe FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: fipadmin@gofair.foundation.\n\n\n\n\n\nReferences\n\nSchultes, Erik, Barbara Magagna, Kristina Maria Hettne, Robert Pergl, Marek Suchánek, and Tobias Kuhn. 2020. “Reusable FAIR Implementation Profiles as Accelerators of FAIR Convergence.” In Advances in Conceptual Modeling, 138–47. Springer International Publishing. https://doi.org/10.1007/978-3-030-65847-2_13."
   },
   {
-    "objectID": "docs/news/posts/2025-01-08-LIFES-network-meeting/index.html",
-    "href": "docs/news/posts/2025-01-08-LIFES-network-meeting/index.html",
-    "title": "LIFES Network Meeting",
+    "objectID": "docs/fair-connect/fair-connect.html",
+    "href": "docs/fair-connect/fair-connect.html",
+    "title": "FAIR Connect",
     "section": "",
-    "text": "See event published here on linkedIn for details."
+    "text": "FAIR Connect is an Open Access publishing platform for the development and dissemination of good practices for professional FAIR-Data stewardship.\n\n\n\nHomepage FAIR Connect\n\n\nRecent additions to FAIR Connect are a Nanopublications Search engine and a Dashboard listing published FER’s by subject and published FIP’s by field."
   },
   {
-    "objectID": "docs/news/posts/2024-12-26/index.html",
-    "href": "docs/news/posts/2024-12-26/index.html",
-    "title": "Curation process",
+    "objectID": "docs/news/index.html",
+    "href": "docs/news/index.html",
+    "title": "News",
     "section": "",
-    "text": "The approval of nanopublications by GFF trained experts results in the allocation of a curation badge in the FIP Wizard, previously labelled a qualification. A revision of the terminology and icon was made to facilitate improved understanding of the process.\nThe curation process checks how useful a resource is at making data FAIR, and makes sure it is correctly aligned with the right FSR classes based on their definition in the FIP ontology. However, it does not check how FAIR the resource is. It checks the metadata description to see if it is complete, and suggests improvements where appropriate. If a review is successful, a nanopublication is approved (using a special template16) and a curation badge is added in the wizard. This helps to avoid duplication, incomplete descriptions, and unuseful FSRs, maintaining the integrity of the FIP approach.\nThank you for your attention!"
+    "text": "SIP resources integratged in FIP\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nJan 27, 2026\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Networking Meeting\n\n\n\n\n\n\nLIFES\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Training autum 2025\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nFellows and Qualification Day - September 23, 2025\n\n\n\n\n\n\nGFF Fellows\n\nCBP\n\nEvent\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nJudith Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Conference\n\n\n2 July 2025, Poortgebouw, Leiden\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nJun 11, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Service Migration\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nMay 7, 2025\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Seminar FAIR Data for Trusted AI\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nFeb 3, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nGFF Fellows Day - February 3, 2025\n\n\n\n\n\n\nGFF Fellows\n\nCBP\n\nEvent\n\n\n\n\n\n\n\n\n\nJan 25, 2025\n\n\nGerhard Burger, Barbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Network Meeting\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nCuration process\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nDec 26, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming training\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Network Meeting\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nNov 28, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES Network Meeting\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nOct 30, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nThe I-ADOPT Variable Modeling Challenge 2\n\n\n\n\n\n\nI-ADOPT\n\n\n\n\n\n\n\n\n\nOct 14, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nGFF Capacity Building Programme Update\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nGFF Capacity Building Programme Update\n\n\n\n\n\n\nCBP\n\n\n\n\n\n\n\n\n\nJun 24, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nThe I-ADOPT Variable Modeling Challenge\n\n\n\n\n\n\nI-ADOPT\n\n\n\n\n\n\n\n\n\nJun 17, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nJun 3, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nJun 3, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nLIFES\n\n\n\n\n\n\nFAIR and Equitable Science\n\nLIFES\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFIP Wizard Important Updates\n\n\n\n\n\n\nFIP Wizard\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\n\n\n\n\n\n\n\nNew nanodash platform\n\n\n\n\n\n\nnanodash\n\nnano publications\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBarbara Magagna\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "docs/news/posts/2024-10-14-I-ADOPT-Challenge2/index.html",
-    "href": "docs/news/posts/2024-10-14-I-ADOPT-Challenge2/index.html",
-    "title": "The I-ADOPT Variable Modeling Challenge 2",
+    "objectID": "docs/news/posts/2025-08-29-fellows-day/index.html",
+    "href": "docs/news/posts/2025-08-29-fellows-day/index.html",
+    "title": "Fellows and Qualification Day - September 23, 2025",
     "section": "",
-    "text": "I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT. We are pleased to share news with you about the I-ADOPT Variable Modeling Challenge outcome:\nThe Challenge took place from 16 to 29 September 2024.\n1st place: Anne Fouilloux and Jean Iaquinta (212.75 points)\n2nd place: Andrea Tarallo, Martina Pulieri, Christina Di Muri e Jessica Titocci (206.5 points)\n3rd place: Jörg Klausen, Morgan Silverman and Gao Chen (168.6 points)\nRunner-up contestants:\nSamantha Blakeman, Petra ten Hoopen, Saurav Kumar\nThese people will automatically qualify for a share in the prize pot of our second challenge (details below).\nWe decided to launch a second challenge that will take place\nfrom October 14 (10:00 CEST) to 18 (22:00 CEST)\nWe have 1000 Euro in the prize pool for the second challenge.\nThere will be no single winner, but everyone contributing with at least 5 high-quality variable models will get an equal amount from the prize pot.* High-quality is defined by a variable that scores 12 points or higher.\n\nAre you interested in joining the second challenge? More information on https://i-adopt.github.io/challenge.html."
+    "text": "Dear Fellows and Friends!\nWe are delighted to announce that our next Fellows Day will be held on 23 September (afternoon) at the GFF office in Leiden. This special event is an opportunity for us to come together, share experiences, strengthen our community and celebrate achievements by awarding certificates to those who have successfully completed their courses. Hopefully, this will motivate a few more people to speed up and finish in time – 16 September is the last day to submit your completion declaration before the event. Please contact me if you have any doubts about what is needed to finish the course!\nThe programme will include an overview of our achievements over the last six months and our ongoing projects. You are welcome to present your own work or suggest ideas for collaboration. See here the full agenda.\nPlease mark your calendars and register here.\nWe look forward to seeing many of you there and making this Fellows Day a memorable moment together!\nWarm regards,\nJudith (on behalf of Barbara)"
   },
   {
-    "objectID": "docs/news/posts/2024-06-24-CBP-Update/index.html",
-    "href": "docs/news/posts/2024-06-24-CBP-Update/index.html",
-    "title": "GFF Capacity Building Programme Update",
+    "objectID": "docs/news/posts/2025-06-11-LIFES-conference/index.html",
+    "href": "docs/news/posts/2025-06-11-LIFES-conference/index.html",
+    "title": "LIFES Conference",
     "section": "",
-    "text": "GO FAIR Foundation has updated its GFF Capacity Building Programme.\nWe introduced a new level for qualification for those wanting to learn the content of the CBP but not interested to become facilitators or trainers themselves. They can participate in the same training units but omit the assistance time (so in total spend 60 hours instead of 80 hours) and be qualified as Implementers.\n\nThe two modules are renamed into:\nModule 1:\n\nUnit FAIR Awareness\nUnit FAIR Implementation Profile\nUnit M4M introduction\n\nThree possible qualifications:\n\nFIP Implementer (after 60 hours training and exam)\nFIP Facilitator (after 40 hours training, exam and 20 hours assistance)\n3PFF Faciltitor (after 60 hours training, exam and 20 hours assistance)\n\nModule 2, only possible after completing Module 1:\n\nUnit M4M vocabulary\nUnit M4M metadata\nUnit FAIR orchestration\n\nTwo possible qualifications:\n\nM4M Implementer (after 60 hours training and exam)\n3PFF Trainer (after 60 hours training, exam and 20 hours assistance)\n\nFind here more details:\nSchultes, E., & Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. https://zenodo.org/doi/10.5281/zenodo.12160021"
+    "text": "See event published here for details."
   },
   {
-    "objectID": "docs/news/posts/2024-10-30-LIFES-network-meeting/index.html",
-    "href": "docs/news/posts/2024-10-30-LIFES-network-meeting/index.html",
-    "title": "LIFES Network Meeting",
+    "objectID": "docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
+    "href": "docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
+    "title": "FIP Wizard Important Updates",
     "section": "",
-    "text": "See event published here on linkedIn for details."
+    "text": "All FAIR Enabling Resource have now extended metadata elements and we updated the Knowledge Model for reusing the metadata content from FAIRsharing with these extenstions. The Project Template is now integrated in the FIP Project template in Chapter VII (a), but can also be found when creating a new project in the drop down of templates (b).\na)\n\n\n\n\nb)"
+  },
+  {
+    "objectID": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "href": "docs/news/posts/2024-02-05-nanodash-update/index.html",
+    "title": "New nanodash platform",
+    "section": "",
+    "text": "Nanodash\n\n\n\nThere exists now a new nanodash platform: https://nanodash.knowledgepixels.com/. For this platform you also need to make a new introduction nanopub (Go to https://nanodash.knowledgepixels.com/profile and do the Recommended Actions). Please send the nanopub URI to me (@mabablue) in MatterMost so that I can approve it."
+  },
+  {
+    "objectID": "docs/news/posts/2024-12-04-GFF-training/index.html",
+    "href": "docs/news/posts/2024-12-04-GFF-training/index.html",
+    "title": "Upcoming training",
+    "section": "",
+    "text": "See training dates published here for details."
+  },
+  {
+    "objectID": "docs/news/posts/2025-01-28 GFF FELLOWS Day/index.html",
+    "href": "docs/news/posts/2025-01-28 GFF FELLOWS Day/index.html",
+    "title": "GFF Fellows Day - February 3, 2025",
+    "section": "",
+    "text": "Dear GFF Fellows and friends,\nWe cordially invite you to our Qualification event and Fellows meeting on February 3 (afternoon) at the GFF office in Leiden (and remotely via Zoom). We start at 12:00 with lunch, the main program will be from 13:30 -17:30.\nFor details and registration, see here.\nWe are very much looking forward to meeting you soon!\nKind regards,\nGerhard (on behalf of Barbara)"
+  },
+  {
+    "objectID": "docs/news/posts/2025-08-29-Upcoming-Training/index.html",
+    "href": "docs/news/posts/2025-08-29-Upcoming-Training/index.html",
+    "title": "Upcoming Training autum 2025",
+    "section": "",
+    "text": "We have published new training dates on our website. Over the next three months, we will be offering courses on FAIR Awareness, FAIR Implementation Profiles and FAIR Vocabularies. If you have completed the course before, you can listen to it again to refresh your skills.\nWe are very much looking forward to meeting you soon!"
   },
   {
     "objectID": "docs/news/posts/2024-11-28-LIFES-network-meeting/index.html",

@@ -14,7 +14,7 @@ date: 01-27-2026
 
 ------------------------------------------------------------------------
 
-The SIP service will be maintained for six months (until 31 July) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out. Resources previously documented in a Semantic Interoperability Profile (SIP) are now included in a standard FIP (version 5 and later) as supporting declarations, enabling streamlined and consistent management.
+The SIP service will be maintained for six months (until 31 July 2026) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out. Resources previously documented in a Semantic Interoperability Profile (SIP) are now included in a standard FIP (version 5 and later) as supporting declarations, enabling streamlined and consistent management.
 
 Please use the [FIP Wizard](https://fip.fair-wizard.com/) going forward. Detailed migration instructions will be provided soon.
 

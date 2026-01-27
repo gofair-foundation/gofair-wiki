@@ -10,8 +10,4 @@
     - text: Introduction
       href: ../np/index.qmd
 
-- title: Semantic Interoperability Profiles
-  subtitle: SIP Wizard User Guide
-  links:
-    - text: Background
-      href: ../sip/content.qmd
+

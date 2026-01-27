@@ -262,7 +262,7 @@ For FERs you need to identify the appropriate FER type. There are three main typ
 
 <img src="./_static/img/FERdef.png" width="100%"/>
 
-In addition to FERs, there is the larger FAIR Supporting Resource Typology, that complement essential FERs. 
+In addition to FERs, there is the larger typology of FAIR Supporting Resources, that complement essential FERs. 
 
 ![](/docs/img/typology.jpg)
 
@@ -369,7 +369,7 @@ Error messages can flag possible issues such as:
 
 -   For some question(s), the considerations field was left empty
 
-All the nanopublications representing your FIP - i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [SPARQL endpoint](https://virtuoso.nps.petapico.org/sparql). To get a matrix of all created FIPs, called FIP Matrix (24) download the [new_matrix.csv](https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv).
+All the nanopublications representing your FIP - i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [SPARQL endpoint](https://virtuoso.nps.petapico.org/sparql). To get a matrix of all created FIPs, called FIP Matrix (24) download the [new_matrix.csv](https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv). The **[FIP Matrix tool](https://fip-matrix.streamlit.app/)** automatically supports such comparisons across communities and specific FAIR principles.
 
 <img src="./_static/img/24.png" width="55%"/>
 

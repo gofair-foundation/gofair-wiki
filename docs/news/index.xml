@@ -33,8 +33,8 @@
 </figure>
 </div>
 <hr>
-<p>The SIP service will be maintained for six months (until 31 July 2026) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out. Resources previously documented in a Semantic Interoperability Profile (SIP) are now included in a standard FIP (version 5 and later) as supporting declarations, enabling streamlined and consistent management.</p>
-<p>Please use the <a href="https://fip.fair-wizard.com/">FIP Wizard</a> going forward. Detailed migration instructions will be provided soon.</p>
+<p>Resources supporting interoperability that were previously compiled in a Semantic Interoperability Profile (SIP) are incorporated into a standard FIP (version 5 and later) as supporting declarations, allowing streamlined and consistent management. As a result, the SIP service will be maintained for six months (until 31 July 2026) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out.</p>
+<p>Please use the <strong><a href="https://fip.fair-wizard.com/">FIP Wizard</a></strong> going forward. Detailed migration instructions will be provided soon.</p>
 <p>If you have any questions, please do not hesitate to us at fipadmin@gofair.foundation.</p>
 
 

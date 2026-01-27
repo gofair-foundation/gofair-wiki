@@ -81,7 +81,7 @@
     "href": "docs/news/posts/2026-01-27-SIP-integrated-in-FIP/index.html",
     "title": "SIP resources integrated in FIP",
     "section": "",
-    "text": "DSW\n\n\n\nThe SIP service will be maintained for six months (until 31 July 2026) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out. Resources previously documented in a Semantic Interoperability Profile (SIP) are now included in a standard FIP (version 5 and later) as supporting declarations, enabling streamlined and consistent management.\nPlease use the FIP Wizard going forward. Detailed migration instructions will be provided soon.\nIf you have any questions, please do not hesitate to us at fipadmin@gofair.foundation."
+    "text": "DSW\n\n\n\nResources supporting interoperability that were previously compiled in a Semantic Interoperability Profile (SIP) are incorporated into a standard FIP (version 5 and later) as supporting declarations, allowing streamlined and consistent management. As a result, the SIP service will be maintained for six months (until 31 July 2026) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out.\nPlease use the FIP Wizard going forward. Detailed migration instructions will be provided soon.\nIf you have any questions, please do not hesitate to us at fipadmin@gofair.foundation."
   },
   {
     "objectID": "docs/news/posts/2024-10-30-LIFES-network-meeting/index.html",

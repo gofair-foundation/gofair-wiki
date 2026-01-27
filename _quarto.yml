@@ -65,9 +65,6 @@ website:
           - section: "Nanopublications"
             contents:
               - docs/np/index.qmd
-          - section: "SIP Wizard User Guide"
-            contents:
-              - docs/sip/content.qmd
           - section: "Authors and Contributors"
             contents:
               - docs/guide/authors.qmd

@@ -53,7 +53,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 3.  **FIP Publication:** The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see [Publishing your FIP](#sec-fip-publishing)).
 
-## Getting started with the FIP Wizard 4.0
+## Getting started with the FIP 5.0
 
 -   Go to <https://fip.fair-wizard.com/>: log in or sign up.
 -   Click Projects (a folder icon in the menu bar on the left) (1).
@@ -101,7 +101,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 -   Add a short description of the FIP
 
--   Select the **FIP template** from the drop-down list You’ll see here 4 templates
+-   Select the **FIP template** from the drop-down list You’ll see here several templates
 
 -   FAIR Implementation Profile (FIP)
 
@@ -113,7 +113,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 -   Click **Save**. This will bring you to the FIP questionnaire. You can now start to work with the FIP Wizard questionnaire, and make FIP declarations (see below).
 
-Principally there should be one and only one person who acts as a data steward for the community and enters all answers. However, in most cases the answers will need to be agreed upon by an expert team of that community. By clicking on the **Share button** on the top right you can provide editing or viewing rights for your colleagues (9).
+Principally there should be one contact person who acts as a data steward for the community and enters all answers. However, in most cases the answers will need to be agreed upon by an expert team of that community. In any case, it is possible to mention multiple people. By clicking on the **Share button** on the top right you can provide editing or viewing rights for your colleagues (9).
 
 <img src="./_static/img/9.png" width="60%"/>
 
@@ -157,15 +157,17 @@ This chapter contains these questions:
 
 4.  Optionally provide an accessible identifier of one of your digital objects of the chosen type.
 
-5.  Optionally provide a link (OSF or Zenodo DOI) to a case study description you want to focus on in this FIP.
+5.  Optionally provide a link (OSF or Zenodo DOI) to a case study description, or select from drop down to a case study description created via the wizard you want to focus on in this FIP.
 
-6.  Start date of the validity of the FIP.
+6. Indicate the version of the FIP. The three positions (1.2.3) stand for different types of changes:
 
-7.  End date of the validity of the FIP. It may be the case that an explicit end date has yet to be specified by your community, in this case answer with "December 31 2050".
+- for a new decision on FSR composition decided by the community;
+- for required changes of FSRs related to curation needs;
+- for small metadata changes in the FIP. Please do not forget to change the version when you publish the FIP.
 
 <img src="./_static/img/11.png" width="100%"/>
 
-The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon @Jacobsen2020 and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: <https://www.gofair.foundation/interpretation>. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for {{< var F2 >}} and {{< var R1-2 >}}).
+The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon @Jacobsen2020 and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: <https://www.gofair.foundation/interpretation>. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for {{< var F2 >}} and {{< var R1-2 >}}). In addition to FER types, you can also address Supporting Declarations about FAIR Supporting Resources that are not essential but still helpful in the process of aligning with the FAIR principles. Examples of these are Editors, Crosswalks, and Persistency Policies.  
 
 There is a common pattern for each of the questions referring to each FAIR Principles. The questions begin by asking you to make an explicit declaration, about the usage of FAIR Enabling Resources regarding that Principle within your community.
 
@@ -237,7 +239,7 @@ Multiple nanopublications can be “contained” or bundled using a special kind
 
     -   Individual components of the FIP (such as the FIC and FERs) are all represented as nanopublications.
 
-    -   The output of the FIP Wizard 3.0 (see [Publishing your FIP](#sec-fip-publishing)) is an index nanopublication that provides a list of declared FERs for every FIC.
+    -   The output of the FIP (see [Publishing your FIP](#sec-fip-publishing)) is an index nanopublication that provides a list of declared FERs for every FIC.
 
 **How to create FER nanopublications in the FIP Wizard**
 
@@ -301,7 +303,11 @@ Your completed FIP questionnaire should include:
 
 -   All questions completed.
 
-To publish your FIP follow these steps:
+To publish your FIP, use the Actions button which reminds you to increase the version number for a new nanopublication:
+
+![](/docs/img/actions.jpg)
+
+Alternatively, you can:
 
 1.  Click **Documents** (top menu bar).
 

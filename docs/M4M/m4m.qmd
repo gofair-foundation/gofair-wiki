@@ -3,7 +3,7 @@ title: "M4M"
 subtitle: "Welcome to the Metadata for Machines resource page"
 ---
 
-<img src="./M4M/Robot_logos_2.png"/>
+(Robot_logos_2.png)
 
 Metadata for Machines (M4M) workshops are agile, hackathon-style events that bring together domain experts (who are able and willing to represent a domain community) with FAIR metadata experts (data stewards) who guide a discussion leading to the metadata requirements that meet the FAIR data needs of that domain community. M4M Workshops are lightweight, fast-track (often 1-day) events where policy and domain experts can build new, or make informed choices regarding the reuse of already existing metadata schema. Although M4M Workshops can serve many purposes, they are usually intended to kick-start FAIRification efforts with minimally viable metadata components that are modular, and can be later extended as needed.
 

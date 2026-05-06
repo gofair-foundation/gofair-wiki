@@ -14,13 +14,6 @@
     "text": "We welcome all contributions to improve the GO FAIR Wiki! Maintainers will do their best to help you if you have any questions, concerns, or experience any difficulties along the way.\n\nMake sure you have a GitHub account.\nRead relevant parts of the Github documentation if you are new to Github.\nFork the FIP repository.\nEdit relevant files on your fork.\nCommit your change. Include a clear commit message describing the change.\nSubmit a pull request.\n\nThank you for your contribution!"
   },
   {
-    "objectID": "docs/M4M/m4m.html#making-it-easy-for-humans-to-make-metadata-for-machines",
-    "href": "docs/M4M/m4m.html#making-it-easy-for-humans-to-make-metadata-for-machines",
-    "title": "M4M",
-    "section": "Making it easy for humans to make metadata for machines",
-    "text": "Making it easy for humans to make metadata for machines\nMetadata for Machines (M4M) workshops are agile, hackathon-style events that bring together domain experts (who are able and willing to represent a domain community) with FAIR metadata experts (data stewards) who guide a discussion leading to the metadata requirements that meet the FAIR data needs of that domain community. M4M Workshops are lightweight, fast-track (often 1-day) events where policy and domain experts can build new, or make informed choices regarding the reuse of already existing metadata schema. Although M4M Workshops can serve many purposes, they are usually intended to kick-start FAIRification efforts with minimally viable metadata components that are modular, and can be later extended as needed."
-  },
-  {
     "objectID": "docs/M4M/m4m.html#m4m-worskhops-have-two-objectives",
     "href": "docs/M4M/m4m.html#m4m-worskhops-have-two-objectives",
     "title": "M4M",

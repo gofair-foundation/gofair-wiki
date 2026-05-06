@@ -46,14 +46,35 @@
     "href": "docs/M4M/m4m.html#metadata-forms-for-datasets",
     "title": "M4M",
     "section": "Metadata Forms for Datasets",
-    "text": "Metadata Forms for Datasets\nGuidelines for dataset metadata forms Link to the guidelines document\nCEDAR forms [forms to fill out, CEDAR account required] Dataset Catalogue form\nDataset form\nDataset Distribution form\nCEDAR forms in OpenView [forms to view/share, no CEDAR account required]\nDataset Catalogue form in OpenView Dataset form in OpenView Dataset Distribution form in OpenView"
+    "text": "Metadata Forms for Datasets\nGuidelines for dataset metadata forms\nLink to the guidelines document\nCEDAR forms [forms to fill out, CEDAR account required]\nDataset Catalogue form\nDataset form\nDataset Distribution form\nCEDAR forms in OpenView [forms to view/share, no CEDAR account required]\nDataset Catalogue form in OpenView\nDataset form in OpenView\nDataset Distribution form in OpenView"
   },
   {
     "objectID": "docs/M4M/m4m.html#metadata-forms-for-zonmw-covid-19-community",
     "href": "docs/M4M/m4m.html#metadata-forms-for-zonmw-covid-19-community",
     "title": "M4M",
     "section": "Metadata Forms for ZonMw COVID-19 Community",
-    "text": "Metadata Forms for ZonMw COVID-19 Community"
+    "text": "Metadata Forms for ZonMw COVID-19 Community\nGuidelines for completing CEDAR forms\nLink to the guidelines document\nCEDAR forms [forms to fill out, CEDAR account required]\nProject Admin form\nProject Content form\nCEDAR forms in OpenView [forms to view/share, no CEDAR account required]\nProject Admin form in OpenView\nProject Content form in OPenView\nBioPortal vocabularies\nZonMw Generic Terms ZonMw COVID-19 Vocbulary"
+  },
+  {
+    "objectID": "docs/M4M/m4m.html#metadata-forms-for-zonmw-id-amr-community",
+    "href": "docs/M4M/m4m.html#metadata-forms-for-zonmw-id-amr-community",
+    "title": "M4M",
+    "section": "Metadata Forms for ZonMw ID & AMR Community",
+    "text": "Metadata Forms for ZonMw ID & AMR Community\nGuidelines for completing CEDAR forms\nLink to the guidelines document\nCEDAR forms [forms to fill out, CEDAR account required]\nProject Admin form\nProject Content form\nCollection Admin form\nCollection Content form\nCEDAR forms in OpenView [forms to view/share, no CEDAR account required]\nProject Admin form in OpenView\nProject Content form in OpenView\nCollection Admin form in OpenView\nCollection Content form in OpenView\nBioPortal vocabularies\nID&AMR Vocabulary"
+  },
+  {
+    "objectID": "docs/M4M/m4m.html#useful-links",
+    "href": "docs/M4M/m4m.html#useful-links",
+    "title": "M4M",
+    "section": "Useful links",
+    "text": "Useful links\n\nZonMw’s approach to FAIR data management\nZonMw’s new item on First steps towards data FAIRification in COVID-19 research and Spinoffs from COVID-19 data FAIRification\nHealth-RI direct link to the COVID-19 data portal"
+  },
+  {
+    "objectID": "docs/M4M/m4m.html#m4m-workshops-overview",
+    "href": "docs/M4M/m4m.html#m4m-workshops-overview",
+    "title": "M4M",
+    "section": "M4M workshops overview",
+    "text": "M4M workshops overview\n\nDemonstration of pipe table syntax\n\n\n\n\n\n\n\n\n\n\nWorkshop\nDate\nCommunity\nTopic\nProvider\nSponsor\n\n\n\n\nM4M.1\nOcotber2019\nInaugural\nSetting up the Concept\nGO FAIR Foundation\nGO FAIR\n\n\n123\n123\n123\n123\n\n\n\n\n1\n1\n1\n1"
   },
   {
     "objectID": "docs/recycle-bin/fip-minting-nanopublications.html",

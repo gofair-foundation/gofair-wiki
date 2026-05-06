@@ -2,10 +2,12 @@
 title: "M4M"
 subtitle: ""
 ---
-# Welcome to the Metadata for Machines resource page
+# [Welcome to the Metadata for Machines resource page]{style="color: yellow;"}
+
 ![](Robot_logos_2.png)
 
 # The M4M Workshop concept
+
 ## Making it easy for humans to make metadata for machines
 
 ::: {layout-ncol=2}

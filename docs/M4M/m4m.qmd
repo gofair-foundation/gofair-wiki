@@ -119,8 +119,35 @@ Within the ZonMw COVID Program, data stewards have participated in a series of M
 
 | Workshop | Date | Community | Topic | Provider | Sponsor |
 |---------|:-----|------:|:------:|:------:|:------:|
-| M4M.1      | Ocotber2019| Inaugural | Setting up the Concept | GO FAIR Foundation | GO FAIR |
-| 123     | 123  |   123 |  123   |
-| 1       | 1    |     1 |   1    |
+| M4M.1 | Ocotber 2019| Inaugural | Setting up the Concept | GO FAIR Foundation | GO FAIR |
+| M4M.2 | January 2020| Funders | ZonMw + HRB | GO FAIR Foundation | GO FAIR |
+| M4M.3 | January 2020| PreClinicalTrails | pre-registration form | GO FAIR Foundation | GO FAIR |
+| M4M.4 | April-Sept 2020| VODAN Africa | Metadata for the FDP | GO FAIR Foundation | Phillips Foundation |
+| M4M.5 | Summer 2020| AnnaEE | Climate data | GO FAIR Foundation | DeiC |
+| M4M.6 | Summer 2020| DTU and others | Wind Energy | GO FAIR Foundation | DeiC |
+| M4M.7 | November 2020| COVID-19 Program | Care (Treatment) / Prevention | GO FAIR Foundation | ZonMw |
+| M4M.8 | November 2020| COVID-19 Program | Diagnostic / Testing – [Recordings](https://youtu.be/QvNjYJhUtPM) | GO FAIR Foundation | ZonMw |
+| M4M.9 | November 2020| COVID-19 Program | Prognosis / Risk assessments | GO FAIR Foundation | ZonMw |
+| M4M.10 | November 2020| COVID-19 Program | Virus / Immunology / Molecular – [Recordings](https://youtu.be/XBZ2U_QmEac) | GO FAIR Foundation | ZonMw |
+| M4M.11 | November 2020| COVID-19 Program | Organisational / Process related – [Recordings](https://youtu.be/EOhafM-Sgps) | GO FAIR Foundation | ZonMw |
+| M4M.12 | November 2020| COVID-19 Program | Socio-economic / Behavioral – [Recordings](https://youtu.be/3a5hcp0UwX0) | GO FAIR Foundation | ZonMw |
+| M4M.13 | November 2020| COVID-19 Program | Vocab | GO FAIR Foundation | ZonMw |
+| M4M.14 | November 2020| COVID-19 Program | Vocab | GO FAIR Foundation | ZonMw |
+| M4M.15 | June 2021| COVID-19 Program | Rapid M4M for datasets | GO FAIR Foundation | ZonMw |
+| M4M.16 | June 2021| COVID-19 Program | I-ADOPT M4M for variables | GO FAIR Foundation | ZonMw |
+| M4M.17 | June 2021| ID & AMR | R4R, COVID—>ID&AMR | GO FAIR Foundation | ZonMw |
+| M4M.18 | Spet 2021| INCENTIVE | Influenca vaccine – [Recordings](https://drive.google.com/file/d/1a-a6wV1N1KJxhdK3zFu2943C99vdAWVO/view?usp=sharing) | partners in FAIR | EU/Horizon2020 |
+| M4M.19 | December 2021| NICEST2 | Climate data | GO FAIR Foundation | EOSC Nordic |
+| M4M.20 | June 2022| FAIRware | Psychology – [Recordings](https://bit.ly/M4M-20-recording) | GO FAIR Foundation | FAIRware |
+| M4M.21 | June 2022| FAIRware | Neuroscience – [Recordings](https://bit.ly/M4M-21-recording) | GO FAIR Foundation | FAIRware |
+| M4M.22 | June 2022| INCENTIVE | Influenca vaccine | partners in FAIR | EU/Horizon2020 |
 
-: Demonstration of pipe table syntax
+
+
+
+
+
+
+
+
+

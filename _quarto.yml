@@ -38,6 +38,8 @@ website:
         href: docs/guide/index.qmd
       - text: News
         href: docs/news/index.qmd
+      - text: M4M
+        href: docs/M4M/m4m.qmd
       - text: FAIR Connect
         href: docs/fair-connect/fair-connect.qmd
       - text: Contributing

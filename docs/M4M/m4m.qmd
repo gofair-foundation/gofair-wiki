@@ -2,7 +2,7 @@
 title: "M4M"
 subtitle: ""
 ---
-# [Welcome to the Metadata for Machines resource page]{style="color: yellow;"}
+# [Welcome to the Metadata for Machines resource page]{style="color: DarkOrange;"}
 
 ![](Robot_logos_2.png)
 

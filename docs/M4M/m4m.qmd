@@ -25,3 +25,29 @@ The Three-point FAIRification Framework provides practical “how to” guidance
 
 ## FAQ
 Should you have any questions about M4M workshops, please consult the [Frequently Asked Questions](https://docs.google.com/document/d/1XBUsLeX8SEBamsd-km0G-FKXDQQw79DBr4K5GWmNz9I/edit?tab=t.0#heading=h.ovxsov5fskcp).
+
+##ZonMw and FAIR metadata
+
+![](Robot-incl-logos.png)
+
+## M4M workshops for the ZonMw
+Within the ZonMw COVID Program, data stewards have participated in a series of M4M Workshops on behalf of the COVID Program researchers. The data stewards have been guided by the M4M Facilitator Team (John Graybeal, Barbara Magagna, Kristina Hettne, Nikola Vasiljevic and Erik Schultes) and supported by a team of experts: Margreet Bloemers (ZonMw), Mijke Jetten (DTL/Health-RI), Jeroen Beliën (Amsterdam UMC, loc. VUmc), Rita Azevedo (Lygature/Health-RI), Erik Schultes (GO FAIR Foundation).
+
+## Metadata Forms for Datasets
+**Guidelines for dataset metadata forms**
+[Link to the guidelines document](https://osf.io/2y6ba/)
+
+**CEDAR forms** [forms to fill out, CEDAR account required]
+[Dataset Catalogue form](https://cedar.metadatacenter.org/instances/create/https://repo.metadatacenter.org/templates/28d58a30-1a42-4715-a742-d2f46690563e?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2Fd43fd5ed-863a-4588-ba7e-02257d96c76a)
+
+[Dataset form](https://cedar.metadatacenter.org/instances/create/https://repo.metadatacenter.org/templates/de169781-7f75-4aef-a0cb-ac435fe3a4c7?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2Fd43fd5ed-863a-4588-ba7e-02257d96c76a)
+
+[Dataset Distribution form](https://cedar.metadatacenter.org/instances/create/https://repo.metadatacenter.org/templates/22925909-9fb2-4ac8-a986-6db5ae7049e7?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2Fd43fd5ed-863a-4588-ba7e-02257d96c76a)
+
+**CEDAR forms in OpenView** [forms to view/share, no CEDAR account required]
+
+[Dataset Catalogue form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F28d58a30-1a42-4715-a742-d2f46690563e)
+[Dataset form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2Fde169781-7f75-4aef-a0cb-ac435fe3a4c7)
+[Dataset Distribution form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F22925909-9fb2-4ac8-a986-6db5ae7049e7)
+
+## Metadata Forms for ZonMw COVID-19 Community

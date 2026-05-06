@@ -1,8 +1,9 @@
 ---
 title: "Welcome to the Metadata for Machines resource page"
-subtitle: "Welcome to the Metadata for Machines resource page"
-image: Robot_logos_2.png
+subtitle: "M4M"
 ---
+
+![](Robot_logos_2.png)
 
 # The M4M Workshop concept
 

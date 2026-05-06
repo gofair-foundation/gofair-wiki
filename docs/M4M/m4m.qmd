@@ -35,9 +35,11 @@ Within the ZonMw COVID Program, data stewards have participated in a series of M
 
 ## Metadata Forms for Datasets
 **Guidelines for dataset metadata forms**
+
 [Link to the guidelines document](https://osf.io/2y6ba/)
 
 **CEDAR forms** [forms to fill out, CEDAR account required]
+
 [Dataset Catalogue form](https://cedar.metadatacenter.org/instances/create/https://repo.metadatacenter.org/templates/28d58a30-1a42-4715-a742-d2f46690563e?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2Fd43fd5ed-863a-4588-ba7e-02257d96c76a)
 
 [Dataset form](https://cedar.metadatacenter.org/instances/create/https://repo.metadatacenter.org/templates/de169781-7f75-4aef-a0cb-ac435fe3a4c7?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2Fd43fd5ed-863a-4588-ba7e-02257d96c76a)
@@ -47,7 +49,78 @@ Within the ZonMw COVID Program, data stewards have participated in a series of M
 **CEDAR forms in OpenView** [forms to view/share, no CEDAR account required]
 
 [Dataset Catalogue form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F28d58a30-1a42-4715-a742-d2f46690563e)
+
 [Dataset form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2Fde169781-7f75-4aef-a0cb-ac435fe3a4c7)
+
 [Dataset Distribution form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F22925909-9fb2-4ac8-a986-6db5ae7049e7)
 
 ## Metadata Forms for ZonMw COVID-19 Community
+
+**Guidelines for completing CEDAR forms**
+
+[Link to the guidelines document](https://osf.io/at759/)
+
+**CEDAR forms** [forms to fill out, CEDAR account required]
+
+[Project Admin form](https://cedar.metadatacenter.org/instances/create/https:/repo.metadatacenter.org/templates/337cb6f3-eef6-4b2f-9ffb-3f6d6cc9b9ac?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2F04ac2b48-0ab2-42bf-9f27-db03facbf9f1)
+
+[Project Content form](https://cedar.metadatacenter.org/instances/create/https:/repo.metadatacenter.org/templates/908e33e2-9485-4a93-ab22-1688dc5819dc?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2F82d8ec55-de6a-48d9-82c1-cdf64b568e7c)
+
+**CEDAR forms in OpenView** [forms to view/share, no CEDAR account required]
+
+[Project Admin form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F337cb6f3-eef6-4b2f-9ffb-3f6d6cc9b9ac)
+
+[Project Content form in OPenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F908e33e2-9485-4a93-ab22-1688dc5819dc)
+
+**BioPortal vocabularies**
+
+[ZonMw Generic Terms](https://bioportal.bioontology.org/ontologies/ZONMW-GENERIC)
+[ZonMw COVID-19 Vocbulary](https://bioportal.bioontology.org/ontologies/ZONMW-CONTENT)
+
+## Metadata Forms for ZonMw ID & AMR Community
+
+**Guidelines for completing CEDAR forms**
+
+[Link to the guidelines document](https://mfr.osf.io/render?url=https://osf.io/8gm4n/?direct%26mode=render%26action=download%26mode=render)
+
+**CEDAR forms** [forms to fill out, CEDAR account required]
+
+[Project Admin form](https://cedar.metadatacenter.org/instances/create/https://repo.metadatacenter.org/templates/4e6fd7e8-0d28-4715-9908-08ba4263c0f3?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2F9c36659c-7f64-425c-944e-199adba856a4)
+
+[Project Content form](https://cedar.metadatacenter.org/instances/create/https:/repo.metadatacenter.org/templates/57ea8ca1-8ef6-4168-8842-945a1e6fd12e?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2Fa7bb89a9-3dde-4955-a678-6a2797d7c6de)
+
+[Collection Admin form](https://cedar.metadatacenter.org/instances/create/https://repo.metadatacenter.org/templates/a920b4f2-c189-4c26-9123-3859116e8fd5?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2F57f2f1e4-e92a-4d41-9026-943abe002272)
+
+[Collection Content form](https://cedar.metadatacenter.org/instances/create/https:/repo.metadatacenter.org/templates/4a0bb74f-170c-4a80-841e-0f2b2f7e8450?folderId=https:%2F%2Frepo.metadatacenter.org%2Ffolders%2F88a00481-ea47-4e0e-8e80-a5e7b30c1a0e)
+
+**CEDAR forms in OpenView** [forms to view/share, no CEDAR account required]
+
+[Project Admin form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F4e6fd7e8-0d28-4715-9908-08ba4263c0f3)
+
+[Project Content form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F57ea8ca1-8ef6-4168-8842-945a1e6fd12e)
+
+[Collection Admin form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2Fa920b4f2-c189-4c26-9123-3859116e8fd5)
+
+[Collection Content form in OpenView](https://openview.metadatacenter.org/templates/https:%2F%2Frepo.metadatacenter.org%2Ftemplates%2F4a0bb74f-170c-4a80-841e-0f2b2f7e8450)
+
+**BioPortal vocabularies**
+
+[ID&AMR Vocabulary](https://bioportal.bioontology.org/ontologies/ID-AMR)
+
+## Useful links
+
+* ZonMw’s approach to [FAIR data management](https://www.zonmw.nl/nl/alles-over-fair-datamanagement-bij-zonmw#section-162609)
+
+* ZonMw’s new item on [First steps towards data FAIRification in COVID-19 research](https://www.zonmw.nl/en/article/first-steps-towards-data-fairification-covid-19-research) and [Spinoffs from COVID-19 data FAIRification](https://www.zonmw.nl/en/article/spinoffs-covid-19-data-fairification)
+
+* Health-RI direct link to the [COVID-19 data portal](https://covid19initiatives.health-ri.nl/#/ProjectOverview)
+
+## M4M workshops overview
+
+| Workshop | Date | Community | Topic | Provider | Sponsor |
+|---------|:-----|------:|:------:|:------:|:------:|
+| M4M.1      | Ocotber2019| Inaugural | Setting up the Concept | GO FAIR Foundation | GO FAIR |
+| 123     | 123  |   123 |  123   |
+| 1       | 1    |     1 |   1    |
+
+: Demonstration of pipe table syntax

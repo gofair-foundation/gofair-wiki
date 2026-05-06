@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/docs/guide/index.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/index.html",
@@ -26,8 +22,8 @@
       "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
       "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
       "/docs/news/posts/2024-05-29-lifes-update/index.html",
-      "/docs/news/posts/2024-02-05-nanodash-update/index.html",
-      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html"
+      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+      "/docs/news/posts/2024-02-05-nanodash-update/index.html"
     ]
   },
   {
@@ -56,5 +52,9 @@
       "/docs/news/posts/2024-02-05-fip-wizard-update/index.html",
       "/docs/news/posts/2024-02-05-nanodash-update/index.html"
     ]
+  },
+  {
+    "listing": "/docs/guide/index.html",
+    "items": []
   }
 ]

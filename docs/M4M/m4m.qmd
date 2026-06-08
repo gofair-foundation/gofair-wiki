@@ -1,5 +1,5 @@
 ::: {.callout-note}
-This page is based on older content from gofair.org, and is being updated. For up-to-date information on M4M workshops as part of the Three-Point FAIRification Framework (3PFF), visit <https://www.gofair.foundation/3pff>"
+This page is based on older content from gofair.org, and is being updated. For up-to-date information on M4M workshops as part of the Three-Point FAIRification Framework (3PFF), visit <https://www.gofair.foundation/3pff>.
 :::
 
 ---

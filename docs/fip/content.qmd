@@ -290,7 +290,7 @@ Please **avoid submitting the same trig file again** as this will trigger a new 
 
 You will see the submission as a FER nanopub (17), the persistent identiﬁer (nanopub URI) is highlighted in orange.
 
-![](/docs/img/img17.jpg)
+![Figure 17](/docs/media/17.png){.lightbox}
 
 This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for {{< var F1 >}}).
 

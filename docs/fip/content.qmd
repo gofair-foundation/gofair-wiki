@@ -66,7 +66,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 -   You can create FIPs either from scratch or by cloning an existing FIP, and revising it.
 
-**Clone and adapt the FIP project** - By default, you can see only projects you created. To see all projects click on the button where you can see your name and click ‘Clear selection’ (3).
+### **Clone and adapt the FIP project** - By default, you can see only projects you created. To see all projects click on the button where you can see your name and click ‘Clear selection’ (3).
 
 <img src="./_static/img/3.png" width="80%"/>
 
@@ -77,11 +77,11 @@ Making a FIP will typically involve three activities summarized below. The numbe
     <img src="./_static/img/4.png" width="80%"/>
 
     -   Select Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model.
-    -   Then click again on the three dots and select Clone (5).
+-   Then click again on the three dots and select Clone (5).
 
     <img src="./_static/img/5.png" width="30%"/>
 
-    -   This will bring you to the FIP questionnaire. To change the name of the FIP you need to go to Settings (6). You can now start to work with the FIP Wizard questionnaire, and modify the previous FIP declarations (see below).
+-   This will bring you to the FIP questionnaire. To change the name of the FIP you need to go to Settings (6). You can now start to work with the FIP Wizard questionnaire, and modify the previous FIP declarations (see below).
 
 <img src="./_static/img/6.png" width="40%"/>
 

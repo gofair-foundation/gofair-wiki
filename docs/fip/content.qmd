@@ -61,6 +61,8 @@ Making a FIP will typically involve three activities summarized below. The numbe
 
 <img src="./_static/img/1.png" width="20%"/>
 
+![Figure 1](/_static/img/1.png)
+
 - You will see a long list of projects on the right (2). FIPs are projects in the FIP Wizard and are normally named by the community that composed them.
 
 <img src="./_static/img/2.png" width="40%"/>

@@ -4,6 +4,7 @@ format: html
 aliases: 
   - /docs/fip/
   - /fip/
+lightbox: true
 ---
 
 ## Background

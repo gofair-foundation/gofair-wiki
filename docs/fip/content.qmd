@@ -59,7 +59,7 @@ Making a FIP will typically involve three activities summarized below. The numbe
 - Go to <https://fip.fair-wizard.com/>: log in or sign up.
 - Click Projects (a folder icon in the menu bar on the left) (1).
 
-![Figure 1](./_static/img/1.png){fig-align="left" width=40%}
+![Figure 1](./_static/img/1.png){fig-align="left" width=20%}
 
 - You will see a long list of projects on the right (2). FIPs are projects in the FIP Wizard and are normally named by the community that composed them.
 

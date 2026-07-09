@@ -240,13 +240,22 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a>
+  <ul class="collapse">
+  <li><a href="#why-fips-anyways" id="toc-why-fips-anyways" class="nav-link" data-scroll-target="#why-fips-anyways">Why FIPs anyways?</a></li>
+  </ul></li>
   <li><a href="#overview-on-how-to-create-a-fair-implementation-profile" id="toc-overview-on-how-to-create-a-fair-implementation-profile" class="nav-link" data-scroll-target="#overview-on-how-to-create-a-fair-implementation-profile">Overview on how to create a FAIR Implementation Profile</a></li>
-  <li><a href="#getting-started-with-the-fip-5.0" id="toc-getting-started-with-the-fip-5.0" class="nav-link" data-scroll-target="#getting-started-with-the-fip-5.0">Getting started with the FIP 5.0</a></li>
+  <li><a href="#getting-started-with-the-fip-5.0" id="toc-getting-started-with-the-fip-5.0" class="nav-link" data-scroll-target="#getting-started-with-the-fip-5.0">Getting started with the FIP 5.0</a>
+  <ul class="collapse">
+  <li><a href="#clone-and-adapt-the-fip-project" id="toc-clone-and-adapt-the-fip-project" class="nav-link" data-scroll-target="#clone-and-adapt-the-fip-project">Clone and adapt the FIP project</a></li>
+  <li><a href="#make-a-new-fip" id="toc-make-a-new-fip" class="nav-link" data-scroll-target="#make-a-new-fip">Make a new FIP</a></li>
+  </ul></li>
   <li><a href="#completing-the-fip-questionnaire" id="toc-completing-the-fip-questionnaire" class="nav-link" data-scroll-target="#completing-the-fip-questionnaire">Completing the FIP questionnaire</a></li>
   <li><a href="#creating-nanopublications" id="toc-creating-nanopublications" class="nav-link" data-scroll-target="#creating-nanopublications">Creating nanopublications</a>
   <ul class="collapse">
-  <li><a href="#what-is-a-nanopublication" id="toc-what-is-a-nanopublication" class="nav-link" data-scroll-target="#what-is-a-nanopublication"><strong>What is a nanopublication?</strong></a></li>
+  <li><a href="#what-is-a-nanopublication" id="toc-what-is-a-nanopublication" class="nav-link" data-scroll-target="#what-is-a-nanopublication">What is a nanopublication?</a></li>
+  <li><a href="#why-nanopublication" id="toc-why-nanopublication" class="nav-link" data-scroll-target="#why-nanopublication">Why nanopublication?</a></li>
+  <li><a href="#how-to-create-fer-nanopublications-in-the-fip-wizard" id="toc-how-to-create-fer-nanopublications-in-the-fip-wizard" class="nav-link" data-scroll-target="#how-to-create-fer-nanopublications-in-the-fip-wizard">How to create FER nanopublications in the FIP Wizard</a></li>
   </ul></li>
   <li><a href="#sec-fip-publishing" id="toc-sec-fip-publishing" class="nav-link" data-scroll-target="#sec-fip-publishing">Publishing your FIP</a></li>
   <li><a href="#revising-your-fip" id="toc-revising-your-fip" class="nav-link" data-scroll-target="#revising-your-fip">Revising your FIP</a></li>
@@ -280,7 +289,8 @@ div.csl-indent {
 <p>A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, “how to” overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see <span class="citation" data-cites="Schultes2020">Schultes et al. (<a href="#ref-Schultes2020" role="doc-biblioref">2020</a>)</span>.</p>
 <p>The FIP Wizard 4.0 tool is based on the same technology as the familiar <a href="https://ds-wizard.org/dsw-story">Data Stewardship Wizard</a>. Essentially, we have replaced the Knowledge Model that guides the creation of a data stewardship plan, with a Knowledge Model based on the FIP Questionnaire that guides the user in the creation of a FIP. We have also added the capability for the FIP Wizard 4.0 to use (consume and produce) <a href="https://nanopub.net">nanopublications</a>, allowing the various elements of the FIP to be captured in this highly modular, referenceable, machine-interpretable format. Making use of nanopublications and the <a href="https://w3id.org/fair/fip">FIP Ontology</a>, the FIP Wizard 4.0 captures FIPs that are themselves, to a very high degree, FAIR.&nbsp;</p>
 <p>Hence, this user guide is designed to complement the FIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the <a href="https://guide.ds-wizard.org">DSW User Guide</a>.&nbsp;</p>
-<p><strong>Why FIPs anyways?</strong></p>
+<section id="why-fips-anyways" class="level3">
+<h3 class="anchored" data-anchor-id="why-fips-anyways">Why FIPs anyways?</h3>
 <ul>
 <li><p>A FIP can be compiled to declare both the current and the future use of FERs in a community.</p></li>
 <li><p>A FIP can be compiled to declare specifically the current status of implementations within a community (called the AS-IS FIPs).</p></li>
@@ -291,6 +301,7 @@ div.csl-indent {
 <li><p>To explore alignment and optimization opportunities, compare a FIP with FIPs from other communities. The <a href="https://fip-matrix.streamlit.app/">FIP Matrix tool</a> supports such comparisons across communities and specific FAIR principles. &nbsp;</p></li>
 </ul>
 <p>The FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: <a href="mailto:fipadmin@gofair.foundation">fipadmin@gofair.foundation</a>.</p>
+</section>
 </section>
 <section id="overview-on-how-to-create-a-fair-implementation-profile" class="level2">
 <h2 class="anchored" data-anchor-id="overview-on-how-to-create-a-fair-implementation-profile">Overview on how to create a FAIR Implementation Profile</h2>
@@ -331,36 +342,99 @@ div.csl-indent {
 <ul>
 <li>You will see a long list of projects on the right (2). FIPs are projects in the FIP Wizard and are normally named by the community that composed them.</li>
 </ul>
-<p><img src="./_static/img/2.png" width="40%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure 2"><img src="./_static/img/2.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:50.0%" alt="Figure 2"></a></p>
+</figure>
+</div>
+<figcaption>Figure 2</figcaption>
+</figure>
+</div>
 <ul>
 <li>You can create FIPs either from scratch or by cloning an existing FIP, and revising it.</li>
 </ul>
-<section id="clone-and-adapt-the-fip-project" class="level4">
-<h4 class="anchored" data-anchor-id="clone-and-adapt-the-fip-project"><strong>Clone and adapt the FIP project</strong></h4>
+<section id="clone-and-adapt-the-fip-project" class="level3">
+<h3 class="anchored" data-anchor-id="clone-and-adapt-the-fip-project">Clone and adapt the FIP project</h3>
 <ul>
 <li>By default, you can see only projects you created. To see all projects click on the button where you can see your name and click ‘Clear selection’ (3).</li>
 </ul>
-<p><img src="./_static/img/3.png" width="80%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Figure 3"><img src="./_static/img/3.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:80.0%" alt="Figure 3"></a></p>
+</figure>
+</div>
+<figcaption>Figure 3</figcaption>
+</figure>
+</div>
 <ul>
 <li><p>Locate your reference FIP in the list.</p></li>
 <li><p>If the FIP has an orange annotation ‘update available’ click on the three dots on the right (4).</p>
-<p><img src="./_static/img/4.png" width="80%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/4.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Figure 4"><img src="./_static/img/4.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:80.0%" alt="Figure 4"></a></p>
+</figure>
+</div>
+<figcaption>Figure 4</figcaption>
+</figure>
+</div>
 <ul>
 <li>Select Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model.</li>
 </ul></li>
 <li><p>Then click again on the three dots and select Clone (5).</p>
-<p><img src="./_static/img/5.png" width="30%"></p></li>
-<li><p>This will bring you to the FIP questionnaire. To change the name of the FIP you need to go to Settings (6). You can now start to work with the FIP Wizard questionnaire, and modify the previous FIP declarations (see below).</p></li>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/5.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure 5"><img src="./_static/img/5.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:30.0%" alt="Figure 5"></a></p>
+</figure>
+</div>
+<figcaption>Figure 5</figcaption>
+</figure>
+</div></li>
+<li><p>This will bring you to the FIP questionnaire. To change the name of the FIP you need to go to Settings (6). You can now start to work with the FIP Wizard questionnaire, and modify the previous FIP declarations (see below).</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/6.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Figure 6"><img src="./_static/img/6.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:40.0%" alt="Figure 6"></a></p>
+</figure>
+</div>
+<figcaption>Figure 6</figcaption>
+</figure>
+</div></li>
 </ul>
-<p><img src="./_static/img/6.png" width="40%"></p>
-<p><strong>Make a new FIP</strong></p>
+</section>
+<section id="make-a-new-fip" class="level3">
+<h3 class="anchored" data-anchor-id="make-a-new-fip">Make a new FIP</h3>
 <ul>
 <li><p>Click <strong>Create</strong> (blue button on the top menu bar) (7).</p>
-<p><img src="./_static/img/7.png" width="100%"></p></li>
-<li><p>You’ll see <strong>Create Project</strong> - this dialog box will launch your new FIP (8).</p></li>
-</ul>
-<p><img src="./_static/img/8.png" width="40%"></p>
-<ul>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/7.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="Figure 7"><img src="./_static/img/7.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Figure 7"></a></p>
+</figure>
+</div>
+<figcaption>Figure 7</figcaption>
+</figure>
+</div></li>
+<li><p>You’ll see <strong>Create Project</strong> - this dialog box will launch your new FIP (8).</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/8.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="Figure 8"><img src="./_static/img/8.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:40.0%" alt="Figure 8"></a></p>
+</figure>
+</div>
+<figcaption>Figure 8</figcaption>
+</figure>
+</div></li>
 <li><p>Select the tab: <strong>From Project Template</strong></p></li>
 <li><p>Enter a name for your FIP: We recommend <em>[Community acronym] FIP</em> (for better findability avoid using ‘_’ in the name)</p></li>
 <li><p>Add a short description of the FIP</p></li>
@@ -372,7 +446,16 @@ div.csl-indent {
 <li><p>Click <strong>Save</strong>. This will bring you to the FIP questionnaire. You can now start to work with the FIP Wizard questionnaire, and make FIP declarations (see below).</p></li>
 </ul>
 <p>Principally there should be one contact person who acts as a data steward for the community and enters all answers. However, in most cases the answers will need to be agreed upon by an expert team of that community. In any case, it is possible to mention multiple people. By clicking on the <strong>Share button</strong> on the top right you can provide editing or viewing rights for your colleagues (9).</p>
-<p><img src="./_static/img/9.png" width="60%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/9.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9" title="Figure 9"><img src="./_static/img/9.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:60.0%" alt="Figure 9"></a></p>
+</figure>
+</div>
+<figcaption>Figure 9</figcaption>
+</figure>
+</div>
 </section>
 </section>
 <section id="completing-the-fip-questionnaire" class="level2">
@@ -386,7 +469,16 @@ div.csl-indent {
 <p>    VI. Declarations for Reusability</p>
 <p>    VII. Register a new resource as a nanopublication</p>
 <p>On the left, the FIP Wizard displays a questionnaire navigation tool, indicating the chapters and the number of questions that still need to be answered for each chapter (10).</p>
-<p><img src="./_static/img/10.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/10.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10" title="Figure 10"><img src="./_static/img/10.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Figure 10"></a></p>
+</figure>
+</div>
+<figcaption>Figure 10</figcaption>
+</figure>
+</div>
 <p>If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.</p>
 <p>In the questionnaire, questions that have been answered will be highlighted in green, and those that still need to be answered will be highlighted in red. The FIP Wizard will use the resulting FIP as the definitive answer for <a href="https://www.gofair.foundation/r1-3" data-bs-toggle="tooltip" data-bs-title="(meta)data meet domain-relevant community standards">R1.3</a> (domain-relevant community standards).</p>
 <p><strong>Chapter I. About</strong>, gives some background information but has no associated questions.</p>
@@ -405,7 +497,16 @@ div.csl-indent {
 <li>for required changes of FSRs related to curation needs;</li>
 <li>for small metadata changes in the FIP. Please do not forget to change the version when you publish the FIP.</li>
 </ul>
-<p><img src="./_static/img/11.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/11.png" class="lightbox" data-gallery="quarto-lightbox-gallery-11" title="Figure 11"><img src="./_static/img/11.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Figure 11"></a></p>
+</figure>
+</div>
+<figcaption>Figure 11</figcaption>
+</figure>
+</div>
 <p>The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon <span class="citation" data-cites="Jacobsen2020">Jacobsen et al. (<a href="#ref-Jacobsen2020" role="doc-biblioref">2020</a>)</span> and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: <a href="https://www.gofair.foundation/interpretation" class="uri">https://www.gofair.foundation/interpretation</a>. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for <a href="https://www.gofair.foundation/f2" data-bs-toggle="tooltip" data-bs-title="data are described with rich metadata">F2</a> and <a href="https://www.gofair.foundation/r1-2" data-bs-toggle="tooltip" data-bs-title="(meta)data are associated with detailed provenance">R1.2</a>). In addition to FER types, you can also address Supporting Declarations about FAIR Supporting Resources that are not essential but still helpful in the process of aligning with the FAIR principles. Examples of these are Editors, Crosswalks, and Persistency Policies.</p>
 <p>There is a common pattern for each of the questions referring to each FAIR Principles. The questions begin by asking you to make an explicit declaration, about the usage of FAIR Enabling Resources regarding that Principle within your community.</p>
 <p>If your community uses a resource that is not FAIR, you have two options:</p>
@@ -413,15 +514,51 @@ div.csl-indent {
 <li><p>In case your community is not in control of the resource, choose option <strong>a. No Implementations choice</strong> and add the resource as free text in the <strong>Considerations</strong> box (12).</p></li>
 <li><p>In case your community is in control of the resource and plans to FAIRify it, choose <strong>Declaration: FAIR Enabling Resource(s)</strong>, and define that you are going to use it in future (see below).</p></li>
 </ul>
-<p><img src="./_static/img/12.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/12.png" class="lightbox" data-gallery="quarto-lightbox-gallery-12" title="Figure 12"><img src="./_static/img/12.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Figure 12"></a></p>
+</figure>
+</div>
+<figcaption>Figure 12</figcaption>
+</figure>
+</div>
 <p>If your community uses a resource that has some level of FAIRness, then click option <strong>b.</strong> and add (declare) the FAIR Enabling Resource (or a list of resources) by clicking the <strong>+Add</strong> button (13).</p>
-<p><img src="./_static/img/13.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/13.png" class="lightbox" data-gallery="quarto-lightbox-gallery-13" title="Figure 13"><img src="./_static/img/13.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Figure 13"></a></p>
+</figure>
+</div>
+<figcaption>Figure 13</figcaption>
+</figure>
+</div>
 <ul>
 <li>The questionnaire asks you to select (from the drop-down list) a FER for that particular FAIR Principle (14).</li>
 </ul>
-<p><img src="./_static/img/14new.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/14new.png" class="lightbox" data-gallery="quarto-lightbox-gallery-14" title="Figure 14"><img src="./_static/img/14new.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Figure 14"></a></p>
+</figure>
+</div>
+<figcaption>Figure 14</figcaption>
+</figure>
+</div>
 <p>Note: those items in the list that are marked with the GFF curation logo are approved by the GO FAIR team</p>
-<p><img src="./_static/img/GFFcurated.svg" width="20%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/GFFcurated.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-15" title="GFF Curation Badge"><img src="./_static/img/GFFcurated.svg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:20.0%" alt="GFF Curation Badge"></a></p>
+</figure>
+</div>
+<figcaption>GFF Curation Badge</figcaption>
+</figure>
+</div>
 <p>Others without badges have not yet been checked by the curation team.</p>
 <ul>
 <li><p>Your selection has a follow-up question regarding the usage status of that FER in your community. Is the FER:</p>
@@ -446,12 +583,18 @@ div.csl-indent {
 <section id="creating-nanopublications" class="level2">
 <h2 class="anchored" data-anchor-id="creating-nanopublications">Creating nanopublications</h2>
 <section id="what-is-a-nanopublication" class="level3">
-<h3 class="anchored" data-anchor-id="what-is-a-nanopublication"><strong>What is a nanopublication?</strong></h3>
+<h3 class="anchored" data-anchor-id="what-is-a-nanopublication">What is a nanopublication?</h3>
 <p>A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see <span class="citation" data-cites="Kuhn2021">Kuhn et al. (<a href="#ref-Kuhn2021" role="doc-biblioref">2021</a>)</span> and <a href="https://nanopub.net/" class="uri">https://nanopub.net/</a>).</p>
-<p><a href="../../docs/img/nanopubstructure.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="../../docs/img/nanopubstructure.jpg" class="img-fluid" style="width:30.0%"></a></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="../../docs/img/nanopubstructure.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img src="../../docs/img/nanopubstructure.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:30.0%"></a></p>
+</figure>
+</div>
 <p>Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.</p>
 <p>Multiple nanopublications can be “contained” or bundled using a special kind of nanopublication called “index nanopublications”.</p>
-<p><strong>Why nanopublication?</strong></p>
+</section>
+<section id="why-nanopublication" class="level3">
+<h3 class="anchored" data-anchor-id="why-nanopublication">Why nanopublication?</h3>
 <ul>
 <li><p>These computational properties of nanopublications can be powerfully leveraged to make machine-readable FIPs.</p></li>
 <li><p>This happens in two ways:</p>
@@ -460,7 +603,9 @@ div.csl-indent {
 <li><p>The output of the FIP (see <a href="#sec-fip-publishing">Publishing your FIP</a>) is an index nanopublication that provides a list of declared FERs for every FIC.</p></li>
 </ul></li>
 </ul>
-<p><strong>How to create FER nanopublications in the FIP Wizard</strong></p>
+</section>
+<section id="how-to-create-fer-nanopublications-in-the-fip-wizard" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-create-fer-nanopublications-in-the-fip-wizard">How to create FER nanopublications in the FIP Wizard</h3>
 <ol type="1">
 <li><p>Go to <em>VII. Register a new resource as a nanopublication</em></p></li>
 <li><p>Click on one of the three “template” links</p>
@@ -474,14 +619,41 @@ div.csl-indent {
 </ul></li>
 </ol>
 <p>For FERs you need to identify the appropriate FER type. There are three main types of FER: a specification, a service or a data policy. A FER of type specification can be of more than one subtype, but a FER cannot be a service and a specifcation at the same time. However, a service may implement a specification.</p>
-<p><img src="./_static/img/FERdef.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/FERdef.png" class="lightbox" data-gallery="quarto-lightbox-gallery-17" title="FER Definitions"><img src="./_static/img/FERdef.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="FER Definitions"></a></p>
+</figure>
+</div>
+<figcaption>FER Definitions</figcaption>
+</figure>
+</div>
 <p>In addition to FERs, there is the larger typology of FAIR Supporting Resources, that complement essential FERs.</p>
-<p><a href="../../docs/img/typology.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="../../docs/img/typology.jpg" class="img-fluid"></a></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="../../docs/img/typology.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-18" title="Typology"><img src="../../docs/img/typology.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Typology"></a></p>
+</figure>
+</div>
+<figcaption>Typology</figcaption>
+</figure>
+</div>
 <p>A FER might be available or ‘to be developed’. For the name of the resource you are creating you should avoid ‘,’ use a pipe (|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like <em>Envthes | Environmental Thesaurus</em></p>
 <ol start="5" type="1">
 <li>After completing all required fields, go to <strong>Documents</strong> (15) and make a <strong>new document</strong>.</li>
 </ol>
-<p><img src="./_static/img/15.png" width="50%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/15.png" class="lightbox" data-gallery="quarto-lightbox-gallery-19" title="Figure 15"><img src="./_static/img/15.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:50.0%" alt="Figure 15"></a></p>
+</figure>
+</div>
+<figcaption>Figure 15</figcaption>
+</figure>
+</div>
 <ol start="6" type="1">
 <li><p>For Template choose <strong>Nanopublication Template</strong> and for Format choose <strong>RDF Trig</strong>.</p></li>
 <li><p>Push <strong>Create</strong>.</p>
@@ -492,11 +664,24 @@ div.csl-indent {
 <ol start="9" type="1">
 <li>Click on <strong>view submission</strong>.</li>
 </ol>
-<p><img src="./_static/img/16.png" width="20%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/16.png" class="lightbox" data-gallery="quarto-lightbox-gallery-20" title="Figure 16"><img src="./_static/img/16.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:40.0%" alt="Figure 16"></a></p>
+</figure>
+</div>
+<figcaption>Figure 16</figcaption>
+</figure>
+</div>
 <p>You will see the submission as a FER nanopub (17), the persistent identiﬁer (nanopub URI) is highlighted in orange.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../../docs/media/171.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Figure 17"><img src="../../docs/media/171.png" class="img-fluid figure-img" alt="Figure 17"></a></p>
+<div class="quarto-figure quarto-figure-default">
+<figure class="figure">
+<p><a href="../../docs/media/171.png" class="lightbox" data-gallery="quarto-lightbox-gallery-21" title="Figure 17"><img src="../../docs/media/171.png" class="img-fluid quarto-figure quarto-figure-default figure-img" style="width:100.0%" alt="Figure 17"></a></p>
+</figure>
+</div>
 <figcaption>Figure 17</figcaption>
 </figure>
 </div>
@@ -514,7 +699,16 @@ div.csl-indent {
 <li><p>All questions completed.</p></li>
 </ul>
 <p>To publish your FIP, use the Actions button which reminds you to increase the version number for a new nanopublication:</p>
-<p><a href="../../docs/img/actions.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="../../docs/img/actions.jpg" class="img-fluid"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-default">
+<figure class="figure">
+<p><a href="../../docs/img/actions.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-22" title="Actions"><img src="../../docs/img/actions.jpg" class="img-fluid quarto-figure quarto-figure-default figure-img" style="width:100.0%" alt="Actions"></a></p>
+</figure>
+</div>
+<figcaption>Actions</figcaption>
+</figure>
+</div>
 <p>Alternatively, you can:</p>
 <ol type="1">
 <li><p>Click <strong>Documents</strong> (top menu bar).</p></li>
@@ -526,18 +720,72 @@ div.csl-indent {
 <li><p>Click on <strong>view submission</strong>.</p></li>
 </ol>
 <p>You will see the created FIP index nanopub (18)</p>
-<p><a href="../../docs/img/img18.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="../../docs/img/img18.jpg" class="img-fluid"></a></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="../../docs/img/img18.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-23" title="Figure 18"><img src="../../docs/img/img18.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="Figure 18"></a></p>
+</figure>
+</div>
+<figcaption>Figure 18</figcaption>
+</figure>
+</div>
 <p>If you want to get a human-readable output (19) you could choose as document template:</p>
 <p>     I. <strong>Questionnaire Report</strong> which gives you the options to create PDFs or Word documents</p>
 <p>     II. <strong>FIP Spreadsheet</strong> to get CSV or Excel files (20)</p>
-<p><img src="./_static/img/19.png" width="40%"></p>
-<p><img src="./_static/img/20.png" width="70%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/19.png" class="lightbox" data-gallery="quarto-lightbox-gallery-24" title="Figure 19"><img src="./_static/img/19.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:40.0%" alt="Figure 19"></a></p>
+</figure>
+</div>
+<figcaption>Figure 19</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-default">
+<figure class="figure">
+<p><a href="./_static/img/20.png" class="lightbox" data-gallery="quarto-lightbox-gallery-25" title="Figure 20"><img src="./_static/img/20.png" class="img-fluid quarto-figure quarto-figure-default figure-img" style="width:70.0%" alt="Figure 20"></a></p>
+</figure>
+</div>
+<figcaption>Figure 20</figcaption>
+</figure>
+</div>
 <p>If an error appears (21), you should be aware that all questions must have explicit answers: Some questions may have <strong>null</strong> answers, i.e., declarations that no choice was made.</p>
-<p><img src="./_static/img/21.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-default">
+<figure class="figure">
+<p><a href="./_static/img/21.png" class="lightbox" data-gallery="quarto-lightbox-gallery-26" title="Figure 21"><img src="./_static/img/21.png" class="img-fluid quarto-figure quarto-figure-default figure-img" style="width:100.0%" alt="Figure 21"></a></p>
+</figure>
+</div>
+<figcaption>Figure 21</figcaption>
+</figure>
+</div>
 <p>By choosing <strong>HTML Preview</strong> of the <strong>Nanopublication Template</strong> (in <strong>Settings</strong> - 22)</p>
-<p><img src="./_static/img/22.png" width="45%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/22.png" class="lightbox" data-gallery="quarto-lightbox-gallery-27" title="Figure 22"><img src="./_static/img/22.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:45.0%" alt="Figure 22"></a></p>
+</figure>
+</div>
+<figcaption>Figure 22</figcaption>
+</figure>
+</div>
 <p>you can see in <strong>Preview mode</strong> the question that needs revision (23).</p>
-<p><img src="./_static/img/23.png" width="50%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/23.png" class="lightbox" data-gallery="quarto-lightbox-gallery-28" title="Figure 23"><img src="./_static/img/23.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:50.0%" alt="Figure 23"></a></p>
+</figure>
+</div>
+<figcaption>Figure 23</figcaption>
+</figure>
+</div>
 <p>Error messages can flag possible issues such as:</p>
 <ul>
 <li><p>Missing FAIR Implementation Community</p></li>
@@ -549,7 +797,16 @@ div.csl-indent {
 <li><p>For some question(s), the considerations field was left empty</p></li>
 </ul>
 <p>All the nanopublications representing your FIP - i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a <a href="https://virtuoso.nps.petapico.org/sparql">SPARQL endpoint</a>. To get a matrix of all created FIPs, called FIP Matrix (24) download the <a href="https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv">new_matrix.csv</a>. The <a href="https://fip-matrix.streamlit.app/"><strong>FIP Matrix tool</strong></a> automatically supports such comparisons across communities and specific FAIR principles.</p>
-<p><img src="./_static/img/24.png" width="55%"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-default">
+<figure class="figure">
+<p><a href="./_static/img/24.png" class="lightbox" data-gallery="quarto-lightbox-gallery-29" title="Figure 24"><img src="./_static/img/24.png" class="img-fluid quarto-figure quarto-figure-default figure-img" style="width:55.0%" alt="Figure 24"></a></p>
+</figure>
+</div>
+<figcaption>Figure 24</figcaption>
+</figure>
+</div>
 </section>
 <section id="revising-your-fip" class="level2">
 <h2 class="anchored" data-anchor-id="revising-your-fip">Revising your FIP</h2>
@@ -560,9 +817,27 @@ div.csl-indent {
 <li><p>see details on each activity when clicking on it</p></li>
 <li><p>by clicking on the three dots you see a menu with an option to revert to this version</p></li>
 </ul>
-<p><img src="./_static/img/25.png" width="40%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="./_static/img/25.png" class="lightbox" data-gallery="quarto-lightbox-gallery-30" title="Figure 25"><img src="./_static/img/25.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:40.0%" alt="Figure 25"></a></p>
+</figure>
+</div>
+<figcaption>Figure 25</figcaption>
+</figure>
+</div>
 <p>If you want to answer a specific question later, click on the <strong>plus button</strong> to get a <strong>TODO reminder</strong> (26).</p>
-<p><img src="./_static/img/26.png" width="100%"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-default">
+<figure class="figure">
+<p><a href="./_static/img/26.png" class="lightbox" data-gallery="quarto-lightbox-gallery-31" title="Figure 26"><img src="./_static/img/26.png" class="img-fluid quarto-figure quarto-figure-default figure-img" style="width:100.0%" alt="Figure 26"></a></p>
+</figure>
+</div>
+<figcaption>Figure 26</figcaption>
+</figure>
+</div>
 <p>Clicking the TODO button you will see all the TODOs as list.</p>
 <p>For each question, you can add a comment and replies to that comment which should assist interactions within your team. You can also assign someoney to this comment who has at least editing rights in the project.</p>
 <p>After having submitted a document as a nanopublication you might still want to correct your declarations in the FIP and publish a new version. The new nanopublication is recognized as an update of the older submission. This is true also for FER nanopublications which makes it possible to show only the latest version of a specific FER in the drop-down menus for the answers.</p>

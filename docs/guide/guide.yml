@@ -10,4 +10,9 @@
     - text: Introduction
       href: ../np/index.qmd
 
+- title: Completing a Project in the FIP Wizard
+  links:
+    - text: Completing a project
+      href: ../completion/index.qmd
+
 

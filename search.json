@@ -109,7 +109,14 @@
     "href": "docs/completion/index.html#document-publication",
     "title": "GO FAIR Wiki",
     "section": "Document Publication",
-    "text": "Document Publication\nOnce completed, you need to publish your document. If you want to generate a nanopublication, follow these steps:\n\nGo to Documents.\nClick on New Document.\nSelect the Nanopublication Template.\nClick Create.\nClick the three dots icon on the right, then select Submit to the Nanopub Server.\n\nIf you encounter any errors in this process, look at this guide."
+    "text": "Document Publication\nOnce completed, you need to publish your document. If you want to generate a nanopublication, follow these steps:\n\nGo to Documents.\nClick on New Document.\nSelect the Nanopublication Template.\nClick Create.\nClick the three dots icon on the right, then select Submit to the Nanopub Server."
+  },
+  {
+    "objectID": "docs/completion/index.html#actions-to-avoid",
+    "href": "docs/completion/index.html#actions-to-avoid",
+    "title": "GO FAIR Wiki",
+    "section": "Actions to Avoid",
+    "text": "Actions to Avoid\n\nDo not resubmit a published nanopublication. If updates are required, first modify your answers and then publish a new document. The new publication will automatically supersede the previous one.\nDo not delete a submitted nanopublication. Deleting a submitted document breaks the provenance chain, which must be preserved.\n\nIf you encounter any errors in this process, look at this guide."
   },
   {
     "objectID": "docs/fip/index.html",

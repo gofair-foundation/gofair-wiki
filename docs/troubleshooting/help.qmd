@@ -6,8 +6,19 @@ Please avoid these issues:
 
 - Missing answer
 
+- No answer boxes contain accidental spaces. If a space was entered by mistake and you see a “Clear answer” option appear underneath, click it to remove the space.
+
 - Wrong answer (providing text instead of a nanopublication)
 
 - For some question(s), you did not select a resource
 
+## Preview
+
+By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - 22)
+
+![Figure 22](/docs/fip/_static/img/22.png){fig-align="left" width="45%"}
+
+you can see in **Preview mode** the question that needs revision (23).
+
+![Figure 23](/docs/fip/_static/img/23.png){fig-align="left" width="50%"}
 

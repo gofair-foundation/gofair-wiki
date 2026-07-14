@@ -2,7 +2,7 @@
 
 To complete the template, please ensure that:
 
-- All questions highlighted in **red** have been answered.
+- All questions highlighted in $\mathbf{{\color{red}red}}$ have been answered.
 
 - There are no empty answer fields.
 

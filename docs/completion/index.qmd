@@ -1,0 +1,20 @@
+## Project completion
+
+To complete the template, please ensure that:
+- All questions highlighted in **red** have been answered.
+- There are no empty answer fields.
+- No answer boxes contain accidental spaces. If a space was entered by mistake and you see a "Clear answer" option appear underneath, click it to remove the space.
+
+## Document Publication
+
+Once completed, you need to publish your document. If you want to generate a nanopublication, follow these steps:
+- Go to Documents.
+- Click on **New Document**.
+- Select the **Nanopublication Template**.
+- Click **Create**.
+- Click the three dots icon on the right, then select **Submit to the Nanopub Server**.
+
+If you encounter any errors in this process, look at this guide. 
+
+
+

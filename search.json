@@ -123,14 +123,21 @@
     "href": "docs/troubleshooting/help.html",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Please avoid these issues:\n\nMissing or wrong style of ORCID\nMissing answer\nWrong answer (providing text instead of a nanopublication)\nFor some question(s), you did not select a resource"
+    "text": "Please avoid these issues:\n\nMissing or wrong style of ORCID\nMissing answer\nNo answer boxes contain accidental spaces. If a space was entered by mistake and you see a “Clear answer” option appear underneath, click it to remove the space.\nWrong answer (providing text instead of a nanopublication)\nFor some question(s), you did not select a resource"
   },
   {
     "objectID": "docs/troubleshooting/help.html#troubleshooting",
     "href": "docs/troubleshooting/help.html#troubleshooting",
     "title": "GO FAIR Wiki",
     "section": "",
-    "text": "Please avoid these issues:\n\nMissing or wrong style of ORCID\nMissing answer\nWrong answer (providing text instead of a nanopublication)\nFor some question(s), you did not select a resource"
+    "text": "Please avoid these issues:\n\nMissing or wrong style of ORCID\nMissing answer\nNo answer boxes contain accidental spaces. If a space was entered by mistake and you see a “Clear answer” option appear underneath, click it to remove the space.\nWrong answer (providing text instead of a nanopublication)\nFor some question(s), you did not select a resource"
+  },
+  {
+    "objectID": "docs/troubleshooting/help.html#preview",
+    "href": "docs/troubleshooting/help.html#preview",
+    "title": "GO FAIR Wiki",
+    "section": "Preview",
+    "text": "Preview\nBy choosing HTML Preview of the Nanopublication Template (in Settings - 22)\n\n\n\nFigure 22\n\n\nyou can see in Preview mode the question that needs revision (23).\n\n\n\nFigure 23"
   },
   {
     "objectID": "docs/fip/content.html",

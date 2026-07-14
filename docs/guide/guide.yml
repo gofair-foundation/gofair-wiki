@@ -15,4 +15,8 @@
     - text: Completing a project
       href: ../completion/index.qmd
 
+- title: Troubleshooting
+  links:
+    - text: Troubleshooting
+      href: ../troubleshooting/help.qmd
 

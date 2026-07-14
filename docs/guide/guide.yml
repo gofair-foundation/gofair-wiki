@@ -12,7 +12,7 @@
 
 - title: FAIR Supporting Resource Types
   links:
-    - text: FAIR Supporting Resource Type Guidance
+    - text: Choosing the correct FRS types
       href: ../type/guide.qmd 
 
 - title: Completing a Project in the FIP Wizard

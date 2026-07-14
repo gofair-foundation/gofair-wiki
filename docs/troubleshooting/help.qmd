@@ -10,8 +10,6 @@ you can see in **Preview mode** the question that needs revision (23).
 
 Error messages can flag possible issues such as:
 
-- Missing FAIR Implementation Community
-
 - Missing or wrong style of ORCID
 
 - Missing answer

@@ -1,14 +1,6 @@
 ## Troubleshooting
 
-By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - 22)
-
-![Figure 22](./docs/fip/_static/img/22.png){fig-align="left" width="45%"}
-
-you can see in **Preview mode** the question that needs revision (23).
-
-![Figure 23](./docs/fip/_static/img/23.png){fig-align="left" width="50%"}
-
-Error messages can flag possible issues such as:
+Please avoid these issues:
 
 - Missing or wrong style of ORCID
 

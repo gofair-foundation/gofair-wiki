@@ -10,6 +10,11 @@
     - text: Introduction
       href: ../np/index.qmd
 
+- title: FAIR Supporting Resource Types
+  links:
+    - text: FAIR Supporting Resource Type Guidance
+      href: ../np/guide.qmd 
+
 - title: Completing a Project in the FIP Wizard
   links:
     - text: Completing a project
@@ -19,4 +24,5 @@
   links:
     - text: Troubleshooting
       href: ../troubleshooting/help.qmd
+
 

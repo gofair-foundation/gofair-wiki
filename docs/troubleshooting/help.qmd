@@ -1,0 +1,23 @@
+## Troubleshooting
+
+By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - 22)
+
+![Figure 22](./_static/img/22.png){fig-align="left" width="45%"}
+
+you can see in **Preview mode** the question that needs revision (23).
+
+![Figure 23](./_static/img/23.png){fig-align="left" width="50%"}
+
+Error messages can flag possible issues such as:
+
+- Missing FAIR Implementation Community
+
+- Missing or wrong style of ORCID
+
+- Missing answer
+
+- Wrong answer (providing text instead of a nanopublication)
+
+- For some question(s), you did not select a resource
+
+

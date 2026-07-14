@@ -22,6 +22,12 @@ Once completed, you need to publish your document. If you want to generate a nan
 
 - Click the three dots icon on the right, then select **Submit to the Nanopub Server**.
 
+## Actions to Avoid
+
+- **Do not resubmit** a published nanopublication. If updates are required, first modify your answers and then publish a new document. The new publication will automatically supersede the previous one.
+
+- **Do not delete** a submitted nanopublication. Deleting a submitted document breaks the provenance chain, which must be preserved.
+
 If you encounter any errors in this process, look at this guide. 
 
 

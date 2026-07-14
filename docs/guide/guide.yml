@@ -13,7 +13,7 @@
 - title: FAIR Supporting Resource Types
   links:
     - text: FAIR Supporting Resource Type Guidance
-      href: ../np/guide.qmd 
+      href: ../type/guide.qmd 
 
 - title: Completing a Project in the FIP Wizard
   links:

@@ -3,6 +3,6 @@
 See here an overview of resource types.
 ![Typology](/docs/img/typology.jpg){fig-align="left" width=100%}
 
-## Chooseing the right FSR Types
+## Choosing the right FSR Types
 
 For deciding which resource types to choose, you should be familiar with all type definitions. You can find them in the [FIP ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html).

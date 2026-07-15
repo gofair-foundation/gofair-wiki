@@ -1,4 +1,4 @@
-## Troubleshooting
+## Hints when something goes wrong
 
 Please avoid these issues:
 

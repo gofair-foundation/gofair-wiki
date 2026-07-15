@@ -1,5 +1,5 @@
 ---
-title: FIP Wizard User Guide
+title: User Guide
 format: html
 aliases: 
   - /docs/fip/
@@ -9,7 +9,9 @@ lightbox: true
 
 ## Overview on how to create a FAIR Implementation Profile
 
-The FIP Wizard 4.0 is by now a stable and robust tool. However, as the FIP Wizard generates and relies on information that is open to the community at large, it requires some expert guidance in its use in order to ensure the quality of the output. This means that anyone who wishes to create a FIP should ﬁrst participate in a FIP Introduction workshop conducted by a **GFF-qualiﬁed** [3PFF facilitator](https://osf.io/bthf8). A major responsibility of the 3PFF facilitator is to curate newly created FERs to ensure the list of resources is uncluttered by duplicates or erroneous and useless nanopublications. If you are interested in GFF qualiﬁcation as a 3PFF facilitator, please email [fipadmin\@gofair.foundation](mailto:fipadmin@gofair.foundation).
+A FAIR Implementation Profile (FIP) is a list of declared technology choices that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. See more [here](https://wiki.gofair.foundation/docs/fip/).
+
+The FIP Wizard 4.0 is the editor we use to create a FAIR Implementation Profile. It is by now a stable and robust tool. However, as the FIP Wizard generates and relies on information that is open to the community at large, it requires some expert guidance in its use in order to ensure the quality of the output. This means that anyone who wishes to create a FIP should ﬁrst participate in a FIP Introduction workshop conducted by a **GFF-qualiﬁed** [3PFF facilitator](https://osf.io/bthf8). A major responsibility of the 3PFF facilitator is to curate newly created FERs to ensure the list of resources is uncluttered by duplicates or erroneous and useless nanopublications. If you are interested in GFF qualiﬁcation as a 3PFF facilitator, please email [fipadmin\@gofair.foundation](mailto:fipadmin@gofair.foundation).
 
 Making a FIP will typically involve three activities summarized below. The numbered chapters of this user guide will provide all the details you need to operate the FIP Wizard responsibly and with conﬁdence.
 

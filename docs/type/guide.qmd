@@ -1,6 +1,6 @@
 ## FSR Typology
 
-![Typology](/docs/img/typology.jpg){fig-align="left" width=100%}
+![Typology](/docs/img/FSR typology.svg){fig-align="left" width=100%}
 
 ## Choosing the right FSR Types
 

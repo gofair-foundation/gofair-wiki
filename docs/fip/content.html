@@ -291,11 +291,7 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a>
-  <ul class="collapse">
-  <li><a href="#why-fips-anyways" id="toc-why-fips-anyways" class="nav-link" data-scroll-target="#why-fips-anyways">Why FIPs anyways?</a></li>
-  </ul></li>
-  <li><a href="#overview-on-how-to-create-a-fair-implementation-profile" id="toc-overview-on-how-to-create-a-fair-implementation-profile" class="nav-link" data-scroll-target="#overview-on-how-to-create-a-fair-implementation-profile">Overview on how to create a FAIR Implementation Profile</a></li>
+  <li><a href="#overview-on-how-to-create-a-fair-implementation-profile" id="toc-overview-on-how-to-create-a-fair-implementation-profile" class="nav-link active" data-scroll-target="#overview-on-how-to-create-a-fair-implementation-profile">Overview on how to create a FAIR Implementation Profile</a></li>
   <li><a href="#getting-started-with-the-fip-5.0" id="toc-getting-started-with-the-fip-5.0" class="nav-link" data-scroll-target="#getting-started-with-the-fip-5.0">Getting started with the FIP 5.0</a>
   <ul class="collapse">
   <li><a href="#clone-and-adapt-the-fip-project" id="toc-clone-and-adapt-the-fip-project" class="nav-link" data-scroll-target="#clone-and-adapt-the-fip-project">Clone and adapt the FIP project</a></li>
@@ -335,25 +331,6 @@ div.csl-indent {
 </header>
 
 
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources (FERs), that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice. These guidelines provide a practical, “how to” overview for researchers and data stewards who wish to create a FIP using the FIP Wizard 4.0. For general background on the FIP, see <span class="citation" data-cites="Schultes2020">Schultes et al. (<a href="#ref-Schultes2020" role="doc-biblioref">2020</a>)</span>.</p>
-<p>The FIP Wizard 4.0 tool is based on the same technology as the familiar <a href="https://ds-wizard.org/dsw-story">Data Stewardship Wizard</a>. Essentially, we have replaced the Knowledge Model that guides the creation of a data stewardship plan, with a Knowledge Model based on the FIP Questionnaire that guides the user in the creation of a FIP. We have also added the capability for the FIP Wizard 4.0 to use (consume and produce) <a href="https://nanopub.net">nanopublications</a>, allowing the various elements of the FIP to be captured in this highly modular, referenceable, machine-interpretable format. Making use of nanopublications and the <a href="https://w3id.org/fair/fip">FIP Ontology</a>, the FIP Wizard 4.0 captures FIPs that are themselves, to a very high degree, FAIR.&nbsp;</p>
-<p>Hence, this user guide is designed to complement the FIP-specific features of the Wizard environment. Details on more generic features of the Wizard (e.g., how to create, save, version projects) can be found in the <a href="https://guide.ds-wizard.org">DSW User Guide</a>.&nbsp;</p>
-<section id="why-fips-anyways" class="level3">
-<h3 class="anchored" data-anchor-id="why-fips-anyways">Why FIPs anyways?</h3>
-<ul>
-<li><p>A FIP can be compiled to declare both the current and the future use of FERs in a community.</p></li>
-<li><p>A FIP can be compiled to declare specifically the current status of implementations within a community (called the AS-IS FIPs).</p></li>
-<li><p>A FIP can be compiled to decide on the future use of FERs in a community (called the TO-BE FIPs). These FIPs can be used to document technology trends in FAIR.&nbsp;</p></li>
-<li><p>A FAIR Implementation Community (FIC) might want to create a <strong>Reference FIP (R-FIP)</strong> to list all FERs that it recommends to use.</p></li>
-<li><p>Resources supporting interoperability that were previously compiled in a Semantic Interoperability Profile (SIP) are incorporated into a standard FIP (version 5 and later) as supporting declarations, allowing streamlined and consistent management.</p></li>
-<li><p>It is likely that any given FIP will need periodic revision. In this case, each new version documents improvements in FAIR over time.&nbsp;</p></li>
-<li><p>To explore alignment and optimization opportunities, compare a FIP with FIPs from other communities. The <a href="https://fip-matrix.streamlit.app/">FIP Matrix tool</a> supports such comparisons across communities and specific FAIR principles. &nbsp;</p></li>
-</ul>
-<p>The FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: <a href="mailto:fipadmin@gofair.foundation">fipadmin@gofair.foundation</a>.</p>
-</section>
-</section>
 <section id="overview-on-how-to-create-a-fair-implementation-profile" class="level2">
 <h2 class="anchored" data-anchor-id="overview-on-how-to-create-a-fair-implementation-profile">Overview on how to create a FAIR Implementation Profile</h2>
 <p>The FIP Wizard 4.0 is by now a stable and robust tool. However, as the FIP Wizard generates and relies on information that is open to the community at large, it requires some expert guidance in its use in order to ensure the quality of the output. This means that anyone who wishes to create a FIP should ﬁrst participate in a FIP Introduction workshop conducted by a <strong>GFF-qualiﬁed</strong> <a href="https://osf.io/bthf8">3PFF facilitator</a>. A major responsibility of the 3PFF facilitator is to curate newly created FERs to ensure the list of resources is uncluttered by duplicates or erroneous and useless nanopublications. If you are interested in GFF qualiﬁcation as a 3PFF facilitator, please email <a href="mailto:fipadmin@gofair.foundation">fipadmin@gofair.foundation</a>.</p>
@@ -904,9 +881,6 @@ Jacobsen, Annika, Ricardo de Miranda Azevedo, Nick Juty, et al. 2020. <span>“F
 </div>
 <div id="ref-Kuhn2021" class="csl-entry" role="listitem">
 Kuhn, Tobias, Ruben Taelman, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, and Michel Dumontier. 2021. <span>“Semantic Micro-Contributions with Decentralized Nanopublication Services.”</span> <em>PeerJ Computer Science</em> 7 (March): e387. <a href="https://doi.org/10.7717/peerj-cs.387">https://doi.org/10.7717/peerj-cs.387</a>.
-</div>
-<div id="ref-Schultes2020" class="csl-entry" role="listitem">
-Schultes, Erik, Barbara Magagna, Kristina Maria Hettne, Robert Pergl, Marek Suchánek, and Tobias Kuhn. 2020. <span>“<span class="nocase">Reusable FAIR Implementation Profiles as Accelerators of FAIR Convergence</span>.”</span> <em><span class="nocase">Advances in Conceptual Modeling</span></em>, 138–47. <a href="https://doi.org/10.1007/978-3-030-65847-2_13">https://doi.org/10.1007/978-3-030-65847-2_13</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -1,6 +1,5 @@
 ## FAIR Supporting Resource (FSR) Typology
 
-See here an overview of resource types.
 ![Typology](/docs/img/typology.jpg){fig-align="left" width=100%}
 
 ## Choosing the right FSR Types

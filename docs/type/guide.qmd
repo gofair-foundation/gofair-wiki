@@ -1,4 +1,4 @@
-## FAIR Supporting Resource (FSR) Typology
+## FSR Typology
 
 ![Typology](/docs/img/typology.jpg){fig-align="left" width=100%}
 

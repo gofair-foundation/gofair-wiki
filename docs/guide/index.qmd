@@ -1,6 +1,6 @@
 ---
 title: "Guide"
-subtitle: Comprehensive guide to FAIR data.
+subtitle: Comprehensive guide to FAIR implementation.
 page-layout: article
 anchor-sections: false
 search: false

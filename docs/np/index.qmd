@@ -1,4 +1,4 @@
-## Introduction
+## Definition
 
 Nanopublications are used as knowledge representation language for the FAIR Implementation Profiles and for the FAIR Supporting Resource descriptions because they are machine-readable.
 

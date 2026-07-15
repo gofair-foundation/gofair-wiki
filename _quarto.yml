@@ -33,15 +33,15 @@ website:
       - text: Home
         href: index.qmd
       - text: FIP
-        href: /fip
-      - text: Guide
+        href: docs/fip/index.qmd
+      - text: FIP Guide
         href: docs/guide/index.qmd
-      - text: News
-        href: docs/news/index.qmd
       - text: M4M
         href: docs/M4M/m4m.qmd
       - text: FAIR Connect
         href: docs/fair-connect/fair-connect.qmd
+      - text: News
+        href: docs/news/index.qmd
       - text: Contributing
         href: contributing.qmd
       - text: About
@@ -61,12 +61,21 @@ website:
         - section: "Guide"
           href: docs/guide/index.qmd
           contents:
-          - section: "FIP Wizard User Guide"
+          - section: "FIP Wizard"
             contents:
               - docs/fip/content.qmd
+          - section: "FAIR Supporting Resource Types"
+            contents:
+              - docs/type/guide.qmd
           - section: "Nanopublications"
             contents:
               - docs/np/index.qmd
+          - section: "Completing a Project"
+            contents:
+              - docs/completion/index.qmd 
+          - section: "Troubleshooting"
+            contents:
+              - docs/troubleshooting/help.qmd            
           - section: "Authors and Contributors"
             contents:
               - docs/guide/authors.qmd

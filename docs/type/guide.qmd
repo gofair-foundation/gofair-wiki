@@ -1,3 +1,8 @@
+---
+title: FSR Typology
+lightbox: true
+---
+
 ## FSR Typology
 
 ![Typology](/docs/img/FSR Typology1.svg){fig-align="default" width=100%}

@@ -33,9 +33,9 @@ Making a FIP will typically involve three activities summarized below. The numbe
 ## Getting started
 
 - Go to <https://fip.fair-wizard.com/>: log in or sign up.
-- Click Projects (a folder icon in the menu bar on the left) (1).
+- Click Projects (a folder icon in the menu bar on the left) @fig-dashboard.
 
-![Figure 1](./_static/img/1.png){fig-align="default" width="100%"}
+![FIP Wizard Dashboard](./_static/img/1.png){#fig-dashboard fig-align="default" width="100%"}
 
 - You will see a long list of projects on the right (2). FIPs are projects in the FIP Wizard and are normally named by the community that composed them.
 
@@ -103,11 +103,11 @@ Principally there should be one contact person who acts as a data steward for th
 
 ## Completing the FIP questionnaire
 
-The FIP questionnaire has 29 questions (referred to in the FIP ontology as “declarations”), divided among 7 chapters.
+The FIP questionnaire consists of multiple questions (referred to in the FIP ontology as “declarations”), divided among 7 chapters.
 
     I. About
 
-    II. Declare your FAIR Implementation Community
+    II. Metadata for your FAIR Implementation Profile
 
     III. Declarations for Findability
 
@@ -248,7 +248,7 @@ For FERs you need to identify the appropriate FER type. There are three main typ
 
 In addition to FERs, there is the larger typology of FAIR Supporting Resources, that complement essential FERs.
 
-![Typology](./_static/img/FSR%20Typology.png){fig-align="left" width=100%}
+![Typology](/docs/img/FSR Typology1.svg){fig-align="default" width=100%}
 
 A FER might be available or 'to be developed'. For the name of the resource you are creating you should avoid ‘,’ use a pipe (\|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like *Envthes \| Environmental Thesaurus*
 
@@ -353,7 +353,7 @@ Error messages can flag possible issues such as:
 
 - For some question(s), the considerations field was left empty
 
-All the nanopublications representing your FIP - i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [SPARQL endpoint](https://virtuoso.nps.petapico.org/sparql). To get a matrix of all created FIPs, called FIP Matrix (23) download the [new_matrix.csv](https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv). The [**FIP Matrix tool**](https://fip-matrix.streamlit.app/) automatically supports such comparisons across communities and specific FAIR principles.
+All the nanopublications representing your FIP - i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [SPARQL endpoint](https://virtuoso.nps.petapico.org/sparql). To get a matrix of all created FIPs, called FIP Matrix (23) use the [**FIP Matrix tool**](https://fipmatrix.knowledgepixels.com/), which automatically supports comparisons across communities and specific FAIR principles.
 
 ![Figure 23](./_static/img/FAIR%20Matrix.png){fig-align="default" width="55%"}
 

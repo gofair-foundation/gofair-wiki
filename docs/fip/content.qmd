@@ -35,11 +35,11 @@ Making a FIP will typically involve three activities summarized below. The numbe
 - Go to <https://fip.fair-wizard.com/>: log in or sign up.
 - Click Projects (a folder icon in the menu bar on the left) @fig-dashboard.
 
-![FIP Wizard Dashboard](./_static/img/1.png){#fig-dashboard fig-align="default" width="100%"}
+![FIP Wizard Dashboard](./_static/img/FIP_dashboard.png){#fig-dashboard fig-align="default" width="100%"}
 
 - You will see a long list of projects on the right (@fig-projectList). FIPs are projects in the FIP Wizard and are normally named by the community that composed them.
 
-![Project List](./_static/img/2.png){#fig-projectList fig-align="default" width="100%"}
+![Project List](./_static/img/FIP_projectList.png){#fig-projectList fig-align="default" width="100%"}
 
 - You can create FIPs either from scratch or by cloning an existing FIP, and revising it.
 
@@ -57,27 +57,27 @@ You can skip the next step, if you don't want to migrate the original project. B
 
 - If the FIP has an orange annotation ‘update available’ click on the three dots on the right (@fig-update).
 
-  ![Migrate the project if necessary.](./_static/img/3.png){#fig-update fig-align="default" width="100%"}
+  ![Migrate the project if necessary.](./_static/img/FIP_update.png){#fig-update fig-align="default" width="100%"}
 
   - Select Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model.
 
 - Then click again on the three dots and select Clone (@fig-clone).
 
-  ![Clone the project.](./_static/img/4.png){#fig-clone fig-align="default" width="100%"}
+  ![Clone the project.](./_static/img/FIP_clone.png){#fig-clone fig-align="default" width="100%"}
 
 - This will bring you to the FIP questionnaire. To change the name of the FIP you need to go to Settings (@fig-newName). You can now start to work with the FIP Wizard questionnaire, and modify the previous FIP declarations (see below).
 
-  ![Change the name of the cloned project.](./_static/img/5.png){#fig-newName fig-align="default" width="100%"}
+  ![Change the name of the cloned project.](./_static/img/FIP_newName.png){#fig-newName fig-align="default" width="100%"}
 
 ### Make a new FIP
 
 - Click **Create** (blue button on the top menu bar) (@fig-create).
 
-  ![Create a new project.](./_static/img/6.png){#fig-create fig-align="default" width="100%"}
+  ![Create a new project.](./_static/img/FIP_create.png){#fig-create fig-align="default" width="100%"}
 
 - You’ll see **Create Project** - this dialog box will launch your new FIP (@fig-template).
 
-  ![Select the project template.](./_static/img/7.png){#fig-template fig-align="default" width="100%"}
+  ![Select the project template.](./_static/img/FIP-projectTemplate.png){#fig-template fig-align="default" width="100%"}
 
 - Select the tab: **From Project Template**
 
@@ -99,7 +99,7 @@ You can skip the next step, if you don't want to migrate the original project. B
 
 Principally there should be one contact person who acts as a data steward for the community and enters all answers. However, in most cases the answers will need to be agreed upon by an expert team of that community. In any case, it is possible to mention multiple people. By clicking on the **Share button** on the top right you can provide editing or viewing rights for your colleagues (@fig-share).
 
-![Sharing](./_static/img/8.png){#fig-share fig-align="default" width="100%"}
+![Sharing](./_static/img/FIP_share.png){#fig-share fig-align="default" width="100%"}
 
 ## Completing the FIP questionnaire
 
@@ -121,7 +121,7 @@ The FIP questionnaire consists of multiple questions (referred to in the FIP ont
 
 On the left, the FIP Wizard displays a questionnaire navigation tool, indicating the chapters and the number of questions that still need to be answered for each chapter (@fig-navigation).
 
-![Navigation](./_static/img/9.png){#fig-navigation fig-align="default" width="100%"}
+![Navigation](./_static/img/FIP_navigatgion.png){#fig-navigation fig-align="default" width="100%"}
 
 If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.
 
@@ -149,7 +149,7 @@ This chapter contains these questions:
 - for required changes of FSRs related to curation needs;
 - for small metadata changes in the FIP. Please do not forget to change the version when you publish the FIP.
 
-![Metadata for your FAIR Implementation Profile](./_static/img/10.png){#fig-chapterTwo fig-align="default" width="100%"}
+![Metadata for your FAIR Implementation Profile](./_static/img/FIP_chapterTwo.png){#fig-chapterTwo fig-align="default" width="100%"}
 
 The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon @Jacobsen2020 and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: <https://www.gofair.foundation/interpretation>. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for {{< var F2 >}} and {{< var R1-2 >}}). In addition to FER types, you can also address Supporting Declarations about FAIR Supporting Resources that are not essential but still helpful in the process of aligning with the FAIR principles. Examples of these are Editors, Crosswalks, and Persistency Policies.
 
@@ -159,17 +159,17 @@ If your community uses a resource that is not FAIR, you have two options:
 
 - In case your community is not in control of the resource, choose option **a. No Implementation choice** and add the resource as free text in the **Considerations** box (@fig-optionA).
 
-![Option a. No implementation choice](./_static/img/11.png){#fig-optionA fig-align="default" width="100%"}
+![Option a. No implementation choice](./_static/img/FIP_optionA.png){#fig-optionA fig-align="default" width="100%"}
 
 - In case your community is in control of the resource and plans to FAIRify it, choose **Declaration: FAIR Enabling Resource(s)**, and define that you are going to use it in future (see below).
 
 If your community uses a resource that has some level of FAIRness, then click option **b.** and add (declare) the FAIR Enabling Resource (or a list of resources by clicking the **+Add** button) (@fig-optionB).
 
-![Option b.](./_static/img/12.png){#fig-optionB fig-align="default" width="100%"}
+![Option b.](./_static/img/FIP_optionB.png){#fig-optionB fig-align="default" width="100%"}
 
 - The questionnaire asks you to select (from the drop-down list) a FER for that particular FAIR Principle (@fig-selectFER).
 
-![Select a FER](./_static/img/13.png){#fig-selectFER fig-align="default" width="100%"}
+![Select a FER](./_static/img/FIP_selectFER.png){#fig-selectFER fig-align="default" width="100%"}
 
 Note: those items in the list that are marked with the GFF curation logo are approved by the GO FAIR team
 
@@ -254,7 +254,7 @@ A FER might be available or 'to be developed'. For the name of the resource you 
 
 5.  After completing all required fields, go to **Documents** (@fig-newDocument) and make a **new document**.
 
-![Create a new document.](./_static/img/14.png){#fig-newDocument fig-align="default" width="100%"}
+![Create a new document.](./_static/img/FIP_newDocument.png){#fig-newDocument fig-align="default" width="100%"}
 
 6.  For Template choose **Nanopublication Template** and for Format choose **RDF Trig**.
 
@@ -262,7 +262,7 @@ A FER might be available or 'to be developed'. For the name of the resource you 
 
     If no error appears you can submit the nanopub by clicking on the three dots (@fig-submit):
 
-    ![Submit](./_static/img/15.png){#fig-submit fig-align="default" width="100%"}
+    ![Submit](./_static/img/FIP_submit.png){#fig-submit fig-align="default" width="100%"}
 
 
 8.  Choose **Nanopub Server** (not the local one, which is only for testing) and **submit**.
@@ -313,7 +313,7 @@ Alternatively, you can:
 
 You will see the created FIP index nanopub (@fig-indexNano)
 
-![](./_static/img/17.png){#fig-indexNano fig-align="default" width="100%"}
+![](./_static/img/index_nanopub.png){#fig-indexNano fig-align="default" width="100%"}
 
 If you want to get a human-readable output (@fig-docTemplate) you could choose as document template:
 
@@ -321,21 +321,21 @@ If you want to get a human-readable output (@fig-docTemplate) you could choose a
 
      II. **FIP Spreadsheet** to get CSV or Excel files (@fig-csv)
 
-![Select the document template.](./_static/img/18.png){#fig-docTemplate fig-align="default" width="100%"}
+![Select the document template.](./_static/img/FIP-docTemplate.png){#fig-docTemplate fig-align="default" width="100%"}
 
-![CSV file](./_static/img/19.png){#fig-csv fig-align="default" width="100%"}
+![CSV file](./_static/img/FIP_csvFile.png){#fig-csv fig-align="default" width="100%"}
 
 If an error appears (@fig-error), you should be aware that all questions must have explicit answers: Some questions may have **null** answers, i.e., declarations that no choice was made.
 
-![The latest submission has an error.](./_static/img/20.png){#fig-error fig-align="default" width="100%"}
+![The latest submission has an error.](./_static/img/FIP_subError.png){#fig-error fig-align="default" width="100%"}
 
 By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - @fig-html)
 
-![HTML document format](./_static/img/21.png){#fig-html fig-align="default" width="100%"}
+![HTML document format](./_static/img/FIP-docFormat.png){#fig-html fig-align="default" width="100%"}
 
 In **Preview mode** you can see the question that needs revision (@fig-preview).
 
-![Preview shows an error](./_static/img/22.png){#fig-preview fig-align="default" width="100%"}
+![Preview shows an error](./_static/img/FIP_Preview.png){#fig-preview fig-align="default" width="100%"}
 
 Error messages can flag possible issues such as:
 
@@ -369,11 +369,11 @@ There is no undo button for any action BUT you can use the version history butto
 
 - by clicking on the three dots you see a menu with an option to revert to this version
 
-![Version History](./_static/img/24.png){#fig-versionHistory fig-align="default" width="100%"}
+![Version History](./_static/img/versionHistory.png){#fig-versionHistory fig-align="default" width="100%"}
 
 If you want to answer a specific question later, click on the **plus button** to get a **TODO reminder** (@fig-todo).
 
-![Add a TODO](./_static/img/25.png){#fig-todo fig-align="default" width="100%"}
+![Add a TODO](./_static/img/todo.png){#fig-todo fig-align="default" width="100%"}
 
 Clicking the TODO button you will see all the TODOs as list.
 

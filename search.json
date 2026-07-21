@@ -508,35 +508,9 @@
     ]
   },
   {
-    "objectID": "docs/type/guide.html",
-    "href": "docs/type/guide.html",
-    "title": "FSR Typology",
-    "section": "",
-    "text": "Typology",
-    "crumbs": [
-      "FIP Guide",
-      "Guide",
-      "FAIR Supporting Resource Types",
-      "FSR Typology"
-    ]
-  },
-  {
-    "objectID": "docs/type/guide.html#fsr-typology",
-    "href": "docs/type/guide.html#fsr-typology",
-    "title": "FSR Typology",
-    "section": "",
-    "text": "Typology",
-    "crumbs": [
-      "FIP Guide",
-      "Guide",
-      "FAIR Supporting Resource Types",
-      "FSR Typology"
-    ]
-  },
-  {
     "objectID": "docs/type/guide.html#choosing-the-right-fsr-types",
     "href": "docs/type/guide.html#choosing-the-right-fsr-types",
-    "title": "FSR Typology",
+    "title": "GO FAIR Wiki",
     "section": "Choosing the right FSR Types",
     "text": "Choosing the right FSR Types\nFor deciding which resource types to choose, you should be familiar with all type definitions. You can find them in the FIP ontology.",
     "crumbs": [

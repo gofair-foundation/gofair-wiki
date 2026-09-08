@@ -8,10 +8,9 @@ author:
   - name: Marvin Friedl
     orcid: 0009-0007-7713-900X
 date: 09-08-2026
-image: https://static.wixstatic.com/media/f364d7_81503ae81505496082de3ba2f39cf52f~mv2.png/v1/fill/w_545,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GFF_Qualification%20badge_website2_0_1000ppi.png
 ---
 --------------------------------------------------------------------
-![](GFF_Qualification badge_website2_0_1000ppi.png)
+![](/2025-08-29-fellows-day/GFF_Qualification badge_website2_0_1000ppi.png)
 -------------------------------------------------------------------
 
 Dear Fellows and Friends!
@@ -24,4 +23,4 @@ We look forward to seeing many of you there and making this Fellows Day a memora
 
 Warm regards,
 
-Marvin (on behalf of Barbara)
+Marvin

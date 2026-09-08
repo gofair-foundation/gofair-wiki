@@ -10,7 +10,7 @@ author:
 date: 09-08-2026
 ---
 --------------------------------------------------------------------
-![](docs/news/posts/2025-08-29-fellows-day/GFF_Qualification badge_website2_0_1000ppi.png)
+![](GFF_Qualification badge_website2_0_1000ppi.png)
 -------------------------------------------------------------------
 
 Dear Fellows and Friends!

@@ -28,6 +28,24 @@ Hence, this user guide is designed to complement the FIP-specific features of th
 
 - It is likely that any given FIP will need periodic revision. In this case, each new version documents improvements in FAIR over time. 
 
-- To explore alignment and optimization opportunities, compare a FIP with FIPs from other communities. The [FIP Matrix tool](https://fip-matrix.streamlit.app/) supports such comparisons across communities and specific FAIR principles.  
+- To explore alignment and optimization opportunities, compare a FIP with FIPs from other communities. The [FIP Matrix tool](https://fipmatrix.knowledgepixels.com/) supports such comparisons across communities and specific FAIR principles. 
+
+### Where to Find FIPs and FAIR Supporting Resources?
+
+You can find these assets in the **[FAIR Implementation Space](https://w3id.org/spaces/FAIR-Implementation-Space)**, which provides access to:
+
+- FAIR Implementation Communities (FICs)
+
+- FAIR Implementation Profiles (FIPs), per domain
+
+- Reference FIPs (R-FIPs)
+
+- FAIR Supporting Resources (FSRs) per type and per name
+
+- Recommended FSRs
+
+- Curators, and
+
+- Specific searches.
 
 The FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Dario Bijker. We thank Erik Schultes for his important contribution in initiating the FIP definitions. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: [fipadmin\@gofair.foundation](mailto:fipadmin@gofair.foundation).

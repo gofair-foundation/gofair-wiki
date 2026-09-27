@@ -38,8 +38,6 @@ website:
         href: docs/guide/index.qmd
       - text: M4M
         href: docs/M4M/m4m.qmd
-      - text: FAIR Connect
-        href: docs/fair-connect/fair-connect.qmd
       - text: News
         href: docs/news/index.qmd
       - text: Contributing
@@ -79,11 +77,6 @@ website:
           - section: "Authors and Contributors"
             contents:
               - docs/guide/authors.qmd
-    - id: fair-connect
-      collapse-level: 1
-      contents:
-      - section: "FAIR Connect"
-        href: docs/fair-connect/fair-connect.md
             
 execute:
   freeze: auto

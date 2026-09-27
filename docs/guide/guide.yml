@@ -11,7 +11,7 @@
 
 - title: FAIR Supporting Resource Types
   links:
-    - text: Choosing the correct FRS types
+    - text: Choosing the correct FSR types
       href: ../type/guide.qmd 
 
 - title: Completing a Project in the FIP Wizard

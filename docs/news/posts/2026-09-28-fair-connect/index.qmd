@@ -1,0 +1,13 @@
+---
+title: "Attention! FAIR Connect is down"
+categories:
+author: 
+  - name: Marvin Friedl
+    orcid: 0009-0007-7713-900X
+date: 09-28-2026
+---
+--------------------------------------------------------------------
+
+As of yesterday the FAIR Connect website is not functional anymore, which means you can't use it to search for FSRs or FIPs anymore.
+
+However, the [FAIR Implementation Space on nanodash](https://w3id.org/spaces/FAIR-Implementation-Space) serves as a machine-readable alternative, allowing you to look up FSRs and FIPs just the same.

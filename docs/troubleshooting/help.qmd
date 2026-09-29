@@ -20,8 +20,8 @@ Please avoid these issues:
 
 By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - (@fig-help1))
 
-![Figure 22](/docs/fip/_static/img/22.png){#fig-help1 fig-align="default" width="100%"}
+![Figure 22](/docs/img/22.png){#fig-help1 fig-align="default" width="100%"}
 
 you can see in **Preview mode** the question that needs revision (@fig-help2).
 
-![Figure 23](/docs/fip/_static/img/23.png){#fig-help2 fig-align="left" width="50%"}
+![Figure 23](/docs/fip/_static/img/23.png){#fig-help2 fig-align="left" width="100%"}

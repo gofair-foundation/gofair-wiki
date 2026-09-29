@@ -77,7 +77,7 @@ You can skip the next step, if you don't want to migrate the original project. B
 
 - You’ll see **Create Project** - this dialog box will launch your new FIP (@fig-template).
 
-  ![Select the project template.](./_static/img/FIP-projectTemplate.png){#fig-template fig-align="default" width="100%"}
+  ![Select the project template.](./_static/img/FIP_projectTemplate.png){#fig-template fig-align="default" width="100%"}
 
 - Select the tab: **From Project Template**
 
@@ -273,7 +273,7 @@ Please **avoid submitting the same trig file again** as this will trigger a new 
 
 You will see the submission as a FER nanopub (@fig-viewSub), the persistent identiﬁer (nanopub URI) is highlighted in orange.
 
-![View Submission](/docs/media/171.png){#fig-view-Sub fig-align="default" width="100%"}
+![View Submission](/docs/media/171.png){#fig-viewSub fig-align="default" width="100%"}
 
 This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for {{< var F2 >}}).
 

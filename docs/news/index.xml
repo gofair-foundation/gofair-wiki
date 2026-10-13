@@ -15,7 +15,28 @@
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.10.19</generator>
-<lastBuildDate>Mon, 28 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>FAIR Implementation Profile session</title>
+  <dc:creator>Marvin Friedl</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-10-13-fip-session/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>On Friday we will be hosting a review and update session on FAIR Implementation Profiles.</p>
+<p>If you would like to join please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc14_UvUzSG4biEOfBbigxG9ziXhzD4-8e_frgF150wpYvlFg/viewform?usp=dialog">form</a>.</p>
+<p>Date and time: 10/16/2026 14:00-17:00 CEST</p>
+
+
+
+ ]]></description>
+  <category>FIP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-10-13-fip-session/</guid>
+  <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>FAIR Connect status and alternative</title>
   <dc:creator>Marvin Friedl</dc:creator>
@@ -537,34 +558,6 @@ Gerhard (on behalf of Barbara)</p>
   <category>I-ADOPT</category>
   <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</guid>
   <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>FIP Wizard Important Updates</title>
-  <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<p>All FAIR Enabling Resource have now extended metadata elements and we updated the Knowledge Model for reusing the metadata content from FAIRsharing with these extenstions. The Project Template is now integrated in the FIP Project template in Chapter VII (a), but can also be found when creating a new project in the drop down of templates (b).</p>
-<p>a)</p>
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/ferffs.jpg" class="img-fluid figure-img"></p>
-<figcaption>b)</figcaption>
-</figure>
-</div>
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/dropdown.jpg" class="img-fluid" style="width:40.0%"></p>
-
-
-
- ]]></description>
-  <category>FIP Wizard</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-03-FER-from-FAIRsharing/</guid>
-  <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

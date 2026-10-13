@@ -6,13 +6,12 @@ author:
   - name: Marvin Friedl
     orcid: 0009-0007-7713-900X
 date: 10/13/2026
-draft: true
 ---
 
 ------------------------------------------------------------------------
 
 On Friday we will be hosting a review and update session on FAIR Implementation Profiles.
 
-If you would like to join please fill out this form.
+If you would like to join please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc14_UvUzSG4biEOfBbigxG9ziXhzD4-8e_frgF150wpYvlFg/viewform?usp=dialog).
 
-Date and time: 10/16/2026 14:00-17:00 
+Date and time: 10/16/2026 14:00-17:00 CEST

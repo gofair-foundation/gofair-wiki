@@ -1,5 +1,5 @@
 ---
-title: "Attention! FAIR Connect is down"
+title: "FAIR Connect status and alternative"
 categories:
 author: 
   - name: Marvin Friedl
@@ -7,6 +7,7 @@ author:
 date: 09-28-2026
 ---
 --------------------------------------------------------------------
+The current status of FAIR Connect.
 
 As of yesterday the FAIR Connect website is no longer functional, which means you can't use it to search for FSRs or FIPs anymore.
 

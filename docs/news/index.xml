@@ -17,7 +17,7 @@
 <generator>quarto-1.10.19</generator>
 <lastBuildDate>Mon, 28 Sep 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Attention! FAIR Connect is down</title>
+  <title>FAIR Connect status and alternative</title>
   <dc:creator>Marvin Friedl</dc:creator>
   <link>https://wiki.gofair.foundation/docs/news/posts/2026-09-28-fair-connect/</link>
   <description><![CDATA[ 
@@ -26,6 +26,7 @@
 
 
 <hr>
+<p>The current status of FAIR Connect.</p>
 <p>As of yesterday the FAIR Connect website is no longer functional, which means you can’t use it to search for FSRs or FIPs anymore.</p>
 <p>However, the <a href="https://w3id.org/spaces/FAIR-Implementation-Space">FAIR Implementation Space on nanodash</a> serves as a machine-actionable alternative, allowing you to look up FSRs and FIPs all the same.</p>
 

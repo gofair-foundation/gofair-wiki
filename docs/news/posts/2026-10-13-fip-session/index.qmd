@@ -9,8 +9,10 @@ date: 10/13/2026
 ---
 
 ------------------------------------------------------------------------
+![FIP](FIP_icon.png) 
+------------------------------------------------------------------------
 
-On Friday we will be hosting a review and update session on FAIR Implementation Profiles.
+On Friday we will be hosting a **Review and Update Session on FAIR Implementation Profiles (FIPs)**.
 
 If you would like to join please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc14_UvUzSG4biEOfBbigxG9ziXhzD4-8e_frgF150wpYvlFg/viewform?usp=dialog).
 

@@ -9,7 +9,7 @@ date: 10/13/2026
 ---
 
 ------------------------------------------------------------------------
-![FIP](FIP.png) 
+![FIP](FIP.png){fig-align="left" width=30%}
 ------------------------------------------------------------------------
 
 On Friday we will be hosting a **Review and Update Session on FAIR Implementation Profiles (FIPs)**.

@@ -28,7 +28,7 @@ listing:
   categories: false 
 ---
 
-**Wiki**
+## Wiki
 
 This GO FAIR **wiki** is an effort to bring together past, current and future individual documentation efforts into one comprehensive resource. This website is still **under construction**. This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). The source files of this website can be found on [Github](https://github.com/gofair-foundation/gofair-wiki).
 
@@ -41,7 +41,7 @@ This GO FAIR **wiki** is an effort to bring together past, current and future in
 
 ------------------------------------------------------------------------
 
-## How to Subscribe to the GO FAIR Wiki RSS Feed
+### How to Subscribe to the GO FAIR Wiki RSS Feed
 
 Follow these simple steps to subscribe to updates using your mobile RSS reader app (such as Feedly, NetNewsWire, Inoreader, or Reeder):
 

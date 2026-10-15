@@ -1,0 +1,40 @@
+## Choosing the right template in the FIP Wizard
+
+Project templates in the FIP Wizard are based on Knowledge Models. 
+
+There are four main blocks of templates:
+
+### Creating FAIR Supporting Resource descriptions
+
+- Creating a description from scratch: choose **FAIR Supporting Resource**:
+This template works for both FAIR Supporting Resources and for FAIR Enablig Resources. In case you used this template for describing a resource but discover only at a later stage that you want to link it to a FAIRsharing record, you can still add this link in the field: Related metadata to which this metadata can be mapped. 
+
+- Creating a FAIR Supporting Resource metadata record based on FAIRsharing description:  choose **FSR based on FAIRsharing**
+This template allows you to reuse a FAIRsharing record for prefilling the description field and access links as a starting point. 
+
+### Creating FAIR Implementation Profiles (FIP)
+
+- Creating a FIP focusing on essential FAIR Enabling Resource related questions: choose **FAIR Implementation Profile basic**
+This template includes a total of 21 questions. Most of these questions are already pre-answered with "No implementation choice" which can be easily revoked. 
+
+- Creating a FIP including questions beyond FAIR Enabling Resources: choose **FAIR Implementation Profile extended**
+This template includes questions for FAIR Supporting Resources like validations services or editors adding up to 39 questions in total. Most of these questions are already pre-answered with "No implementation choice" which can be easily revoked. 
+
+- Creating a FIP that functions as a reference for your community members: choose **R-FIP**
+This template includes questions related to all FAIR Supporting Resource Types. 
+
+### Creating additional FIP related concepts:
+
+- Creating a description of your community: choose **FAIR Implementation Community*
+This template is needed to be used to provide a description about your community that wants to publish a FIP.
+
+- Creating a new concept for digital object type: choose **New FIP-related term** (subject to change)
+Use this template and choose **digital object type** to define a new type not listed in the drop-down. 
+
+### Creating requirements related descriptions:
+
+- Creating a description of the case study: choose **Case Study Description**
+
+- Creating a description of your user story: choose **User Story**
+
+- For analysing a representative digital object: choose **Digital Object Analysis*+

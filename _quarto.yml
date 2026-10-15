@@ -59,27 +59,20 @@ website:
         - section: "Guide"
           href: docs/guide/index.qmd
           contents:
-          - section: "FIP Wizard"
-            contents:
-              - docs/fip/content.qmd
-          - section: "Project Tempates"
-            contents: 
-              - docs/templates/index.qmd
-          - section: "FAIR Supporting Resource Types"
-            contents:
-              - docs/type/guide.qmd
-          - section: "Nanopublications"
-            contents:
-              - docs/np/index.qmd
-          - section: "Completing a Project"
-            contents:
-              - docs/completion/index.qmd 
-          - section: "Troubleshooting"
-            contents:
-              - docs/troubleshooting/help.qmd            
-          - section: "Authors and Contributors"
-            contents:
-              - docs/guide/authors.qmd
+       - section: "FIP Wizard"
+          href: docs/fip/content.qmd
+       - section: "Project Tempates"
+          href: docs/templates/index.qmd
+       - section: "FAIR Supporting Resource Types"
+          href: docs/type/guide.qmd
+       - section: "Nanopublications"
+          href: docs/np/index.qmd
+       - section: "Completing a Project"
+           href: docs/completion/index.qmd 
+       - section: "Troubleshooting"
+          href: docs/troubleshooting/help.qmd            
+       - section: "Authors and Contributors"
+           href: docs/guide/authors.qmd
             
 execute:
   freeze: auto

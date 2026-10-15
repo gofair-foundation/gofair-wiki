@@ -62,6 +62,9 @@ website:
           - section: "FIP Wizard"
             contents:
               - docs/fip/content.qmd
+          - section: "Project Tempates"
+            contents: 
+              - docs/templates/index.qmd
           - section: "FAIR Supporting Resource Types"
             contents:
               - docs/type/guide.qmd

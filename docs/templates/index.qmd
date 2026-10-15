@@ -37,4 +37,4 @@ Use this template and choose **digital object type** to define a new type not li
 
 - Creating a description of your user story: choose **User Story**
 
-- For analysing a representative digital object: choose **Digital Object Analysis*+
+- For analysing a representative digital object: choose **Digital Object Analysis**

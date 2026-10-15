@@ -77,7 +77,11 @@ You can skip the next step, if you don't want to migrate the original project. B
 
 - You’ll see **Create Project** - this dialog box will launch your new FIP (@fig-template).
 
-  ![Select the project template.](./_static/img/FIP_projectTemplate.png){#fig-template fig-align="default" width="100%"}
+::: {.callout-note}
+As you can see there is more than one FIP template to choose from. The FAIR Implementation Profile extended provides you with all questions. You can also migrate between these templates later on. For more information see the section on [Project Templates](/docs/templates/index.qmd).
+:::
+
+  ![Select the project template.](/docs/img/FIP_select_Template.png){#fig-template fig-align="default" width="100%"}
 
 - Select the tab: **From Project Template**
 

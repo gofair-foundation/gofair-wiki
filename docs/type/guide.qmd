@@ -8,4 +8,4 @@ lightbox: true
 
 ## Choosing the right FSR Types
 
-For deciding which resource types to choose, you should be familiar with all type definitions. You can find them in the [FIP ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html).
+For deciding which resource types to choose, you should be familiar with all type definitions. You can find them in the [FIP ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html), specifically in the section [Classes)[https://nanodash.knowledgepixels.com/part?0&context=https://w3id.org/fair/fip/terms/FIP-Ontology&id=https://w3id.org/fair/fip/terms/FIP-Ontology#classes).

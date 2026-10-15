@@ -35,7 +35,7 @@ website:
       - text: FIP
         href: docs/fip/index.qmd
       - text: FIP Guide
-        href: docs/guide/index.qmd
+        href: docs/fip/content.qmd
       - text: M4M
         href: docs/M4M/m4m.qmd
       - text: News
@@ -56,22 +56,20 @@ website:
     - id: guide
       collapse-level: 1
       contents:
-        - section: "Guide"
-          href: docs/guide/index.qmd
-       - section: "FIP Wizard"
+        - text: "FIP Wizard"
           href: docs/fip/content.qmd
-       - section: "Project Tempates"
+        - text: "Project Templates"
           href: docs/templates/index.qmd
-       - section: "FAIR Supporting Resource Types"
+        - text: "FSR Typology"
           href: docs/type/guide.qmd
-       - section: "Nanopublications"
+        - text: "Nanopublications"
           href: docs/np/index.qmd
-       - section: "Completing a Project"
-           href: docs/completion/index.qmd 
-       - section: "Troubleshooting"
+        - text: "Completing a Project"
+          href: docs/completion/index.qmd 
+        - text: "Troubleshooting"
           href: docs/troubleshooting/help.qmd            
-       - section: "Authors and Contributors"
-           href: docs/guide/authors.qmd
+        - text: "Authors and Contributors"
+          href: docs/guide/authors.qmd
             
 execute:
   freeze: auto

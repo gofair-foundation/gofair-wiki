@@ -1,9 +1,12 @@
 
-- title: FAIR Implementation Profiles
+- title: FIP Wizard
   links:
     - text: Guide
       href: ../fip/content.qmd
-
+- title: Project Templates
+  links:
+    -  text: Choosing the right template
+       href: ../templates/index.qmd
 - title: Nanopublications
   links:
     - text: Introduction

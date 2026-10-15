@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>GO FAIR Wiki</title>
+<link>https://wiki.gofair.foundation/docs/news/</link>
+<atom:link href="https://wiki.gofair.foundation/docs/news/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://wiki.gofair.foundation/docs/img/GGF_checkmark.png</url>
+<title>GO FAIR Wiki</title>
+<link>https://wiki.gofair.foundation/docs/news/</link>
+</image>
+<generator>quarto-1.10.19</generator>
+<lastBuildDate>Tue, 13 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>FAIR Implementation Profile session</title>
+  <dc:creator>Marvin Friedl</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-10-13-fip-session/</link>
+  <description><![CDATA[ 
+
+
+
+
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/news/posts/2026-10-13-fip-session/FIP.png" class="img-fluid quarto-figure quarto-figure-left" style="width:30.0%" alt="FIP"></td>
+</tr>
+</tbody>
+</table>
+<p>On Friday, 16 October, we will be hosting a <strong>Review and Update Session on FAIR Implementation Profiles (FIPs)</strong>.</p>
+<p>If you would like to join please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc14_UvUzSG4biEOfBbigxG9ziXhzD4-8e_frgF150wpYvlFg/viewform?usp=dialog">form</a>.</p>
+<p>Date and time: 10/16/2026 14:00-17:00 CEST</p>
+
+
+
+ ]]></description>
+  <category>FIP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-10-13-fip-session/</guid>
+  <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FAIR Connect status and alternative</title>
+  <dc:creator>Marvin Friedl</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-09-28-fair-connect/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>The current status of FAIR Connect.</p>
+<p>As of yesterday the FAIR Connect website is no longer functional, which means you can’t use it to search for FSRs or FIPs anymore.</p>
+<p>However, the <a href="https://w3id.org/spaces/FAIR-Implementation-Space">FAIR Implementation Space on nanodash</a> serves as a machine-actionable alternative, allowing you to look up FSRs and FIPs all the same.</p>
+
+
+
+ ]]></description>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-09-28-fair-connect/</guid>
+  <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Fellows and Qualification Day - November 26, 2026</title>
+  <dc:creator>Marvin Friedl</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-09-08-fellows-day/</link>
+  <description><![CDATA[ 
+
+
+
+
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/news/posts/2026-09-08-fellows-day/GFF_Qualification badge_website2_0_1000ppi.png" class="img-fluid"></td>
+</tr>
+</tbody>
+</table>
+<p>Dear Fellows and Friends!</p>
+<p>We are delighted to announce that our next Fellows Day will be held on 26 November (morning) at the GFF office in Leiden. This special event is an opportunity for us to come together, share experiences, strengthen our community and celebrate achievements by awarding <strong>certificates</strong> to those who have successfully completed their courses. Hopefully, this will motivate a few more people to speed up and finish in time – 19 November is the last day to submit your completion declaration before the event. Please contact me if you have any doubts about what is needed to finish the course!</p>
+<p>The agenda as well as a registration form will become available in October.</p>
+<p>We look forward to seeing many of you there and making this Fellows Day a memorable moment together!</p>
+<p>Warm regards,</p>
+<p>Marvin</p>
+
+
+
+ ]]></description>
+  <category>GFF Fellows</category>
+  <category>CBP</category>
+  <category>Event</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-09-08-fellows-day/</guid>
+  <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>SIP resources integrated in FIP</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/dsw.png" class="img-fluid figure-img"></p>
+<figcaption>DSW</figcaption>
+</figure>
+</div>
+<hr>
+<p>Resources supporting interoperability that were previously compiled in a Semantic Interoperability Profile (SIP) are incorporated into a standard FIP (version 5 and later) as supporting declarations, allowing streamlined and consistent management. As a result, the SIP service will be maintained for six months (until 31 July 2026) to facilitate the transition to the standard FIP service. After this period, SIP-based management will be phased out.</p>
+<p>Please use the <strong><a href="https://fip.fair-wizard.com/">FIP Wizard</a></strong> going forward. Detailed migration instructions will be provided soon.</p>
+<p>If you have any questions, please do not hesitate to us at fipadmin@gofair.foundation.</p>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/</guid>
+  <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Networking Meeting</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-10-09-lifes-network-meeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2025-10-09-lifes-network-meeting/lifes-network-meeting.jpeg" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.lifes.institute/event-details/lifes-networking-meeting-2025-10-14-13-30">here</a> for details and registration.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-10-09-lifes-network-meeting/</guid>
+  <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Upcoming Training autum 2025</title>
+  <dc:creator>Judith Schneider</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-08-29-Upcoming-Training/</link>
+  <description><![CDATA[ 
+
+
+
+
+<table class="caption-top table">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/news/posts/2025-08-29-Upcoming-Training/3PFF icons combined_dark_400ppi.avif" class="img-fluid"></td>
+</tr>
+</tbody>
+</table>
+<p>We have published new training dates on our <a href="https://www.gofair.foundation/upcoming-training">website</a>. Over the next three months, we will be offering courses on <strong>FAIR Awareness, FAIR Implementation Profiles and FAIR Vocabularies</strong>. If you have completed the course before, you can listen to it again to refresh your skills.</p>
+<p>We are very much looking forward to meeting you soon!</p>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-08-29-Upcoming-Training/</guid>
+  <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Fellows and Qualification Day - September 23, 2025</title>
+  <dc:creator>Judith Schneider</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-08-29-fellows-day/</link>
+  <description><![CDATA[ 
+
+
+
+
+<table class="caption-top table">
+<colgroup>
+<col style="width: 95%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/news/posts/2025-08-29-fellows-day/GFF_Qualification badge_website2_0_1000ppi.png" class="img-fluid"></td>
+</tr>
+</tbody>
+</table>
+<p>Dear Fellows and Friends!</p>
+<p>We are delighted to announce that our next Fellows Day will be held on 23 September (afternoon) at the GFF office in Leiden. This special event is an opportunity for us to come together, share experiences, strengthen our community and celebrate achievements by awarding <strong>certificates</strong> to those who have successfully completed their courses. Hopefully, this will motivate a few more people to speed up and finish in time – 16 September is the last day to submit your completion declaration before the event. Please contact me if you have any doubts about what is needed to finish the course!</p>
+<p>The programme will include an overview of our achievements over the last six months and our ongoing projects. You are welcome to present your own work or suggest ideas for collaboration. See <a href="https://docs.google.com/document/d/14PpuzwZ8fVpkL4zd_69nrp5moXlEPaOAmP8ViBEHQEQ/edit?tab=t.0">here</a> the full agenda.</p>
+<p>Please mark your calendars and register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdygCk0x2UcR3Yi-jKGsUd9zZXu0boEgsuam8_72ny4Qp7Szg/viewform?usp=dialog">here</a>.</p>
+<p>We look forward to seeing many of you there and making this Fellows Day a memorable moment together!</p>
+<p>Warm regards,</p>
+<p>Judith (on behalf of Barbara)</p>
+
+
+
+ ]]></description>
+  <category>GFF Fellows</category>
+  <category>CBP</category>
+  <category>Event</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-08-29-fellows-day/</guid>
+  <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Conference</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-06-11-LIFES-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2025-06-11-LIFES-conference/LIFES-conference.jpg" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.lifes.institute/lifes-conference-2025">here</a> for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-06-11-LIFES-conference/</guid>
+  <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>FIP Service Migration</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-05-07-fip-wizard-migration/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2025-05-07-fip-wizard-migration/dsw.png" class="img-fluid figure-img"></p>
+<figcaption>DSW</figcaption>
+</figure>
+</div>
+<hr>
+<p>We are migrating the production environment of the <strong>FIP Wizard</strong> to a new URL. Starting <strong>May 14</strong>, the service will be available at: <a href="https://fip.fair-wizard.com">https://fip.fair-wizard.com</a></p>
+<p><strong>Key Dates:</strong></p>
+<p><strong>May 13</strong>: The current FIP/FSR submission service will be temporarily unavailable during the transition.</p>
+<p><strong>May 14</strong>: The new <a href="https://fip.fair-wizard.com/">FIP Wizard instance</a> goes live.</p>
+<p><strong>June 4</strong>: The current <a href="https://fip-wizard.ds-wizard.org/">(old) instance</a> will be fully decommissioned.</p>
+<p><strong>Between May 14 and June 4</strong>, you can still access the old FIP Wizard to manually transfer any projects that are not yet available in the new instance. However, please note that the old platform <strong>can no longer be used</strong> to create new projects or generate documents.</p>
+<p><strong>All your projects with published documents</strong> (like FIPS or FSRs) <strong>are being securely transferred to the new instance</strong>. You will be able to access them using your existing login credentials—<strong>no action is required on your part</strong>. However, be aware that empty and test projects will not be transferred.</p>
+<p>If you have a <strong>project without a published document</strong> that you want to ensure gets transferred automatically to the new instance, please add its URL to this <a href="https://docs.google.com/spreadsheets/d/1293H4TsuRvarwyZwTch5gEiaMu29gXVC-lvd909yQno/edit?gid=0#gid=0">sheet</a> at latest by <strong>Monday, May 12</strong>.</p>
+<p><strong>After May 14</strong>, if you cannot find your project in the new instance, you can still <strong>manually transfer your projects</strong> by following these instructions: Go to your project and publish a new document as JSON. More specifically, click Documents &gt; New Document with Document Template Questionnaire Report and format JSON Data. Once created, click on the three dots symbol and press Download. In the new instance you create a new project using the same project template and click on <em>import replies</em> (right under the questionnaire at the top) and import that JSON file. All content will be imported.</p>
+<p>If you have any questions, please do not hesitate to us at fipadmin@gofair.foundation.</p>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-05-07-fip-wizard-migration/</guid>
+  <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Seminar FAIR Data for Trusted AI</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-02-03-LIFES-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2025-02-03-LIFES-seminar/LIFES_20250205.jpg" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.linkedin.com/company/lifes-institute/posts/?feedView=all">here</a> on linkedIn for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-02-03-LIFES-seminar/</guid>
+  <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GFF Fellows Day - February 3, 2025</title>
+  <dc:creator>Gerhard Burger</dc:creator>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-01-28 GFF FELLOWS Day/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Dear GFF Fellows and friends,</p>
+<p>We cordially invite you to our Qualification event and Fellows meeting on February 3 (afternoon) at the <a href="https://maps.app.goo.gl/HP6rvNDce6wyJqFN9">GFF office</a> in Leiden (and remotely via Zoom). We start at 12:00 with lunch, the main program will be from 13:30 -17:30.</p>
+<p>For details and registration, see <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWehR1qhLdUYJ-VGZP1eGsMB5cjYwX5pE6xvXlYJmpD0AzCg/viewform">here</a>.</p>
+<p>We are very much looking forward to meeting you soon!</p>
+<p>Kind regards,<br>
+Gerhard (on behalf of Barbara)</p>
+
+
+
+ ]]></description>
+  <category>GFF Fellows</category>
+  <category>CBP</category>
+  <category>Event</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-01-28 GFF FELLOWS Day/</guid>
+  <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Network Meeting</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2025-01-08-LIFES-network-meeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2025-01-08-LIFES-network-meeting/LIFES-network-meeting.png" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.linkedin.com/events/outstandingchallengesinfederate7275803366725677056/comments/">here</a> on linkedIn for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2025-01-08-LIFES-network-meeting/</guid>
+  <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Curation process</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-12-26/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-12-26/GFFcurated.svg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<hr>
+<p>The approval of nanopublications by GFF trained experts results in the allocation of a curation badge in the FIP Wizard, previously labelled a qualification. A revision of the terminology and icon was made to facilitate improved understanding of the process.</p>
+<p>The curation process checks how useful a resource is at making data FAIR, and makes sure it is correctly aligned with the right FSR classes based on their definition in the FIP ontology. However, it does not check how FAIR the resource is. It checks the metadata description to see if it is complete, and suggests improvements where appropriate. If a review is successful, a nanopublication is approved (using a special template16) and a curation badge is added in the wizard. This helps to avoid duplication, incomplete descriptions, and unuseful FSRs, maintaining the integrity of the FIP approach.</p>
+<p>Thank you for your attention!</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FIP Wizard</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-12-26/</guid>
+  <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Upcoming training</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-12-04-GFF-training/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-12-04-GFF-training/training.jpg" class="img-fluid"></p>
+<hr>
+<p>See training dates published <a href="https://www.gofair.foundation/upcoming-training">here</a> for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-12-04-GFF-training/</guid>
+  <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Network Meeting</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-11-28-LIFES-network-meeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-11-28-LIFES-network-meeting/LIFES-network-meeting.png" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.linkedin.com/events/orchestrationforfair-enableddat7267160416139591680/about/">here</a> on linkedIn for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-11-28-LIFES-network-meeting/</guid>
+  <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>LIFES Network Meeting</title>
+  <dc:creator>Norbert van Dijk</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-10-30-LIFES-network-meeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-10-30-LIFES-network-meeting/LIFES-network-meeting.jpg" class="img-fluid"></p>
+<hr>
+<p>See event published <a href="https://www.linkedin.com/events/faircapacitybuilding-growingthe7255509929854210048/">here</a> on linkedIn for details.</p>
+<hr>
+
+
+
+ ]]></description>
+  <category>FAIR and Equitable Science</category>
+  <category>LIFES</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-10-30-LIFES-network-meeting/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The I-ADOPT Variable Modeling Challenge 2</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT. We are pleased to share news with you about the I-ADOPT Variable Modeling Challenge outcome:</p>
+<p>The Challenge took place from 16 to 29 September 2024.</p>
+<p><strong>1st place</strong>: Anne Fouilloux and Jean Iaquinta (212.75 points)</p>
+<p><strong>2nd place</strong>: Andrea Tarallo, Martina Pulieri, Christina Di Muri e Jessica Titocci (206.5 points)</p>
+<p><strong>3rd place</strong>: Jörg Klausen, Morgan Silverman and Gao Chen (168.6 points)</p>
+<p>Runner-up contestants:</p>
+<p>Samantha Blakeman, Petra ten Hoopen, Saurav Kumar</p>
+<p>These people will automatically qualify for a share in the prize pot of our second challenge (details below).</p>
+<p>We decided to launch a <strong>second challenge</strong> that will take place</p>
+<p>from October 14 (10:00 CEST) to 18 (22:00 CEST)</p>
+<p>We have <strong>1000 Euro in the prize pool</strong> for the second challenge.</p>
+<p>There will be no single winner, but everyone contributing with at least 5 high-quality variable models will get an equal amount from the prize pot.* High-quality is defined by a variable that scores 12 points or higher.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/modeling.jpg" class="img-fluid"></p>
+<p>Are you interested in joining the second challenge? More information on <a href="https://i-adopt.github.io/challenge.html">https://i-adopt.github.io/challenge.html</a>.</p>
+
+
+
+ ]]></description>
+  <category>I-ADOPT</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/</guid>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GFF Capacity Building Programme Update</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
+<p>We reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/CBP.jpg" class="img-fluid"></p>
+<p>After completing the mandatory <strong>FAIR Awareness</strong> unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.</p>
+<p>The <strong>FIP Implementer Qualification</strong> consists of a single training unit (40 hours) while the <strong>M4M Implementer Qualification</strong> consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.</p>
+<p>Find here more details:</p>
+<p>Schultes, E., &amp; Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. <a href="https://zenodo.org/doi/10.5281/zenodo.12160021" class="uri">https://zenodo.org/doi/10.5281/zenodo.12160021</a></p>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</guid>
+  <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GFF Capacity Building Programme Update</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
+<p>We introduced a new level for qualification for those wanting to learn the content of the CBP but not interested to become facilitators or trainers themselves. They can participate in the same training units but omit the assistance time (so in total spend 60 hours instead of 80 hours) and be qualified as Implementers.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/CBP.jpg" class="img-fluid"></p>
+<p>The two modules are renamed into:</p>
+<p><strong>Module 1</strong>:</p>
+<ul>
+<li><p>Unit FAIR Awareness</p></li>
+<li><p>Unit FAIR Implementation Profile</p></li>
+<li><p>Unit M4M introduction</p></li>
+</ul>
+<p>Three possible qualifications:</p>
+<ul>
+<li><p><strong>FIP Implementer</strong> (after 60 hours training and exam)</p></li>
+<li><p><strong>FIP Facilitator</strong> (after 40 hours training, exam and 20 hours assistance)</p></li>
+<li><p><strong>3PFF Faciltitor</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
+</ul>
+<p><strong>Module 2</strong>, only possible after completing Module 1:</p>
+<ul>
+<li><p>Unit M4M vocabulary</p></li>
+<li><p>Unit M4M metadata</p></li>
+<li><p>Unit FAIR orchestration</p></li>
+</ul>
+<p>Two possible qualifications:</p>
+<ul>
+<li><p><strong>M4M Implementer</strong> (after 60 hours training and exam)</p></li>
+<li><p><strong>3PFF Trainer</strong> (after 60 hours training, exam and 20 hours assistance)</p></li>
+</ul>
+<p>Find here more details:</p>
+<p>Schultes, E., &amp; Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. <a href="https://zenodo.org/doi/10.5281/zenodo.12160021" class="uri">https://zenodo.org/doi/10.5281/zenodo.12160021</a></p>
+
+
+
+ ]]></description>
+  <category>CBP</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</guid>
+  <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The I-ADOPT Variable Modeling Challenge</title>
+  <dc:creator>Barbara Magagna</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.</p>
+<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/modeling.jpg" class="img-fluid"></p>
+<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.</p>
+<p>We therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.</p>
+<p>Are you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on <a href="https://i-adopt.github.io/challenge.html">https://i-adopt.github.io/challenge.html</a>.</p>
+
+
+
+ ]]></description>
+  <category>I-ADOPT</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</guid>
+  <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

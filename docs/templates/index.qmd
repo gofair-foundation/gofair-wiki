@@ -14,7 +14,7 @@ This template connects to the FAIRsharing database to find the resource which de
 
 ### Creating FAIR Implementation Profiles (FIP)
 
-- Choose **FAIR Implementation Profile basic** when you want to focus on essential features required to implement the FAIR Principles. The template includes only questions related to FAIR Enabling Resources and includes a total of 21 questions. Most of these questions are already pre-answered with "No implementation choice" which can be easily revoked. 
+- Choose **FAIR Implementation Profile basic** when you want to focus on essential features required to implement the FAIR Principles. The template includes only questions related to FAIR Enabling Resources and includes a total of 22 questions. Most of these questions are already pre-answered with "No implementation choice" which can be easily revoked. 
 
 - Choose **FAIR Implementation Profile extended** if you want to address also FAIR Supporting Resources, beyond the essential FAIR Enabling Resources.
 This template includes questions for FAIR Supporting Resources like validations services or editors adding up to 39 questions in total. Most of these questions are already pre-answered with "No implementation choice" which can be easily revoked. 
@@ -24,7 +24,7 @@ This template includes questions related to all FAIR Supporting Resource Types.
 
 ### Creating additional FIP related concepts:
 
-- Choose **FAIR Implementation Community* if you want to describe your community. Each FIP is associated to a community that wants to declare their community choices.
+- Choose **FAIR Implementation Community** if you want to describe your community. Each FIP is associated to a community that wants to declare their community choices.
 
 - Choose **New FIP-related term** (subject to change) and select digital object type to define a new type not listed in the drop-down. 
 

@@ -15,7 +15,37 @@
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.10.19</generator>
-<lastBuildDate>Tue, 13 Oct 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>GO FAIR Family Day - November 26, 2026</title>
+  <dc:creator>Marvin Friedl</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-10-22-family-day/</link>
+  <description><![CDATA[ 
+
+
+
+
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/img/GFF_checkmark.png" class="img-fluid" style="width:25.0%"></td>
+</tr>
+</tbody>
+</table>
+<p>Dear Fellows and Friends!</p>
+<p>As previously announced the GO FAIR Family Day will take place on November 26.</p>
+<p>To help us organize this event we kindly ask all interested in the Family Day, be it because you want to present something, get a qualification or simply participate, to fill out this <a href="https://forms.gle/h6EEPvM2JsTJRxFh8">form</a>.</p>
+<p>We look forward to seeing many of you there and making this Family Day a memorable moment together!</p>
+
+
+
+ ]]></description>
+  <category>GFF Fellows</category>
+  <category>CBP</category>
+  <category>Event</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-10-22-family-day/</guid>
+  <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>FAIR Implementation Profile session</title>
   <dc:creator>Marvin Friedl</dc:creator>
@@ -64,9 +94,9 @@
   <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Fellows and Qualification Day - November 26, 2026</title>
+  <title>GO FAIR Family Day - November 26, 2026</title>
   <dc:creator>Marvin Friedl</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2026-09-08-fellows-day/</link>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-09-08-family-day/</link>
   <description><![CDATA[ 
 
 
@@ -75,14 +105,14 @@
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/news/posts/2026-09-08-fellows-day/GFF_Qualification badge_website2_0_1000ppi.png" class="img-fluid"></td>
+<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/img/GFF_checkmark.png" class="img-fluid" style="width:25.0%"></td>
 </tr>
 </tbody>
 </table>
 <p>Dear Fellows and Friends!</p>
-<p>We are delighted to announce that our next Fellows Day will be held on 26 November (morning) at the GFF office in Leiden. This special event is an opportunity for us to come together, share experiences, strengthen our community and celebrate achievements by awarding <strong>certificates</strong> to those who have successfully completed their courses. Hopefully, this will motivate a few more people to speed up and finish in time – 19 November is the last day to submit your completion declaration before the event. Please contact me if you have any doubts about what is needed to finish the course!</p>
+<p>We are delighted to announce that our next GO FAIR Family Day will be held on 26 November (morning) at the GFF office in Leiden. This special event is an opportunity for us to come together, share experiences, strengthen our community and celebrate achievements by awarding <strong>certificates</strong> to those who have successfully completed their courses. Hopefully, this will motivate a few more people to speed up and finish in time – 19 November is the last day to submit your completion declaration before the event. Please contact me if you have any doubts about what is needed to finish the course!</p>
 <p>The agenda as well as a registration form will become available in October.</p>
-<p>We look forward to seeing many of you there and making this Fellows Day a memorable moment together!</p>
+<p>We look forward to seeing many of you there and making this Family Day a memorable moment together!</p>
 <p>Warm regards,</p>
 <p>Marvin</p>
 
@@ -92,7 +122,7 @@
   <category>GFF Fellows</category>
   <category>CBP</category>
   <category>Event</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-09-08-fellows-day/</guid>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-09-08-family-day/</guid>
   <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -539,29 +569,6 @@ Gerhard (on behalf of Barbara)</p>
   <category>CBP</category>
   <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-24-CBP-Update/</guid>
   <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The I-ADOPT Variable Modeling Challenge</title>
-  <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<p>We are pleased to share news with you about the I-ADOPT Framework for representing FAIR observable property descriptions.</p>
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/modeling.jpg" class="img-fluid"></p>
-<p>I-ADOPT is a candidate for an OGC standard. There are concrete plans to develop a semi-automatic I-ADOPT annotation service. In preparation, we would like to test the interoperability of I-ADOPT.</p>
-<p>We therefore announce the I-ADOPT Variable Modeling Challenge, from September 16 to 22, 2024. Top scorers will be rewarded with a prize.</p>
-<p>Are you interested in joining this challenge? Do you have sets of variables in mind which could be modelled during the challenge? Would you like to co-sponsor this event? More information on <a href="https://i-adopt.github.io/challenge.html">https://i-adopt.github.io/challenge.html</a>.</p>
-
-
-
- ]]></description>
-  <category>I-ADOPT</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-06-17-I-ADOPT-Challenge/</guid>
-  <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

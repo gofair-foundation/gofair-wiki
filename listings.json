@@ -1,10 +1,15 @@
 [
   {
+    "listing": "/docs/guide/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/docs/news/posts/2026-10-22-family-day/index.html",
       "/docs/news/posts/2026-10-13-fip-session/index.html",
       "/docs/news/posts/2026-09-28-fair-connect/index.html",
-      "/docs/news/posts/2026-09-08-fellows-day/index.html",
+      "/docs/news/posts/2026-09-08-family-day/index.html",
       "/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/index.html",
       "/docs/news/posts/2025-10-09-lifes-network-meeting/index.html",
       "/docs/news/posts/2025-08-29-Upcoming-Training/index.html",
@@ -25,20 +30,17 @@
       "/docs/news/posts/2024-06-03-JSON-LD-output/index.html",
       "/docs/news/posts/2024-06-03-FER-from-FAIRsharing/index.html",
       "/docs/news/posts/2024-05-29-lifes-update/index.html",
-      "/docs/news/posts/2024-02-05-nanodash-update/index.html",
-      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html"
+      "/docs/news/posts/2024-02-05-fip-wizard-update/index.html",
+      "/docs/news/posts/2024-02-05-nanodash-update/index.html"
     ]
-  },
-  {
-    "listing": "/docs/guide/index.html",
-    "items": []
   },
   {
     "listing": "/docs/news/index.html",
     "items": [
+      "/docs/news/posts/2026-10-22-family-day/index.html",
       "/docs/news/posts/2026-10-13-fip-session/index.html",
       "/docs/news/posts/2026-09-28-fair-connect/index.html",
-      "/docs/news/posts/2026-09-08-fellows-day/index.html",
+      "/docs/news/posts/2026-09-08-family-day/index.html",
       "/docs/news/posts/2026-01-27-SIP-integrated-in-FIP/index.html",
       "/docs/news/posts/2025-10-09-lifes-network-meeting/index.html",
       "/docs/news/posts/2025-08-29-Upcoming-Training/index.html",

@@ -1,0 +1,26 @@
+---
+title: "FDO Webinar"
+categories:
+  - CBP
+author: 
+  - name: Marvin Friedl
+    orcid: 0009-0007-7713-900X
+date: 10-27-2026
+---
+--------------------------------------------------------------------
+![](/docs/img/FAIRDOFORUM-logo.png){fig-align="left" width="100%" fig-alt="FDO Forum Logo."}
+-------------------------------------------------------------------
+
+Upcoming open FDO Webinar.
+
+On 30.10 at 14.30 CET an FDO Webinar about the FDO Specifications will take place.
+
+Speakers: Sven Bingert, Jana Böhm, Maximilian Inckmann
+
+During the last year, the FDO specifications underwent a major reorganization: from a collection of official notes to one consolidated and harmonized W3C-style specification document. These updated specifications are built on five years of practical experience in creating, managing, and utilizing FDOs across various projects.
+
+[Registratition](https://gwdg.zoom.us/meeting/register/e75mq8zMRae-sygk-oWmRQ)
+
+[Announcement](https://drive.google.com/file/d/1VCX8lw1BxkgT_GiaeyUsNtN2c7aupvZi/view?usp=sharing)
+
+More detailed information can be found on the FDO Forums [website](https://fairdo.org/events/calendar/).

@@ -1,0 +1,22 @@
+---
+title: "FDO Webinar"
+categories:
+  - CBP
+  - Event
+  - GFF Fellows
+author: 
+  - name: Marvin Friedl
+    orcid: 0009-0007-7713-900X
+date: 11-10-2026
+draft: true
+---
+--------------------------------------------------------------------
+![](/docs/img/GO FAIR Family_1000ppi.png){width="50%"}
+-------------------------------------------------------------------
+
+Dear Fellows and Friends!
+
+We are excited to share the agenda for Family Day on November 26! The event starts at 11:00 AM CET and features two session parts:
+
+- Morning Session (11:00 – 13:00): Tailored specifically for online participants.
+- Afternoon Session (14:00 – 17:00): Held in person, though attendees are welcome to arrive starting at 11:00 AM.

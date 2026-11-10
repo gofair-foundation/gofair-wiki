@@ -15,7 +15,58 @@
 <link>https://wiki.gofair.foundation/docs/news/</link>
 </image>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Tue, 27 Oct 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>FDO Webinar</title>
+  <dc:creator>Marvin Friedl</dc:creator>
+  <link>https://wiki.gofair.foundation/docs/news/posts/2026-11-10-family-day/</link>
+  <description><![CDATA[ 
+
+
+
+
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img src="https://wiki.gofair.foundation/docs/img/GO FAIR Family_1000ppi.png" class="img-fluid" style="width:50.0%"></td>
+</tr>
+</tbody>
+</table>
+<p>Dear Fellows and Friends!</p>
+<p>The GFF Family Open House (hybrid) event is starting at 11:00 AM CET and featuring two focus sessions:</p>
+<section id="morning-session-1100-1300-tailored-specifically-for-online-participants." class="level5">
+<h5 class="anchored" data-anchor-id="morning-session-1100-1300-tailored-specifically-for-online-participants."><strong>Morning Session (11:00 – 13:00): Tailored specifically for online participants.</strong></h5>
+<p> 11:00 - 11:15 Introduction round<br>
+ 11:15 - 11:35 Barbara: Past achievements &amp; planned activities<br>
+ 11:35 - 12:15 Presentations by attendees<br>
+ 12:15 - 12:30 Open Discussion<br>
+ 12:30 -13:00 Qualifications<br>
+</p>
+</section>
+<section id="afternoon-session-1400-1700-tailored-for-both-onsite-and-online-attendees" class="level5">
+<h5 class="anchored" data-anchor-id="afternoon-session-1400-1700-tailored-for-both-onsite-and-online-attendees"><strong>Afternoon Session (14:00 – 17:00): Tailored for both onsite and online attendees</strong></h5>
+<p> 14:00 - 14:15 Introduction round<br>
+ 14:15 - 14:30 Bert<br>
+ 14:30 - 14:45 Barbara: Past achievements<br>
+ 14:45 - 15:30 Presentations by attendees<br>
+ 15:30 - 16:00 Break<br>
+ 16:00 - 16:15 Barbara: Planned activities<br>
+ 16:15 - 16:30 Open Discussion<br>
+ 16:30 - 17:00 Qualifications<br>
+</p>
+<p>We are also looking for people who are willing to present something, either in the morning or afternoon.<br>
+If you are interested you can add you name and topic in this <a href="https://docs.google.com/document/d/1tLe3SCdk8dWbsMMfSOXAax0hpc7okW6HZXnpWsfNzBk/edit?usp=sharing">google doc</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>CBP</category>
+  <category>Event</category>
+  <category>GFF Fellows</category>
+  <guid>https://wiki.gofair.foundation/docs/news/posts/2026-11-10-family-day/</guid>
+  <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>FDO Webinar</title>
   <dc:creator>Marvin Friedl</dc:creator>
@@ -528,31 +579,6 @@ Gerhard (on behalf of Barbara)</p>
   <category>I-ADOPT</category>
   <guid>https://wiki.gofair.foundation/docs/news/posts/2024-10-14-I-ADOPT-Challenge2/</guid>
   <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>GFF Capacity Building Programme Update</title>
-  <dc:creator>Barbara Magagna</dc:creator>
-  <link>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</link>
-  <description><![CDATA[ 
-
-
-
-
-<hr>
-<p>GO FAIR Foundation has updated its <strong>GFF Capacity Building Programme</strong>.</p>
-<p>We reviewed the Capacity Building Programme and clarified the different modules for the implementer, facilitator and a trainer levels. While the content of the units has not changed, the qualifications are now more accurately aligned to the programme levels.</p>
-<p><img src="https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/CBP.jpg" class="img-fluid"></p>
-<p>After completing the mandatory <strong>FAIR Awareness</strong> unit, the trainee can choose paths leading to FIP and/or M4M Implementer Qualification. As Implementer, the trainee will have gained the competencies to build and maintain domain-relevant community-specific FIPs and/or metadata resources.</p>
-<p>The <strong>FIP Implementer Qualification</strong> consists of a single training unit (40 hours) while the <strong>M4M Implementer Qualification</strong> consists of three mandatory units including training on schema and vocabulary development as well as FAIR orchestration (60 hours). Optional units covering advanced and trending metadata topics will also be offered (for additional costs) depending on demand.</p>
-<p>Find here more details:</p>
-<p>Schultes, E., &amp; Magagna, B. (2022). The GO FAIR Foundation’s FAIR Capacity Building Programme (1.0). Zenodo. <a href="https://zenodo.org/doi/10.5281/zenodo.12160021" class="uri">https://zenodo.org/doi/10.5281/zenodo.12160021</a></p>
-
-
-
- ]]></description>
-  <category>CBP</category>
-  <guid>https://wiki.gofair.foundation/docs/news/posts/2024-08-09-CBP-Update/</guid>
-  <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

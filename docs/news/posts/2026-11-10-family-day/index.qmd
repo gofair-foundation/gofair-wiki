@@ -8,6 +8,7 @@ author:
   - name: Marvin Friedl
     orcid: 0009-0007-7713-900X
 date: 11-10-2026
+image: "/docs/img/GO FAIR Family_1000ppi.png"
 ---
 --------------------------------------------------------------------
 ![](/docs/img/GO FAIR Family_1000ppi.png){width="50%"}

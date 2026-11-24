@@ -27,13 +27,15 @@ The GFF Family Open House (hybrid) event is starting at 11:00 AM CET and featuri
 
 ##### **Afternoon Session (14:00 – 17:00): Tailored for both onsite and online attendees**
 &emsp;14:00 - 14:15 Introduction round\
-&emsp;14:15 - 14:30 Bert: Welcome from GO FAIR Foundation\
-&emsp;14:30 - 14:45 Barbara: Past achievements\
-&emsp;14:45 - 15:30 Presentations by attendees\
-&emsp;15:30 - 16:00 Break\
-&emsp;16:00 - 16:15 Barbara: Planned activities\
-&emsp;16:15 - 16:30 Open Discussion\
-&emsp;16:30 - 17:00 Qualifications\
+&emsp;14:15 - 14:20 Bert: Welcome from GO FAIR Foundation\
+&emsp;14:20 - 14:35 Barbara: Past achievements\
+&emsp;14:35 - 15:30 Presentations by attendees\
+&emsp;15:30 - 15:45 Break\
+&emsp;15:45 - 16:00 Barbara: Planned activities\
+&emsp;16:00 - 16:45 Open Discussion\
+&emsp;16:45 - 17:30 Qualifications\
+
+18:30 GO FAIR Family Dinner
 
 To take part, please register [here](https://forms.gle/h6EEPvM2JsTJRxFh8).
 We are also looking for people who are willing to present about your project or share an idea, either in the morning or afternoon.\
